@@ -1,3 +1,5 @@
+"""Download the Northwind Google Sheet as an .xlsx snapshot."""
+
 import ssl
 import sys
 import urllib.request
@@ -14,6 +16,19 @@ OUT_PATH = ROOT / "data" / "raw" / "northwind.xlsx"
 
 
 def download(url, out_path):
+    """Download the workbook and save it, checking it is a real .xlsx.
+
+    Args:
+        url (str): Google Sheets export URL returning an .xlsx file.
+        out_path (pathlib.Path): Destination; overwritten if present.
+
+    Returns:
+        pathlib.Path: ``out_path``, after writing.
+
+    Raises:
+        RuntimeError: The response is not an .xlsx file, e.g. a sign-in
+            page because the sheet is not shared publicly.
+    """
     out_path.parent.mkdir(parents=True, exist_ok=True)
     # Use certifi's CA bundle; python.org builds on macOS ship without one.
     context = ssl.create_default_context(cafile=certifi.where())
@@ -30,6 +45,14 @@ def download(url, out_path):
 
 
 def main():
+    """Download the sheet unless a copy exists and no ``--force`` flag.
+
+    Args:
+        None.
+
+    Returns:
+        None. Writes ``data/raw/northwind.xlsx`` when downloading.
+    """
     force = "--force" in sys.argv
     if OUT_PATH.exists() and not force:
         print(f"Using existing {OUT_PATH.relative_to(ROOT)} "

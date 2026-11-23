@@ -1,3 +1,5 @@
+"""Q3: days to ship compared with the customer's deadline."""
+
 import pandas as pd
 import plotly.graph_objects as go
 
@@ -10,6 +12,17 @@ SHIP_LABELS = ["1–14 days", "15–28 days", "29+ days"]
 
 
 def build_orders(lines):
+    """Build one row per order with its deadline and shipping times.
+
+    Args:
+        lines (pandas.DataFrame): Order lines from ``load_lines``.
+
+    Returns:
+        pandas.DataFrame: Orders with ``DeadlineDays``, ``DaysToShip``,
+        ``DaysOfMargin`` (days shipped before the deadline; negative if
+        late), ``Late``, and the order's products joined by "; ".
+        Unshipped orders have NaN shipping fields.
+    """
     orders = lines.groupby("OrderID").agg(
         CustomerName=("CustomerName", "first"),
         EmployeeName=("EmployeeName", "first"),
@@ -32,6 +45,17 @@ def build_orders(lines):
 
 
 def ship_time_table(shipped):
+    """Count orders by deadline and shipping-time bucket.
+
+    Args:
+        shipped (pandas.DataFrame): Shipped orders, from
+            ``build_orders``.
+
+    Returns:
+        tuple[pandas.DataFrame, pandas.DataFrame]: Order counts, and the
+        same as shares of each deadline's orders; rows are deadlines in
+        days, columns are ``SHIP_LABELS``.
+    """
     s = shipped.assign(ShipTime=pd.cut(shipped["DaysToShip"], SHIP_BINS,
                                        labels=SHIP_LABELS))
     counts = pd.crosstab(s["DeadlineDays"], s["ShipTime"]).reindex(
@@ -41,6 +65,20 @@ def ship_time_table(shipped):
 
 
 def stacked_figure(shipped, counts, shares):
+    """Draw shipping-time shares per deadline, marking each deadline.
+
+    Args:
+        shipped (pandas.DataFrame): Shipped orders, from
+            ``build_orders``.
+        counts (pandas.DataFrame): Order counts, from
+            ``ship_time_table``.
+        shares (pandas.DataFrame): Order shares, from
+            ``ship_time_table``.
+
+    Returns:
+        plotly.graph_objects.Figure: 100% stacked bars, one per
+        deadline.
+    """
     windows = list(counts.index)
     late = shipped.groupby("DeadlineDays")["Late"].agg(["sum", "size"])
     rows = [f"{w}-day deadline<br>{late.loc[w, 'sum']} of "
@@ -90,6 +128,14 @@ def stacked_figure(shipped, counts, shares):
 
 
 def main():
+    """Run Q3: save its tables and key numbers, and return its chart.
+
+    Args:
+        None.
+
+    Returns:
+        plotly.graph_objects.Figure: The Q3 chart for the webpage.
+    """
     orders = build_orders(load_lines())
     shipped = orders.dropna(subset=["ShippedDate"])
     late = shipped[shipped["Late"]].sort_values("DaysOfMargin")

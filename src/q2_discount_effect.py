@@ -1,3 +1,5 @@
+"""Q2: units per order with and without a discount, same customers."""
+
 import pandas as pd
 import plotly.graph_objects as go
 
@@ -10,6 +12,17 @@ DEPTH_LABELS = ["About 5%", "About 10%", "15–20%", "About 25%"]
 
 
 def order_units(lines):
+    """Summarize each order's units and effective discount.
+
+    Args:
+        lines (pandas.DataFrame): Order lines from ``load_lines``.
+
+    Returns:
+        pandas.DataFrame: One row per order with ``Units``,
+        ``Discounted`` (any line discounted), ``DiscountRate``
+        (discount $ / pre-discount $), and ``Depth`` (discount-size
+        group; NaN for full-price orders).
+    """
     orders = lines.groupby(["OrderID", "CustomerID", "CustomerName"]).agg(
         Units=("Quantity", "sum"),
         GrossValue=("GrossRevenue", "sum"),
@@ -24,6 +37,22 @@ def order_units(lines):
 
 
 def same_customer_by_depth(orders):
+    """Compare customers' discounted and full-price orders.
+
+    Only customers with both kinds of order are kept, so each is
+    compared with themselves.
+
+    Args:
+        orders (pandas.DataFrame): Orders from ``order_units``.
+
+    Returns:
+        tuple[pandas.DataFrame, pandas.DataFrame]:
+        - Per customer and discount size: average units on discounted
+          orders, usual full-price units, and ``BuysMore``.
+        - Per discount size: averages across those customers, ``Lift``
+          (fractional change in units), and ``BreakEvenUnits`` (units
+          needed to bring in the usual money at that discount).
+    """
     # Each discounted order's customer is compared with their own average
     # full-price order, so only customers with both kinds are kept.
     full_price = orders[~orders["Discounted"]].groupby("CustomerID")[
@@ -57,6 +86,16 @@ def same_customer_by_depth(orders):
 
 
 def bar_figure(tiers):
+    """Draw usual vs. discounted units by discount size.
+
+    Args:
+        tiers (pandas.DataFrame): Per-discount-size table from
+            ``same_customer_by_depth``.
+
+    Returns:
+        plotly.graph_objects.Figure: Grouped bars with a break-even mark
+        over each discounted bar.
+    """
     x = [f"{t}<br>({n} customers)" for t, n in
          zip(tiers["Depth"], tiers["Customers"])]
     fig = go.Figure()
@@ -101,6 +140,14 @@ def bar_figure(tiers):
 
 
 def main():
+    """Run Q2: save its tables and key numbers, and return its chart.
+
+    Args:
+        None.
+
+    Returns:
+        plotly.graph_objects.Figure: The Q2 chart for the webpage.
+    """
     orders = order_units(load_lines())
     per_customer, tiers = same_customer_by_depth(orders)
 

@@ -1,3 +1,5 @@
+"""Q1: discount each rep gave beyond the same customers' usual."""
+
 import numpy as np
 import plotly.graph_objects as go
 
@@ -8,6 +10,20 @@ MIN_REPS = 2
 
 
 def customer_rep_gaps(lines):
+    """Compare each rep's discount with each customer's usual discount.
+
+    Keeps only customers served by at least ``MIN_REPS`` reps who
+    received some discount.
+
+    Args:
+        lines (pandas.DataFrame): Order lines from ``load_lines``.
+
+    Returns:
+        pandas.DataFrame: One row per customer and rep, with the rep's
+        ``DiscountRate``, the customer's ``CustomerAvgRate``, and
+        ``ExtraDiscount``: the gap in dollars on the rep's pre-discount
+        sales to that customer (positive = more than usual).
+    """
     cr = lines.groupby(["CustomerID", "CustomerName", "EmployeeName"]).agg(
         Orders=("OrderID", "nunique"),
         GrossRevenue=("GrossRevenue", "sum"),
@@ -33,6 +49,17 @@ def customer_rep_gaps(lines):
 
 
 def rep_summary(cr):
+    """Total each rep's extra discount across their customers.
+
+    Args:
+        cr (pandas.DataFrame): Customer-rep rows from
+            ``customer_rep_gaps``.
+
+    Returns:
+        pandas.DataFrame: One row per rep, sorted by ``ExtraDiscount``
+        ascending, with customer counts, ``CustomersAbove`` (customers
+        given more than usual), and the rep's overall ``DiscountRate``.
+    """
     reps = cr.groupby("EmployeeName").agg(
         Customers=("CustomerID", "nunique"),
         ExtraDiscount=("ExtraDiscount", "sum"),
@@ -46,6 +73,15 @@ def rep_summary(cr):
 
 
 def bar_figure(reps):
+    """Draw each rep's extra discount as a horizontal bar chart.
+
+    Args:
+        reps (pandas.DataFrame): Rep summary from ``rep_summary``.
+
+    Returns:
+        plotly.graph_objects.Figure: Bars in dollars; orange above the
+        customers' norm, blue below.
+    """
     extra = reps["ExtraDiscount"]
     fig = go.Figure()
     fig.add_bar(
@@ -79,6 +115,14 @@ def bar_figure(reps):
 
 
 def main():
+    """Run Q1: save its tables and key numbers, and return its chart.
+
+    Args:
+        None.
+
+    Returns:
+        plotly.graph_objects.Figure: The Q1 chart for the webpage.
+    """
     lines = load_lines()
     cr = customer_rep_gaps(lines)
     reps = rep_summary(cr)

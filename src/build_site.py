@@ -1,3 +1,5 @@
+"""Build the webpage (docs/index.html) from the three analyses."""
+
 import json
 from html import escape
 
@@ -17,29 +19,82 @@ CHART_CONFIG = {"displayModeBar": False, "responsive": True}
 
 
 def load_results():
+    """Load the key numbers each analysis saved.
+
+    Args:
+        None.
+
+    Returns:
+        dict[str, dict]: Results keyed ``"q1"``, ``"q2"``, ``"q3"``.
+    """
     return {q: json.loads((RESULT_DIR / f"{q}.json").read_text())
             for q in ["q1", "q2", "q3"]}
 
 
 def chart(fig):
+    """Render a chart as an HTML fragment that fills its container.
+
+    Args:
+        fig (plotly.graph_objects.Figure): Chart; its layout is changed
+            in place to autosize.
+
+    Returns:
+        str: HTML ``<div>`` for the chart; plotly.js is loaded
+        separately by the page.
+    """
     fig.update_layout(width=None, autosize=True)
     return fig.to_html(full_html=False, include_plotlyjs=False,
                        config=CHART_CONFIG, default_width="100%")
 
 
 def money(v):
+    """Format an amount as whole dollars.
+
+    Args:
+        v (float): Amount in dollars.
+
+    Returns:
+        str: E.g. ``"$5,680"``.
+    """
     return f"${v:,.0f}"
 
 
 def signed_money(v):
+    """Format an amount as whole dollars with a + or − sign.
+
+    Args:
+        v (float): Amount in dollars; zero gets "+".
+
+    Returns:
+        str: E.g. ``"+$5,680"`` or ``"−$751"`` (Unicode minus).
+    """
     return f"{'+' if v >= 0 else '−'}${abs(v):,.0f}"
 
 
 def pct(v, digits=0):
+    """Format a fraction as a percentage.
+
+    Args:
+        v (float): Fraction, e.g. 0.176.
+        digits (int): Decimal places to show.
+
+    Returns:
+        str: E.g. ``"18%"``.
+    """
     return f"{100 * v:.{digits}f}%"
 
 
 def overview():
+    """Summarize the dataset for the page header.
+
+    Args:
+        None.
+
+    Returns:
+        dict: ``orders`` and ``customers`` (counts), ``net`` (sales
+        after discounts, $), and ``start`` / ``end`` (first and last
+        order dates, as pandas Timestamps).
+    """
     lines = load_lines()
     return {
         "orders": lines["OrderID"].nunique(),
@@ -51,6 +106,20 @@ def overview():
 
 
 def section(num, title, why, approach, chart_html, finding, implication):
+    """Lay out one question as an HTML section.
+
+    Args:
+        num (int): Question number; also sets the anchor ``#q<num>``.
+        title (str): The question.
+        why (str): HTML for "Why it matters".
+        approach (str): HTML for "Approach".
+        chart_html (str): HTML for the chart, from ``chart``.
+        finding (str): HTML for "Main finding".
+        implication (str): HTML for "Business implication".
+
+    Returns:
+        str: HTML ``<section>``.
+    """
     return f"""
 <section class="question" id="q{num}">
   <p class="eyebrow">Question {num}</p>
@@ -68,6 +137,15 @@ def section(num, title, why, approach, chart_html, finding, implication):
 
 
 def q1_section(r, fig):
+    """Write the Q1 section with numbers from its results.
+
+    Args:
+        r (dict): Q1 results from ``load_results``.
+        fig (plotly.graph_objects.Figure): Q1 chart.
+
+    Returns:
+        str: HTML ``<section>`` for Q1.
+    """
     extra = r["extra_discount_by_rep"]
     why = f"""<p>Northwind gave away {money(r['total_discount'])} in
     discounts, {pct(r['overall_discount_rate'], 1)} of sales before
@@ -104,6 +182,15 @@ def q1_section(r, fig):
 
 
 def q2_section(r, fig):
+    """Write the Q2 section with numbers from its results.
+
+    Args:
+        r (dict): Q2 results from ``load_results``.
+        fig (plotly.graph_objects.Figure): Q2 chart.
+
+    Returns:
+        str: HTML ``<section>`` for Q2.
+    """
     t = r["by_depth"]
     five, ten, mid, deep = (t["About 5%"], t["About 10%"], t["15–20%"],
                             t["About 25%"])
@@ -141,6 +228,15 @@ def q2_section(r, fig):
 
 
 def q3_section(r, fig):
+    """Write the Q3 section with numbers from its results.
+
+    Args:
+        r (dict): Q3 results from ``load_results``.
+        fig (plotly.graph_objects.Figure): Q3 chart.
+
+    Returns:
+        str: HTML ``<section>`` for Q3.
+    """
     late = r["late_counts_by_deadline"]
     n = r["orders_by_deadline"]
     days = r["median_days_to_ship_by_deadline"]
@@ -173,6 +269,17 @@ def q3_section(r, fig):
 
 
 def page(results, ov, figures):
+    """Assemble the full webpage.
+
+    Args:
+        results (dict[str, dict]): Results from ``load_results``.
+        ov (dict): Dataset summary from ``overview``.
+        figures (dict[str, plotly.graph_objects.Figure]): Charts keyed
+            ``"q1"``, ``"q2"``, ``"q3"``.
+
+    Returns:
+        str: Complete HTML document.
+    """
     q1, q2, q3 = results["q1"], results["q2"], results["q3"]
     deep = q2["by_depth"]["About 25%"]
     late14 = q3["late_counts_by_deadline"]["14"] / \
@@ -292,6 +399,16 @@ footer {{ color: var(--muted); font-size: 14px; margin-top: 48px; }}
 
 
 def main(figures=None):
+    """Build ``docs/index.html`` from the three analyses.
+
+    Args:
+        figures (dict[str, plotly.graph_objects.Figure] | None): Charts
+            keyed ``"q1"``-``"q3"``; if None, reruns the three analyses
+            to make them (which also rewrites their outputs).
+
+    Returns:
+        None. Writes ``docs/index.html`` and ``docs/.nojekyll``.
+    """
     # run_all passes the charts in; run on its own, rerun the analyses.
     if figures is None:
         figures = {"q1": q1_rep_discounts.main(),

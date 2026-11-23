@@ -1,3 +1,5 @@
+"""Run the whole pipeline: download, clean, analyze, build webpage."""
+
 import build_site
 import clean_data
 import download_data
@@ -7,6 +9,14 @@ import q3_late_shipments
 
 
 def main():
+    """Run every step in order and build the webpage.
+
+    Args:
+        None.
+
+    Returns:
+        None. Writes ``data/``, ``output/``, and ``docs/``.
+    """
     print("\n=== Download data ===")
     download_data.main()
     print("\n=== Clean data ===")

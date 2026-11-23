@@ -1,3 +1,5 @@
+"""Clean the Northwind workbook, check keys, and build order lines."""
+
 from pathlib import Path
 
 import pandas as pd
@@ -23,6 +25,15 @@ PRODUCT_EXTRA_COLS = ["Cheap", "Cheap.1", "NewPrice", "NewPrice.1", "IsCheap"]
 
 
 def load_raw(path):
+    """Read every workbook tab, dropping blank "Unnamed" columns.
+
+    Args:
+        path (pathlib.Path): Northwind .xlsx workbook.
+
+    Returns:
+        dict[str, pandas.DataFrame]: Tables keyed by the names in
+        ``TABLES`` (e.g. ``"order_details"``).
+    """
     sheets = pd.read_excel(path, sheet_name=None)
     tables = {}
     for tab, name in TABLES.items():
@@ -33,6 +44,18 @@ def load_raw(path):
 
 
 def clean_tables(tables):
+    """Return cleaned copies of the raw tables.
+
+    Drops empty and non-Northwind columns, parses dates, rounds
+    discounts to 2 decimals, and renames ``Price`` to ``ListPrice``.
+
+    Args:
+        tables (dict[str, pandas.DataFrame]): Raw tables from
+            ``load_raw``; not modified.
+
+    Returns:
+        dict[str, pandas.DataFrame]: Cleaned tables, same keys.
+    """
     t = {name: df.copy() for name, df in tables.items()}
 
     t["categories"] = t["categories"].drop(columns=["Picture"])
@@ -58,7 +81,35 @@ def clean_tables(tables):
 
 
 def check_integrity(t):
+    """Check keys and values across the cleaned tables.
+
+    Args:
+        t (dict[str, pandas.DataFrame]): Cleaned tables from
+            ``clean_tables``.
+
+    Returns:
+        None.
+
+    Raises:
+        AssertionError: A primary key is duplicated, a foreign key has
+            no matching row, or a quantity, price, or discount is out
+            of range.
+    """
     def assert_fk(child, col, parent, key):
+        """Check every foreign-key value exists in the parent table.
+
+        Args:
+            child (str): Name of the table holding the foreign key.
+            col (str): Foreign-key column in ``child``; blanks ignored.
+            parent (str): Name of the referenced table.
+            key (str): Key column in ``parent``.
+
+        Returns:
+            None.
+
+        Raises:
+            AssertionError: Values in ``col`` are missing from ``key``.
+        """
         missing = set(t[child][col].dropna()) - set(t[parent][key])
         assert not missing, f"{child}.{col} not in {parent}: {missing}"
 
@@ -86,6 +137,21 @@ def check_integrity(t):
 
 
 def build_order_lines(t):
+    """Join all tables into one row per order line, with revenue.
+
+    Args:
+        t (dict[str, pandas.DataFrame]): Cleaned tables from
+            ``clean_tables``.
+
+    Returns:
+        pandas.DataFrame: Order lines with order, customer, rep,
+        product, category, supplier, and shipper details, plus
+        ``GrossRevenue``, ``NetRevenue``, ``DiscountAmount``,
+        ``OrderMonth``, ``DaysToShip``, and ``ShippedLate``.
+
+    Raises:
+        AssertionError: The joins changed the number of rows.
+    """
     employees = t["employees"].assign(
         EmployeeName=lambda e: e["FirstName"] + " " + e["LastName"]
     )
@@ -135,6 +201,14 @@ def build_order_lines(t):
 
 
 def main():
+    """Clean the workbook, run the checks, and write ``data/clean``.
+
+    Args:
+        None.
+
+    Returns:
+        None. Writes one CSV per table plus ``order_lines.csv``.
+    """
     tables = clean_tables(load_raw(RAW_PATH))
     check_integrity(tables)
     lines = build_order_lines(tables)
