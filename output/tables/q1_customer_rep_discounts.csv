@@ -1,0 +1,328 @@
+CustomerID,CustomerName,EmployeeName,Orders,GrossRevenue,DiscountAmount,DiscountRate,CustomerAvgRate,RepsForCustomer,ExtraDiscount
+ALFKI,Alfreds Futterkiste,Janet Leverling,1,960.0,26.5,0.0276,0.0703,4,-41.0062
+ALFKI,Alfreds Futterkiste,Margaret Peacock,2,1208.0,0.0,0.0,0.0703,4,-84.9453
+ALFKI,Alfreds Futterkiste,Michael Suyama,1,1086.0,271.5,0.25,0.0703,4,195.1336
+ALFKI,Alfreds Futterkiste,Nancy Davolio,2,1342.2,25.2,0.0188,0.0703,4,-69.1821
+ANTON,Antonio Moreno Taquería,Janet Leverling,3,1438.7,0.0,0.0,0.0654,4,-94.0658
+ANTON,Antonio Moreno Taquería,Margaret Peacock,1,2156.5,215.65,0.1,0.0654,4,74.6526
+ANTON,Antonio Moreno Taquería,Nancy Davolio,1,956.9,143.535,0.15,0.0654,4,80.9705
+ANTON,Antonio Moreno Taquería,Robert King,2,2963.25,132.1875,0.0446,0.0654,4,-61.5572
+AROUT,Around the Horn,Anne Dodsworth,2,5166.5,233.75,0.0452,0.0301,6,78.1357
+AROUT,Around the Horn,Janet Leverling,2,1668.1,0.0,0.0,0.0301,6,-50.243
+AROUT,Around the Horn,Laura Callahan,1,899.0,0.0,0.0,0.0301,6,-27.0778
+AROUT,Around the Horn,Margaret Peacock,4,2661.0,120.0,0.0451,0.0301,6,39.851
+AROUT,Around the Horn,Michael Suyama,1,480.0,0.0,0.0,0.0301,6,-14.4575
+AROUT,Around the Horn,Nancy Davolio,3,2931.9,62.1,0.0212,0.0301,6,-26.2085
+BERGS,Berglunds snabbköp,Andrew Fuller,1,613.2,0.0,0.0,0.0757,7,-46.3984
+BERGS,Berglunds snabbköp,Anne Dodsworth,2,5464.5,584.75,0.107,0.0757,7,171.273
+BERGS,Berglunds snabbköp,Janet Leverling,6,7125.65,263.365,0.037,0.0757,7,-275.8046
+BERGS,Berglunds snabbköp,Laura Callahan,2,4119.75,582.7375,0.1414,0.0757,7,271.0124
+BERGS,Berglunds snabbköp,Margaret Peacock,1,729.5,19.95,0.0273,0.0757,7,-35.2484
+BERGS,Berglunds snabbköp,Nancy Davolio,4,6785.25,157.5,0.0232,0.0757,7,-355.9128
+BERGS,Berglunds snabbköp,Steven Buchanan,2,2130.3,432.27,0.2029,0.0757,7,271.0787
+BLONP,Blondel père et fils,Andrew Fuller,1,1176.0,0.0,0.0,0.029,7,-34.1267
+BLONP,Blondel père et fils,Anne Dodsworth,1,2040.0,279.0,0.1368,0.029,7,219.8007
+BLONP,Blondel père et fils,Janet Leverling,2,4049.0,216.28,0.0534,0.029,7,98.7809
+BLONP,Blondel père et fils,Laura Callahan,1,660.0,0.0,0.0,0.029,7,-19.1527
+BLONP,Blondel père et fils,Margaret Peacock,3,8465.2,31.25,0.0037,0.029,7,-214.404
+BLONP,Blondel père et fils,Michael Suyama,2,1277.8,27.39,0.0214,0.029,7,-9.6908
+BLONP,Blondel père et fils,Steven Buchanan,1,1420.0,0.0,0.0,0.029,7,-41.2074
+BOLID,Bólido Comidas preparadas,Anne Dodsworth,1,280.0,56.0,0.2,0.201,2,-0.2849
+BOLID,Bólido Comidas preparadas,Margaret Peacock,2,5017.8,1008.95,0.2011,0.201,2,0.2849
+BONAP,Bon app',Andrew Fuller,1,2032.0,101.6,0.05,0.0791,8,-59.2238
+BONAP,Bon app',Anne Dodsworth,2,2171.9,104.17,0.048,0.0791,8,-67.7263
+BONAP,Bon app',Janet Leverling,3,3205.6,0.0,0.0,0.0791,8,-253.7091
+BONAP,Bon app',Laura Callahan,2,2285.5,136.87,0.0599,0.0791,8,-44.0172
+BONAP,Bon app',Margaret Peacock,4,8475.8,1363.75,0.1609,0.0791,8,692.9278
+BONAP,Bon app',Nancy Davolio,3,4253.4,155.82,0.0366,0.0791,8,-180.8179
+BONAP,Bon app',Robert King,1,917.0,0.0,0.0,0.0791,8,-72.5765
+BONAP,Bon app',Steven Buchanan,1,509.75,25.4875,0.05,0.0791,8,-14.857
+BOTTM,Bottom-Dollar Markets,Andrew Fuller,2,5436.0,0.0,0.0,0.0799,7,-434.275
+BOTTM,Bottom-Dollar Markets,Anne Dodsworth,1,1208.5,241.7,0.2,0.0799,7,145.1545
+BOTTM,Bottom-Dollar Markets,Janet Leverling,4,6746.0,527.3,0.0782,0.0799,7,-11.6292
+BOTTM,Bottom-Dollar Markets,Margaret Peacock,2,4355.8,630.75,0.1448,0.0799,7,282.7708
+BOTTM,Bottom-Dollar Markets,Michael Suyama,2,2448.6,113.775,0.0465,0.0799,7,-81.8405
+BOTTM,Bottom-Dollar Markets,Nancy Davolio,2,1887.8,292.575,0.155,0.0799,7,141.7611
+BOTTM,Bottom-Dollar Markets,Robert King,1,525.0,0.0,0.0,0.0799,7,-41.9416
+CHOPS,Chop-suey Chinese,Janet Leverling,1,1887.0,114.0,0.0604,0.0417,6,35.3031
+CHOPS,Chop-suey Chinese,Margaret Peacock,2,2542.4,157.14,0.0618,0.0417,6,51.1098
+CHOPS,Chop-suey Chinese,Michael Suyama,2,3530.0,98.2,0.0278,0.0417,6,-49.0178
+CHOPS,Chop-suey Chinese,Nancy Davolio,1,2311.7,0.0,0.0,0.0417,6,-96.4089
+CHOPS,Chop-suey Chinese,Robert King,1,1990.0,99.5,0.05,0.0417,6,16.5075
+CHOPS,Chop-suey Chinese,Steven Buchanan,1,625.2,68.58,0.1097,0.0417,6,42.5062
+EASTC,Eastern Connection,Laura Callahan,2,6512.0,0.0,0.0,0.0181,4,-118.0906
+EASTC,Eastern Connection,Margaret Peacock,2,2621.81,0.0,0.0,0.0181,4,-47.5447
+EASTC,Eastern Connection,Nancy Davolio,2,4013.0,0.0,0.0,0.0181,4,-72.773
+EASTC,Eastern Connection,Robert King,2,1886.85,272.625,0.1445,0.0181,4,238.4083
+ERNSH,Ernst Handel,Andrew Fuller,3,13065.2,2361.57,0.1808,0.0738,8,1396.8004
+ERNSH,Ernst Handel,Anne Dodsworth,3,9558.8,591.0,0.0618,0.0738,8,-114.8475
+ERNSH,Ernst Handel,Janet Leverling,4,20284.85,523.5,0.0258,0.0738,8,-974.388
+ERNSH,Ernst Handel,Laura Callahan,4,10674.0,438.4125,0.0411,0.0738,8,-349.7844
+ERNSH,Ernst Handel,Margaret Peacock,5,18520.63,1211.9715,0.0654,0.0738,8,-155.6417
+ERNSH,Ernst Handel,Michael Suyama,2,4815.2,438.32,0.091,0.0738,8,82.7527
+ERNSH,Ernst Handel,Nancy Davolio,5,18304.95,1217.67,0.0665,0.0738,8,-134.0168
+ERNSH,Ernst Handel,Robert King,4,18013.05,1579.2575,0.0877,0.0738,8,249.1254
+FAMIA,Familia Arquibaldo,Andrew Fuller,1,231.4,6.57,0.0284,0.0746,6,-10.7033
+FAMIA,Familia Arquibaldo,Anne Dodsworth,1,166.0,0.0,0.0,0.0746,6,-12.3914
+FAMIA,Familia Arquibaldo,Janet Leverling,1,387.5,77.5,0.2,0.0746,6,48.5743
+FAMIA,Familia Arquibaldo,Margaret Peacock,2,1215.8,113.58,0.0934,0.0746,6,22.8243
+FAMIA,Familia Arquibaldo,Robert King,1,618.0,92.7,0.15,0.0746,6,46.5682
+FAMIA,Familia Arquibaldo,Steven Buchanan,1,1820.2,41.0,0.0225,0.0746,6,-94.8722
+FOLKO,Folk och fä HB,Andrew Fuller,3,7876.0,452.5,0.0575,0.0918,8,-270.3687
+FOLKO,Folk och fä HB,Janet Leverling,2,4697.0,38.88,0.0083,0.0918,8,-392.2163
+FOLKO,Folk och fä HB,Laura Callahan,6,6006.8,240.3,0.04,0.0918,8,-311.0113
+FOLKO,Folk och fä HB,Margaret Peacock,2,1185.0,68.25,0.0576,0.0918,8,-40.5107
+FOLKO,Folk och fä HB,Michael Suyama,2,3269.5,28.875,0.0088,0.0918,8,-271.2036
+FOLKO,Folk och fä HB,Nancy Davolio,1,1015.8,152.37,0.15,0.0918,8,59.1387
+FOLKO,Folk och fä HB,Robert King,2,8402.25,2006.8125,0.2388,0.0918,8,1235.6439
+FOLKO,Folk och fä HB,Steven Buchanan,1,103.2,0.0,0.0,0.0918,8,-9.4718
+FRANK,Frankenversand,Laura Callahan,3,4247.05,325.675,0.0767,0.0719,5,20.1661
+FRANK,Frankenversand,Margaret Peacock,4,11100.55,954.56,0.086,0.0719,5,156.0488
+FRANK,Frankenversand,Michael Suyama,2,3100.81,96.303,0.0311,0.0719,5,-126.7519
+FRANK,Frankenversand,Nancy Davolio,5,8851.3,689.6125,0.0779,0.0719,5,52.8997
+FRANK,Frankenversand,Steven Buchanan,1,1423.0,0.0,0.0,0.0719,5,-102.3626
+FURIB,Furia Bacalhau e Frutos do Mar,Anne Dodsworth,1,68.0,10.2,0.15,0.1013,5,3.3147
+FURIB,Furia Bacalhau e Frutos do Mar,Janet Leverling,1,154.0,17.7,0.1149,0.1013,5,2.1068
+FURIB,Furia Bacalhau e Frutos do Mar,Laura Callahan,1,305.3,45.795,0.15,0.1013,5,14.882
+FURIB,Furia Bacalhau e Frutos do Mar,Margaret Peacock,3,4852.0,397.42,0.0819,0.1013,5,-93.8674
+FURIB,Furia Bacalhau e Frutos do Mar,Nancy Davolio,2,1772.25,253.0125,0.1428,0.1013,5,73.564
+GODOS,Godos Cocina Típica,Andrew Fuller,1,702.0,85.5,0.1218,0.0324,6,62.7288
+GODOS,Godos Cocina Típica,Janet Leverling,2,3220.25,0.0,0.0,0.0324,6,-104.4572
+GODOS,Godos Cocina Típica,Margaret Peacock,1,2775.05,0.0,0.0,0.0324,6,-90.0159
+GODOS,Godos Cocina Típica,Nancy Davolio,1,605.0,0.0,0.0,0.0324,6,-19.6247
+GODOS,Godos Cocina Típica,Robert King,3,2051.0,189.9,0.0926,0.0324,6,123.3705
+GODOS,Godos Cocina Típica,Steven Buchanan,2,2476.8,108.34,0.0437,0.0324,6,27.9986
+GOURL,Gourmet Lanchonetes,Andrew Fuller,1,1498.35,0.0,0.0,0.0331,6,-49.6042
+GOURL,Gourmet Lanchonetes,Janet Leverling,1,342.0,68.4,0.2,0.0331,6,57.0778
+GOURL,Gourmet Lanchonetes,Margaret Peacock,2,1132.88,12.945,0.0114,0.0331,6,-24.56
+GOURL,Gourmet Lanchonetes,Michael Suyama,3,2025.0,150.75,0.0744,0.0331,6,83.7106
+GOURL,Gourmet Lanchonetes,Nancy Davolio,1,3424.0,0.0,0.0,0.0331,6,-113.3545
+GOURL,Gourmet Lanchonetes,Robert King,1,280.0,56.0,0.2,0.0331,6,46.7304
+GREAL,Great Lakes Food Market,Janet Leverling,3,2288.58,215.495,0.0942,0.0611,5,75.7406
+GREAL,Great Lakes Food Market,Laura Callahan,1,72.0,0.0,0.0,0.0611,5,-4.3968
+GREAL,Great Lakes Food Market,Margaret Peacock,4,11251.0,692.05,0.0615,0.0611,5,4.9964
+GREAL,Great Lakes Food Market,Michael Suyama,2,1067.55,71.135,0.0666,0.0611,5,5.944
+GREAL,Great Lakes Food Market,Nancy Davolio,1,5032.0,225.0,0.0447,0.0611,5,-82.2841
+HANAR,Hanari Carnes,Andrew Fuller,1,2162.8,216.28,0.1,0.0369,7,136.3809
+HANAR,Hanari Carnes,Anne Dodsworth,1,1402.0,0.0,0.0,0.0369,7,-51.7933
+HANAR,Hanari Carnes,Janet Leverling,4,4600.85,416.85,0.0906,0.0369,7,246.8833
+HANAR,Hanari Carnes,Laura Callahan,1,315.0,78.75,0.25,0.0369,7,67.1131
+HANAR,Hanari Carnes,Margaret Peacock,3,4790.5,260.4,0.0544,0.0369,7,83.4272
+HANAR,Hanari Carnes,Nancy Davolio,3,20087.5,287.5,0.0143,0.0369,7,-454.5814
+HANAR,Hanari Carnes,Steven Buchanan,1,742.5,0.0,0.0,0.0369,7,-27.4298
+HILAA,HILARIÓN-Abastos,Andrew Fuller,1,880.5,0.0,0.0,0.0357,8,-31.4295
+HILAA,HILARIÓN-Abastos,Anne Dodsworth,1,378.0,0.0,0.0,0.0357,8,-13.4927
+HILAA,HILARIÓN-Abastos,Janet Leverling,2,3154.68,547.966,0.1737,0.0357,8,435.3596
+HILAA,HILARIÓN-Abastos,Laura Callahan,3,2520.1,1.92,0.0008,0.0357,8,-88.035
+HILAA,HILARIÓN-Abastos,Margaret Peacock,5,4985.4,82.65,0.0166,0.0357,8,-95.304
+HILAA,HILARIÓN-Abastos,Michael Suyama,1,2333.2,210.28,0.0901,0.0357,8,126.9964
+HILAA,HILARIÓN-Abastos,Nancy Davolio,2,2184.0,0.0,0.0,0.0357,8,-77.9579
+HILAA,HILARIÓN-Abastos,Robert King,3,7175.7,0.0,0.0,0.0357,8,-256.1368
+HUNGO,Hungry Owl All-Night Grocers,Andrew Fuller,3,13130.1,2525.12,0.1923,0.128,8,844.2704
+HUNGO,Hungry Owl All-Night Grocers,Anne Dodsworth,3,9126.9,1723.0,0.1888,0.128,8,554.62
+HUNGO,Hungry Owl All-Night Grocers,Janet Leverling,5,17029.64,414.595,0.0243,0.128,8,-1765.4542
+HUNGO,Hungry Owl All-Night Grocers,Laura Callahan,1,1419.8,105.98,0.0746,0.128,8,-75.7757
+HUNGO,Hungry Owl All-Night Grocers,Margaret Peacock,1,1708.0,341.6,0.2,0.128,8,122.9504
+HUNGO,Hungry Owl All-Night Grocers,Michael Suyama,3,8545.5,987.5,0.1156,0.128,8,-106.4521
+HUNGO,Hungry Owl All-Night Grocers,Nancy Davolio,1,3109.0,590.0,0.1898,0.128,8,192.0014
+HUNGO,Hungry Owl All-Night Grocers,Robert King,2,3248.45,649.69,0.2,0.128,8,233.8397
+KOENE,Königlich Essen,Andrew Fuller,2,3744.0,0.0,0.0,0.0264,6,-98.7565
+KOENE,Königlich Essen,Anne Dodsworth,4,8601.25,162.021,0.0188,0.0264,6,-64.8564
+KOENE,Königlich Essen,Janet Leverling,2,12208.3,537.855,0.0441,0.0264,6,215.8335
+KOENE,Königlich Essen,Laura Callahan,1,656.0,98.4,0.15,0.0264,6,81.0965
+KOENE,Königlich Essen,Margaret Peacock,1,164.4,0.0,0.0,0.0264,6,-4.3364
+KOENE,Königlich Essen,Nancy Davolio,4,6371.8,39.09,0.0061,0.0264,6,-128.9806
+LAMAI,La maison d'Asie,Andrew Fuller,2,3329.75,231.88,0.0696,0.0919,8,-74.1633
+LAMAI,La maison d'Asie,Janet Leverling,1,2123.2,0.0,0.0,0.0919,8,-195.1471
+LAMAI,La maison d'Asie,Laura Callahan,2,461.0,105.95,0.2298,0.0919,8,63.5787
+LAMAI,La maison d'Asie,Margaret Peacock,2,1090.0,150.4,0.138,0.0919,8,50.2162
+LAMAI,La maison d'Asie,Michael Suyama,3,1744.2,218.88,0.1255,0.0919,8,58.5675
+LAMAI,La maison d'Asie,Nancy Davolio,1,91.2,18.24,0.2,0.0919,8,9.8576
+LAMAI,La maison d'Asie,Robert King,2,981.0,196.2,0.2,0.0919,8,106.0345
+LAMAI,La maison d'Asie,Steven Buchanan,1,452.0,22.6,0.05,0.0919,8,-18.9441
+LEHMS,Lehmanns Marktstand,Andrew Fuller,1,1873.5,243.525,0.13,0.0949,6,65.6465
+LEHMS,Lehmanns Marktstand,Anne Dodsworth,1,1152.5,0.0,0.0,0.0949,6,-109.4235
+LEHMS,Lehmanns Marktstand,Janet Leverling,4,6731.87,467.1825,0.0694,0.0949,6,-171.9713
+LEHMS,Lehmanns Marktstand,Laura Callahan,3,1566.4,168.7,0.1077,0.0949,6,19.979
+LEHMS,Lehmanns Marktstand,Margaret Peacock,3,5695.8,623.185,0.1094,0.0949,6,82.4003
+LEHMS,Lehmanns Marktstand,Robert King,3,4261.95,518.0175,0.1215,0.0949,6,113.3689
+LETSS,Let's Stop N Shop,Laura Callahan,1,1125.67,281.4175,0.25,0.1185,4,148.032
+LETSS,Let's Stop N Shop,Margaret Peacock,1,1450.6,72.53,0.05,0.1185,4,-99.3578
+LETSS,Let's Stop N Shop,Michael Suyama,1,596.0,59.6,0.1,0.1185,4,-11.0226
+LETSS,Let's Stop N Shop,Nancy Davolio,1,317.75,0.0,0.0,0.1185,4,-37.6516
+LILAS,LILA-Supermercado,Andrew Fuller,1,720.0,0.0,0.0,0.0981,7,-70.6248
+LILAS,LILA-Supermercado,Janet Leverling,3,3466.8,291.0,0.0839,0.0981,7,-49.0584
+LILAS,LILA-Supermercado,Laura Callahan,3,4002.56,423.64,0.1058,0.0981,7,31.0289
+LILAS,LILA-Supermercado,Margaret Peacock,1,1412.0,0.0,0.0,0.0981,7,-138.5031
+LILAS,LILA-Supermercado,Michael Suyama,1,1050.6,0.0,0.0,0.0981,7,-103.0533
+LILAS,LILA-Supermercado,Nancy Davolio,3,3921.6,730.72,0.1863,0.0981,7,346.0503
+LILAS,LILA-Supermercado,Steven Buchanan,2,3251.5,303.1,0.0932,0.0981,7,-15.8396
+LINOD,LINO-Delicateses,Andrew Fuller,2,1393.0,27.02,0.0194,0.079,6,-83.0045
+LINOD,LINO-Delicateses,Janet Leverling,3,6378.45,914.6,0.1434,0.079,6,410.8057
+LINOD,LINO-Delicateses,Laura Callahan,2,2702.0,0.0,0.0,0.079,6,-213.4143
+LINOD,LINO-Delicateses,Margaret Peacock,2,2024.0,228.8,0.113,0.079,6,68.9367
+LINOD,LINO-Delicateses,Nancy Davolio,2,3490.0,0.0,0.0,0.079,6,-275.6535
+LINOD,LINO-Delicateses,Steven Buchanan,1,1902.1,242.565,0.1275,0.079,6,92.3299
+MAGAA,Magazzini Alimentari Riuniti,Andrew Fuller,3,3033.0,196.25,0.0647,0.0562,6,25.6763
+MAGAA,Magazzini Alimentari Riuniti,Laura Callahan,2,1615.45,54.025,0.0334,0.0562,6,-36.8267
+MAGAA,Magazzini Alimentari Riuniti,Margaret Peacock,1,1650.0,162.0,0.0982,0.0562,6,69.2052
+MAGAA,Magazzini Alimentari Riuniti,Michael Suyama,1,55.2,0.0,0.0,0.0562,6,-3.1044
+MAGAA,Magazzini Alimentari Riuniti,Nancy Davolio,2,417.2,15.36,0.0368,0.0562,6,-8.103
+MAGAA,Magazzini Alimentari Riuniti,Robert King,1,833.0,0.0,0.0,0.0562,6,-46.8473
+MAISD,Maison Dewey,Anne Dodsworth,1,1500.7,197.505,0.1316,0.0666,5,97.5831
+MAISD,Maison Dewey,Janet Leverling,1,295.38,0.0,0.0,0.0666,5,-19.6674
+MAISD,Maison Dewey,Margaret Peacock,2,5504.0,497.0,0.0903,0.0666,5,130.5242
+MAISD,Maison Dewey,Robert King,1,750.5,0.0,0.0,0.0666,5,-49.971
+MAISD,Maison Dewey,Steven Buchanan,2,2380.0,0.0,0.0,0.0666,5,-158.4688
+MEREP,Mère Paillarde,Andrew Fuller,1,3463.2,109.2,0.0315,0.1035,7,-249.0913
+MEREP,Mère Paillarde,Janet Leverling,4,6236.5,576.47,0.0924,0.1035,7,-68.7379
+MEREP,Mère Paillarde,Laura Callahan,2,1349.5,71.1,0.0527,0.1035,7,-68.5148
+MEREP,Mère Paillarde,Margaret Peacock,1,1140.0,39.0,0.0342,0.1035,7,-78.9407
+MEREP,Mère Paillarde,Michael Suyama,1,1078.0,0.0,0.0,0.1035,7,-111.5263
+MEREP,Mère Paillarde,Nancy Davolio,3,7443.5,237.3,0.0319,0.1035,7,-532.7801
+MEREP,Mère Paillarde,Robert King,1,11493.2,2298.64,0.2,0.1035,7,1109.5912
+OLDWO,Old World Delicatessen,Janet Leverling,3,4595.75,47.3625,0.0103,0.0695,5,-271.9437
+OLDWO,Old World Delicatessen,Laura Callahan,3,6604.4,430.7,0.0652,0.0695,5,-28.1644
+OLDWO,Old World Delicatessen,Margaret Peacock,2,2680.7,241.55,0.0901,0.0695,5,55.2987
+OLDWO,Old World Delicatessen,Michael Suyama,1,848.0,0.0,0.0,0.0695,5,-58.9178
+OLDWO,Old World Delicatessen,Nancy Davolio,1,1682.5,420.625,0.25,0.0695,5,303.7273
+OTTIK,Ottilies Käseladen,Andrew Fuller,2,1938.0,111.6,0.0576,0.0368,5,40.3132
+OTTIK,Ottilies Käseladen,Janet Leverling,1,1768.0,0.0,0.0,0.0368,5,-65.0336
+OTTIK,Ottilies Käseladen,Margaret Peacock,3,5196.6,144.33,0.0278,0.0368,5,-46.8203
+OTTIK,Ottilies Käseladen,Michael Suyama,2,2268.7,163.82,0.0722,0.0368,5,80.3688
+OTTIK,Ottilies Käseladen,Nancy Davolio,1,240.0,0.0,0.0,0.0368,5,-8.8281
+PICCO,Piccolo und mehr,Andrew Fuller,3,6737.2,837.75,0.1243,0.1192,6,34.4438
+PICCO,Piccolo und mehr,Janet Leverling,1,4180.0,0.0,0.0,0.1192,6,-498.3999
+PICCO,Piccolo und mehr,Laura Callahan,1,735.0,0.0,0.0,0.1192,6,-87.6373
+PICCO,Piccolo und mehr,Margaret Peacock,1,651.0,0.0,0.0,0.1192,6,-77.6216
+PICCO,Piccolo und mehr,Michael Suyama,2,2415.05,63.0,0.0261,0.1192,6,-224.9571
+PICCO,Piccolo und mehr,Robert King,2,11541.7,2230.34,0.1932,0.1192,6,854.1721
+PRINI,Princesa Isabel Vinhos,Andrew Fuller,1,1660.0,249.0,0.15,0.0747,5,125.005
+PRINI,Princesa Isabel Vinhos,Janet Leverling,1,851.2,0.0,0.0,0.0747,5,-63.5811
+PRINI,Princesa Isabel Vinhos,Laura Callahan,1,2633.9,0.0,0.0,0.0747,5,-196.7412
+PRINI,Princesa Isabel Vinhos,Robert King,1,316.8,31.68,0.1,0.0747,5,8.0164
+PRINI,Princesa Isabel Vinhos,Steven Buchanan,2,1515.2,240.48,0.1587,0.0747,5,127.3009
+QUEDE,Que Delícia,Andrew Fuller,2,2312.8,95.92,0.0415,0.0443,5,-6.5
+QUEDE,Que Delícia,Laura Callahan,2,1823.2,78.93,0.0433,0.0443,5,-1.8085
+QUEDE,Que Delícia,Margaret Peacock,2,1084.0,0.0,0.0,0.0443,5,-48.0038
+QUEDE,Que Delícia,Michael Suyama,2,946.25,133.97,0.1416,0.0443,5,92.0663
+QUEDE,Que Delícia,Nancy Davolio,1,807.38,0.0,0.0,0.0443,5,-35.754
+QUEEN,Queen Cozinha,Andrew Fuller,1,925.1,35.4,0.0383,0.1492,6,-102.5903
+QUEEN,Queen Cozinha,Laura Callahan,3,5420.65,742.59,0.137,0.1492,6,-65.968
+QUEEN,Queen Cozinha,Margaret Peacock,2,2255.5,190.0,0.0842,0.1492,6,-146.4362
+QUEEN,Queen Cozinha,Michael Suyama,3,4029.25,134.3125,0.0333,0.1492,6,-466.7008
+QUEEN,Queen Cozinha,Robert King,3,5314.4,336.0,0.0632,0.1492,6,-456.7095
+QUEEN,Queen Cozinha,Steven Buchanan,1,12281.2,3070.3,0.25,0.1492,6,1238.4047
+QUICK,QUICK-Stop,Andrew Fuller,6,45010.5,2309.7,0.0513,0.0613,8,-451.1115
+QUICK,QUICK-Stop,Anne Dodsworth,1,4529.8,0.0,0.0,0.0613,8,-277.8446
+QUICK,QUICK-Stop,Janet Leverling,5,24602.09,1819.395,0.074,0.0613,8,310.3753
+QUICK,QUICK-Stop,Laura Callahan,4,15484.0,246.3,0.0159,0.0613,8,-703.4429
+QUICK,QUICK-Stop,Margaret Peacock,5,12940.2,712.14,0.055,0.0613,8,-81.5737
+QUICK,QUICK-Stop,Nancy Davolio,4,8092.8,1275.7,0.1576,0.0613,8,779.3115
+QUICK,QUICK-Stop,Robert King,1,1670.0,167.0,0.1,0.0613,8,64.5671
+QUICK,QUICK-Stop,Steven Buchanan,2,5154.0,675.85,0.1311,0.0613,8,359.7188
+RATTC,Rattlesnake Canyon Grocery,Andrew Fuller,1,1075.0,171.25,0.1593,0.022,8,147.627
+RATTC,Rattlesnake Canyon Grocery,Anne Dodsworth,1,11380.0,0.0,0.0,0.022,8,-250.0746
+RATTC,Rattlesnake Canyon Grocery,Janet Leverling,4,17138.8,309.52,0.0181,0.022,8,-67.1038
+RATTC,Rattlesnake Canyon Grocery,Laura Callahan,2,3608.8,40.8,0.0113,0.022,8,-38.5031
+RATTC,Rattlesnake Canyon Grocery,Margaret Peacock,2,3186.6,64.95,0.0204,0.022,8,-5.0753
+RATTC,Rattlesnake Canyon Grocery,Michael Suyama,1,1456.0,0.0,0.0,0.022,8,-31.9955
+RATTC,Rattlesnake Canyon Grocery,Nancy Davolio,5,12793.7,351.5795,0.0275,0.022,8,70.439
+RATTC,Rattlesnake Canyon Grocery,Steven Buchanan,2,1607.0,210.0,0.1307,0.022,8,174.6863
+REGGC,Reggiani Caseifici,Andrew Fuller,2,2355.0,85.5,0.0363,0.0672,7,-72.6387
+REGGC,Reggiani Caseifici,Anne Dodsworth,2,588.0,4.2,0.0071,0.0672,7,-35.2843
+REGGC,Reggiani Caseifici,Laura Callahan,1,537.6,20.16,0.0375,0.0672,7,-15.9399
+REGGC,Reggiani Caseifici,Margaret Peacock,3,1295.0,145.4,0.1123,0.0672,7,58.4405
+REGGC,Reggiani Caseifici,Nancy Davolio,2,736.0,92.9,0.1262,0.0672,7,43.4775
+REGGC,Reggiani Caseifici,Robert King,1,192.0,0.0,0.0,0.0672,7,-12.8928
+REGGC,Reggiani Caseifici,Steven Buchanan,1,1852.0,159.2,0.086,0.0672,7,34.8378
+RICAR,Ricardo Adocicados,Andrew Fuller,2,2803.0,0.0,0.0,0.0366,5,-102.7128
+RICAR,Ricardo Adocicados,Laura Callahan,2,2396.0,105.0,0.0438,0.0366,5,17.2013
+RICAR,Ricardo Adocicados,Margaret Peacock,3,1868.9,45.0,0.0241,0.0366,5,-23.4837
+RICAR,Ricardo Adocicados,Nancy Davolio,2,2734.0,176.475,0.0645,0.0366,5,76.2907
+RICAR,Ricardo Adocicados,Steven Buchanan,2,3122.5,147.125,0.0471,0.0366,5,32.7045
+RICSU,Richter Supermarkt,Anne Dodsworth,2,2973.4,24.145,0.0081,0.0344,6,-78.1814
+RICSU,Richter Supermarkt,Janet Leverling,2,3346.06,69.976,0.0209,0.0344,6,-45.1751
+RICSU,Richter Supermarkt,Laura Callahan,1,586.0,87.9,0.15,0.0344,6,67.7334
+RICSU,Richter Supermarkt,Margaret Peacock,2,3045.0,148.2,0.0487,0.0344,6,43.4096
+RICSU,Richter Supermarkt,Nancy Davolio,1,1823.8,0.0,0.0,0.0344,6,-62.7641
+RICSU,Richter Supermarkt,Robert King,2,8258.94,359.2,0.0435,0.0344,6,74.9775
+SAVEA,Save-a-lot Markets,Andrew Fuller,4,7944.1,306.0,0.0385,0.0978,9,-470.8356
+SAVEA,Save-a-lot Markets,Anne Dodsworth,1,6155.9,880.185,0.143,0.0978,9,278.2134
+SAVEA,Save-a-lot Markets,Janet Leverling,2,4244.0,409.6,0.0965,0.0978,9,-5.4112
+SAVEA,Save-a-lot Markets,Laura Callahan,4,6438.5,181.25,0.0282,0.0978,9,-448.3564
+SAVEA,Save-a-lot Markets,Margaret Peacock,4,14848.4,2288.605,0.1541,0.0978,9,836.6134
+SAVEA,Save-a-lot Markets,Michael Suyama,4,13891.44,764.0,0.055,0.0978,9,-594.4126
+SAVEA,Save-a-lot Markets,Nancy Davolio,6,21935.55,1282.45,0.0585,0.0978,9,-862.578
+SAVEA,Save-a-lot Markets,Robert King,3,26347.4,4464.1,0.1694,0.0978,9,1887.6472
+SAVEA,Save-a-lot Markets,Steven Buchanan,3,13868.1,735.25,0.053,0.0978,9,-620.8802
+SEVES,Seven Seas Imports,Andrew Fuller,1,1274.0,45.2,0.0355,0.0557,7,-25.7797
+SEVES,Seven Seas Imports,Janet Leverling,1,1908.0,115.2,0.0604,0.0557,7,8.8975
+SEVES,Seven Seas Imports,Laura Callahan,1,1051.2,14.4,0.0137,0.0557,7,-44.1666
+SEVES,Seven Seas Imports,Michael Suyama,1,2290.4,12.0,0.0052,0.0557,7,-115.6075
+SEVES,Seven Seas Imports,Nancy Davolio,2,2648.15,315.615,0.1192,0.0557,7,168.0758
+SEVES,Seven Seas Imports,Robert King,1,2715.9,271.59,0.1,0.0557,7,120.2761
+SEVES,Seven Seas Imports,Steven Buchanan,2,5284.4,182.72,0.0346,0.0557,7,-111.6955
+SIMOB,Simons bistro,Andrew Fuller,2,1405.2,0.0,0.0,0.0728,3,-102.3662
+SIMOB,Simons bistro,Margaret Peacock,2,15206.95,1075.7375,0.0707,0.0728,3,-32.0607
+SIMOB,Simons bistro,Robert King,3,1526.3,245.615,0.1609,0.0728,3,134.4269
+SPLIR,Split Rail Beer & Ale,Janet Leverling,2,924.0,0.0,0.0,0.0839,6,-77.5372
+SPLIR,Split Rail Beer & Ale,Laura Callahan,2,5014.7,634.3,0.1265,0.0839,6,213.4927
+SPLIR,Split Rail Beer & Ale,Margaret Peacock,1,4819.4,240.97,0.05,0.0839,6,-163.4487
+SPLIR,Split Rail Beer & Ale,Michael Suyama,1,48.0,0.0,0.0,0.0839,6,-4.0279
+SPLIR,Split Rail Beer & Ale,Nancy Davolio,2,1542.0,172.8,0.1121,0.0839,6,43.4035
+SPLIR,Split Rail Beer & Ale,Robert King,1,141.6,0.0,0.0,0.0839,6,-11.8823
+SUPRD,Suprêmes délices,Andrew Fuller,2,2866.5,0.0,0.0,0.0249,7,-71.4316
+SUPRD,Suprêmes délices,Anne Dodsworth,1,1770.8,265.62,0.15,0.0249,7,221.4926
+SUPRD,Suprêmes délices,Margaret Peacock,4,8921.8,331.6,0.0372,0.0249,7,109.2737
+SUPRD,Suprêmes délices,Michael Suyama,1,1209.0,0.0,0.0,0.0249,7,-30.1276
+SUPRD,Suprêmes délices,Nancy Davolio,1,751.0,18.4,0.0245,0.0249,7,-0.3145
+SUPRD,Suprêmes délices,Robert King,1,3891.0,0.0,0.0,0.0249,7,-96.9616
+SUPRD,Suprêmes délices,Steven Buchanan,2,5294.3,0.0,0.0,0.0249,7,-131.931
+TOMSP,Toms Spezialitäten,Andrew Fuller,1,910.4,0.0,0.0,0.0569,4,-51.8032
+TOMSP,Toms Spezialitäten,Janet Leverling,2,842.6,148.5,0.1762,0.0569,4,100.5547
+TOMSP,Toms Spezialitäten,Margaret Peacock,1,1064.0,0.0,0.0,0.0569,4,-60.5433
+TOMSP,Toms Spezialitäten,Michael Suyama,1,273.6,27.36,0.1,0.0569,4,11.7917
+TRADH,Tradição Hipermercados,Janet Leverling,1,919.5,91.95,0.1,0.0501,5,45.8492
+TRADH,Tradição Hipermercados,Margaret Peacock,2,3387.0,282.6,0.0834,0.0501,5,112.7867
+TRADH,Tradição Hipermercados,Michael Suyama,1,1863.4,0.0,0.0,0.0501,5,-93.4249
+TRADH,Tradição Hipermercados,Nancy Davolio,2,2804.12,75.406,0.0269,0.0501,5,-65.1836
+TRADH,Tradição Hipermercados,Robert King,1,200.0,10.0,0.05,0.0501,5,-0.0274
+VAFFE,Vaffeljernet,Andrew Fuller,1,990.0,49.5,0.05,0.0481,7,1.9221
+VAFFE,Vaffeljernet,Janet Leverling,1,1704.0,19.725,0.0116,0.0481,7,-62.1666
+VAFFE,Vaffeljernet,Laura Callahan,2,1830.6,16.25,0.0089,0.0481,7,-71.7258
+VAFFE,Vaffeljernet,Margaret Peacock,1,3490.0,329.4,0.0944,0.0481,7,161.6761
+VAFFE,Vaffeljernet,Michael Suyama,1,920.0,184.0,0.2,0.0481,7,139.7862
+VAFFE,Vaffeljernet,Nancy Davolio,4,6875.0,201.0,0.0292,0.0481,7,-129.4017
+VAFFE,Vaffeljernet,Robert King,1,834.2,0.0,0.0,0.0481,7,-40.0903
+VICTE,Victuailles en stock,Andrew Fuller,1,496.0,24.8,0.05,0.0759,5,-12.8686
+VICTE,Victuailles en stock,Janet Leverling,3,3312.9,430.79,0.13,0.0759,5,179.1928
+VICTE,Victuailles en stock,Laura Callahan,2,676.2,106.28,0.1572,0.0759,5,54.9262
+VICTE,Victuailles en stock,Margaret Peacock,2,1900.0,81.8,0.0431,0.0759,5,-62.4949
+VICTE,Victuailles en stock,Nancy Davolio,2,3552.0,111.0,0.0312,0.0759,5,-158.7555
+WANDK,Die Wandernde Kuh,Andrew Fuller,1,1614.8,0.0,0.0,0.1,6,-161.4861
+WANDK,Die Wandernde Kuh,Laura Callahan,4,3469.4,241.8,0.0697,0.1,6,-105.153
+WANDK,Die Wandernde Kuh,Margaret Peacock,2,1341.0,268.65,0.2003,0.1,6,134.545
+WANDK,Die Wandernde Kuh,Michael Suyama,1,1106.4,0.0,0.0,0.1,6,-110.6442
+WANDK,Die Wandernde Kuh,Nancy Davolio,1,694.75,69.475,0.1,0.1,6,-0.0026
+WANDK,Die Wandernde Kuh,Robert King,1,2427.5,485.5,0.2,0.1,6,242.7409
+WARTH,Wartian Herkku,Andrew Fuller,3,5092.55,332.87,0.0654,0.0583,8,36.0906
+WARTH,Wartian Herkku,Anne Dodsworth,1,1871.25,280.6875,0.15,0.0583,8,171.6364
+WARTH,Wartian Herkku,Janet Leverling,1,364.8,18.24,0.05,0.0583,8,-3.0195
+WARTH,Wartian Herkku,Laura Callahan,4,4169.0,37.2,0.0089,0.0583,8,-205.7575
+WARTH,Wartian Herkku,Margaret Peacock,2,1973.5,192.6,0.0976,0.0583,8,77.59
+WARTH,Wartian Herkku,Michael Suyama,1,300.0,30.0,0.1,0.0583,8,12.5169
+WARTH,Wartian Herkku,Nancy Davolio,1,1376.0,0.0,0.0,0.0583,8,-80.1894
+WARTH,Wartian Herkku,Steven Buchanan,2,1470.0,76.8,0.0522,0.0583,8,-8.8674
+WELLI,Wellington Importadora,Anne Dodsworth,1,360.0,18.0,0.05,0.0637,5,-4.9142
+WELLI,Wellington Importadora,Janet Leverling,3,3837.4,239.96,0.0625,0.0637,5,-4.2925
+WELLI,Wellington Importadora,Margaret Peacock,2,1955.8,143.29,0.0733,0.0637,5,18.8023
+WELLI,Wellington Importadora,Nancy Davolio,1,45.0,11.25,0.25,0.0637,5,8.3857
+WELLI,Wellington Importadora,Robert King,2,282.5,0.0,0.0,0.0637,5,-17.9813
+WHITC,White Clover Markets,Andrew Fuller,1,8902.5,0.0,0.0,0.0588,7,-523.5669
+WHITC,White Clover Markets,Janet Leverling,3,4726.7,262.8,0.0556,0.0588,7,-15.183
+WHITC,White Clover Markets,Laura Callahan,2,2472.1,295.22,0.1194,0.0588,7,149.8328
+WHITC,White Clover Markets,Margaret Peacock,4,9537.9,914.0,0.0958,0.0588,7,353.0645
+WHITC,White Clover Markets,Nancy Davolio,1,1125.5,168.825,0.15,0.0588,7,102.633
+WHITC,White Clover Markets,Robert King,2,1632.75,35.2,0.0216,0.0588,7,-60.824
+WHITC,White Clover Markets,Steven Buchanan,1,676.0,33.8,0.05,0.0588,7,-5.9564

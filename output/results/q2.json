@@ -1,0 +1,44 @@
+{
+  "orders": 830,
+  "orders_discounted": 380,
+  "customers_compared": 54,
+  "discount_given_total": 88665.55050000001,
+  "by_depth": {
+    "About 5%": {
+      "Customers": 45,
+      "FullPriceUnits": 61.460532307198974,
+      "DiscountedUnits": 63.73222222222222,
+      "Lift": 0.036961767653892474,
+      "BreakEvenUnits": 64.23048346155154,
+      "AvgDiscount": 0.043125179900143126,
+      "CustomersBuyingMore": 25
+    },
+    "About 10%": {
+      "Customers": 46,
+      "FullPriceUnits": 64.44454247443379,
+      "DiscountedUnits": 67.01449275362319,
+      "Lift": 0.03987847815366119,
+      "BreakEvenUnits": 71.56537332652286,
+      "AvgDiscount": 0.09950106484597926,
+      "CustomersBuyingMore": 23
+    },
+    "15\u201320%": {
+      "Customers": 48,
+      "FullPriceUnits": 64.66108931577682,
+      "DiscountedUnits": 64.97189153439153,
+      "Lift": 0.004806634436622215,
+      "BreakEvenUnits": 77.78580314888596,
+      "AvgDiscount": 0.16872891069836704,
+      "CustomersBuyingMore": 24
+    },
+    "About 25%": {
+      "Customers": 25,
+      "FullPriceUnits": 70.63803751803752,
+      "DiscountedUnits": 77.8,
+      "Lift": 0.10138960160287103,
+      "BreakEvenUnits": 93.80564875329748,
+      "AvgDiscount": 0.2469745856796877,
+      "CustomersBuyingMore": 13
+    }
+  }
+}

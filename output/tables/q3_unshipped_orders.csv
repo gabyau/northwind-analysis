@@ -1,0 +1,22 @@
+OrderID,CustomerName,EmployeeName,ShipperName,OrderDate,RequiredDate,DeadlineDays,PastDeadline,NetValue,Products
+11008,Ernst Handel,Robert King,Federal Shipping,1998-04-08,1998-05-06,28,False,4680.9,Rössle Sauerkraut; Sasquatch Ale; Fløtemysost
+11019,Rancho grande,Michael Suyama,Federal Shipping,1998-04-13,1998-05-11,28,False,76.0,Spegesild; Maxilaku
+11039,LINO-Delicateses,Nancy Davolio,United Package,1998-04-21,1998-05-19,28,False,3090.0,Rössle Sauerkraut; Steeleye Stout; Maxilaku; Ravioli Angelo
+11040,Great Lakes Food Market,Margaret Peacock,Federal Shipping,1998-04-22,1998-05-20,28,False,200.0,Sir Rodney's Scones
+11045,Bottom-Dollar Markets,Michael Suyama,United Package,1998-04-23,1998-05-21,28,False,1309.5,Geitost; Manjimup Dried Apples
+11051,La maison d'Asie,Robert King,Federal Shipping,1998-04-27,1998-05-25,28,False,36.0,Guaraná Fantástica
+11054,Cactus Comidas para llevar,Laura Callahan,Speedy Express,1998-04-28,1998-05-26,28,False,305.0,Geitost; Laughing Lumberjack Lager
+11058,Blauer See Delikatessen,Anne Dodsworth,Federal Shipping,1998-04-29,1998-05-27,28,False,858.0,Sir Rodney's Scones; Camembert Pierrot; Sirop d'érable
+11059,Ricardo Adocicados,Andrew Fuller,United Package,1998-04-29,1998-06-10,42,False,1838.0,Konbu; Alice Mutton; Camembert Pierrot
+11061,Great Lakes Food Market,Margaret Peacock,Federal Shipping,1998-04-30,1998-06-11,42,False,510.0,Camembert Pierrot
+11062,Reggiani Caseifici,Margaret Peacock,United Package,1998-04-30,1998-05-28,28,False,406.4,Perth Pasties; Outback Lager
+11065,LILA-Supermercado,Laura Callahan,Speedy Express,1998-05-01,1998-05-29,28,False,189.42,Nord-Ost Matjeshering; Tourtière
+11068,Queen Cozinha,Laura Callahan,United Package,1998-05-04,1998-06-01,28,False,2027.08,Rössle Sauerkraut; Ipoh Coffee; Original Frankfurter grüne Soße
+11070,Lehmanns Marktstand,Andrew Fuller,Speedy Express,1998-05-05,1998-06-02,28,False,1629.98,Chai; Chang; Pavlova; Gorgonzola Telino
+11071,LILA-Supermercado,Nancy Davolio,Speedy Express,1998-05-05,1998-06-02,28,False,484.5,Uncle Bob's Organic Dried Pears; Konbu
+11072,Ernst Handel,Margaret Peacock,United Package,1998-05-05,1998-06-02,28,False,5218.0,Chang; Jack's New England Clam Chowder; Valkoinen suklaa; Wimmers gute Semmelknödel
+11073,Pericles Comidas clásicas,Andrew Fuller,United Package,1998-05-05,1998-06-02,28,False,300.0,Queso Cabrales; Guaraná Fantástica
+11074,Simons bistro,Robert King,United Package,1998-05-06,1998-06-03,28,False,232.08,Pavlova
+11075,Richter Supermarkt,Laura Callahan,United Package,1998-05-06,1998-06-03,28,False,498.1,Chang; Spegesild; Lakkalikööri
+11076,Bon app',Margaret Peacock,United Package,1998-05-06,1998-06-03,28,False,792.75,Grandma's Boysenberry Spread; Tofu; Teatime Chocolate Biscuits
+11077,Rattlesnake Canyon Grocery,Nancy Davolio,United Package,1998-05-06,1998-06-03,28,False,1255.72,Chang; Aniseed Syrup; Chef Anton's Cajun Seasoning; Grandma's Boysenberry Spread; Uncle Bob's Organic Dried Pears; Northwoods Cranberry Sauce; Ikura; Queso Manchego La Pastora; Konbu; Tofu; Pavlova; Sir Rodney's Marmalade; Tunnbröd; Mascarpone Fabioli; Chartreuse verte; Jack's New England Clam Chowder; Spegesild; Filo Mix; Pâté chinois; Camembert Pierrot; Wimmers gute Semmelknödel; Louisiana Hot Spiced Okra; Röd Kaviar; Rhönbräu Klosterbier; Original Frankfurter grüne Soße

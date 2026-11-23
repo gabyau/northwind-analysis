@@ -1,0 +1,165 @@
+Depth,CustomerID,CustomerName,DiscountedUnits,FullPriceUnits,DiscountRate,DiscountedOrders,BuysMore
+About 5%,ALFKI,Alfreds Futterkiste,31.667,20.5,0.025,3,True
+About 5%,AROUT,Around the Horn,72.333,47.25,0.046,3,True
+About 5%,BERGS,Berglunds snabbköp,74.0,51.444,0.034,2,True
+About 5%,BLONP,Blondel père et fils,40.0,60.571,0.05,2,False
+About 5%,BONAP,Bon app',63.833,42.25,0.051,6,True
+About 5%,BOTTM,Bottom-Dollar Markets,80.0,61.875,0.05,1,True
+About 5%,CHOPS,Chop-suey Chinese,65.25,57.5,0.044,4,True
+About 5%,ERNSH,Ernst Handel,146.0,169.364,0.048,4,False
+About 5%,FAMIA,Familia Arquibaldo,76.5,23.5,0.025,2,True
+About 5%,FOLKO,Folk och fä HB,70.0,71.714,0.026,3,False
+About 5%,FRANK,Frankenversand,79.2,128.8,0.048,5,False
+About 5%,GODOS,Godos Cocina Típica,66.0,28.5,0.05,1,True
+About 5%,GOURL,Gourmet Lanchonetes,22.0,54.0,0.039,1,False
+About 5%,GREAL,Great Lakes Food Market,49.75,13.0,0.034,4,True
+About 5%,HILAA,HILARIÓN-Abastos,32.0,64.333,0.022,3,False
+About 5%,HUNGO,Hungry Owl All-Night Grocers,69.0,85.25,0.05,3,False
+About 5%,KOENE,Königlich Essen,76.5,62.429,0.033,4,True
+About 5%,LAMAI,La maison d'Asie,31.667,78.0,0.05,3,False
+About 5%,LEHMS,Lehmanns Marktstand,38.0,42.0,0.034,3,False
+About 5%,LETSS,Let's Stop N Shop,73.0,31.0,0.05,1,True
+About 5%,LILAS,LILA-Supermercado,57.5,48.4,0.049,2,True
+About 5%,MAGAA,Magazzini Alimentari Riuniti,61.0,27.6,0.046,3,True
+About 5%,MAISD,Maison Dewey,40.0,30.5,0.05,1,True
+About 5%,MEREP,Mère Paillarde,88.0,55.6,0.043,5,True
+About 5%,OLDWO,Old World Delicatessen,68.0,41.4,0.024,2,True
+About 5%,OTTIK,Ottilies Käseladen,63.333,71.25,0.05,3,False
+About 5%,QUEDE,Que Delícia,59.0,44.8,0.062,1,True
+About 5%,QUEEN,Queen Cozinha,79.2,46.0,0.036,5,True
+About 5%,QUICK,QUICK-Stop,154.75,129.6,0.052,8,True
+About 5%,RATTC,Rattlesnake Canyon Grocery,58.0,86.778,0.058,4,False
+About 5%,REGGC,Reggiani Caseifici,30.667,26.0,0.046,3,True
+About 5%,RICAR,Ricardo Adocicados,47.4,69.6,0.057,5,False
+About 5%,RICSU,Richter Supermarkt,75.0,90.5,0.047,4,False
+About 5%,SAVEA,Save-a-lot Markets,107.167,164.333,0.037,6,False
+About 5%,SEVES,Seven Seas Imports,105.4,120.0,0.033,5,False
+About 5%,SIMOB,Simons bistro,68.5,27.0,0.029,2,True
+About 5%,SPLIR,Split Rail Beer & Ale,44.0,26.8,0.052,2,True
+About 5%,SUPRD,Suprêmes délices,71.0,84.625,0.03,2,False
+About 5%,TRADH,Tradição Hipermercados,24.0,52.333,0.05,2,False
+About 5%,VAFFE,Vaffeljernet,72.0,85.8,0.045,3,False
+About 5%,VICTE,Victuailles en stock,45.667,49.0,0.031,3,False
+About 5%,WANDK,Die Wandernde Kuh,51.5,50.0,0.05,2,True
+About 5%,WARTH,Wartian Herkku,28.0,56.429,0.062,2,False
+About 5%,WELLI,Wellington Importadora,39.667,20.667,0.045,3,True
+About 5%,WHITC,White Clover Markets,72.5,67.429,0.05,2,True
+About 10%,ANTON,Antonio Moreno Taquería,80.0,52.75,0.1,1,True
+About 10%,AROUT,Around the Horn,40.0,47.25,0.1,1,False
+About 10%,BERGS,Berglunds snabbköp,40.333,51.444,0.097,3,False
+About 10%,BLONP,Blondel père et fils,99.0,60.571,0.098,1,True
+About 10%,BOTTM,Bottom-Dollar Markets,41.0,61.875,0.1,1,False
+About 10%,CHOPS,Chop-suey Chinese,57.0,57.5,0.11,1,False
+About 10%,ERNSH,Ernst Handel,126.75,169.364,0.086,4,False
+About 10%,FAMIA,Familia Arquibaldo,70.0,23.5,0.122,1,True
+About 10%,FOLKO,Folk och fä HB,37.0,71.714,0.104,2,False
+About 10%,FRANK,Frankenversand,92.5,128.8,0.111,2,False
+About 10%,FURIB,Furia Bacalhau e Frutos do Mar,48.667,59.0,0.1,3,False
+About 10%,GODOS,Godos Cocina Típica,52.667,28.5,0.103,3,True
+About 10%,GREAL,Great Lakes Food Market,37.0,13.0,0.1,1,True
+About 10%,HANAR,Hanari Carnes,84.0,69.125,0.1,1,True
+About 10%,HILAA,HILARIÓN-Abastos,106.0,64.333,0.09,1,True
+About 10%,HUNGO,Hungry Owl All-Night Grocers,102.0,85.25,0.095,2,True
+About 10%,KOENE,Königlich Essen,49.5,62.429,0.09,2,False
+About 10%,LAMAI,La maison d'Asie,25.333,78.0,0.1,3,False
+About 10%,LEHMS,Lehmanns Marktstand,30.0,42.0,0.1,1,False
+About 10%,LETSS,Let's Stop N Shop,22.0,31.0,0.1,1,False
+About 10%,LILAS,LILA-Supermercado,90.0,48.4,0.091,1,True
+About 10%,LINOD,LINO-Delicateses,79.0,89.0,0.1,2,False
+About 10%,MAGAA,Magazzini Alimentari Riuniti,62.0,27.6,0.098,1,True
+About 10%,MAISD,Maison Dewey,82.0,30.5,0.117,1,True
+About 10%,MEREP,Mère Paillarde,43.0,55.6,0.1,1,False
+About 10%,OLDWO,Old World Delicatessen,80.0,41.4,0.1,1,True
+About 10%,OTTIK,Ottilies Käseladen,38.0,71.25,0.1,1,False
+About 10%,PICCO,Piccolo und mehr,67.0,67.4,0.103,1,False
+About 10%,PRINI,Princesa Isabel Vinhos,18.0,41.0,0.1,1,False
+About 10%,QUEDE,Que Delícia,45.0,44.8,0.1,2,True
+About 10%,QUEEN,Queen Cozinha,89.0,46.0,0.093,1,True
+About 10%,QUICK,QUICK-Stop,135.0,129.6,0.098,5,True
+About 10%,RATTC,Rattlesnake Canyon Grocery,77.333,86.778,0.092,3,False
+About 10%,REGGC,Reggiani Caseifici,39.667,26.0,0.095,3,True
+About 10%,RICAR,Ricardo Adocicados,75.0,69.6,0.114,1,True
+About 10%,RICSU,Richter Supermarkt,106.0,90.5,0.1,1,True
+About 10%,SAVEA,Save-a-lot Markets,124.75,164.333,0.09,4,False
+About 10%,SEVES,Seven Seas Imports,65.5,120.0,0.1,2,False
+About 10%,SUPRD,Suprêmes délices,116.0,84.625,0.081,1,True
+About 10%,TOMSP,Toms Spezialitäten,50.0,40.0,0.1,1,True
+About 10%,TRADH,Tradição Hipermercados,45.0,52.333,0.1,1,False
+About 10%,VAFFE,Vaffeljernet,92.0,85.8,0.094,1,True
+About 10%,WANDK,Die Wandernde Kuh,33.5,50.0,0.091,2,False
+About 10%,WARTH,Wartian Herkku,36.667,56.429,0.094,3,False
+About 10%,WELLI,Wellington Importadora,41.5,20.667,0.108,2,True
+About 10%,WHITC,White Clover Markets,111.0,67.429,0.113,1,True
+15–20%,ANTON,Antonio Moreno Taquería,34.0,52.75,0.15,2,False
+15–20%,AROUT,Around the Horn,15.0,47.25,0.2,1,False
+15–20%,BERGS,Berglunds snabbköp,92.0,51.444,0.151,1,True
+15–20%,BLONP,Blondel père et fils,63.0,60.571,0.137,1,True
+15–20%,BOLID,Bólido Comidas preparadas,40.0,90.0,0.2,1,False
+15–20%,BONAP,Bon app',110.0,42.25,0.15,1,True
+15–20%,BOTTM,Bottom-Dollar Markets,74.0,61.875,0.2,1,True
+15–20%,CHOPS,Chop-suey Chinese,32.0,57.5,0.125,1,False
+15–20%,ERNSH,Ernst Handel,132.222,169.364,0.158,9,False
+15–20%,FAMIA,Familia Arquibaldo,43.5,23.5,0.175,2,True
+15–20%,FOLKO,Folk och fä HB,67.6,71.714,0.19,5,False
+15–20%,FRANK,Frankenversand,97.5,128.8,0.174,2,False
+15–20%,FURIB,Furia Bacalhau e Frutos do Mar,36.0,59.0,0.145,4,False
+15–20%,GOURL,Gourmet Lanchonetes,19.25,54.0,0.175,4,False
+15–20%,GREAL,Great Lakes Food Market,23.333,13.0,0.169,3,True
+15–20%,HANAR,Hanari Carnes,45.667,69.125,0.165,3,False
+15–20%,HILAA,HILARIÓN-Abastos,61.0,64.333,0.168,2,False
+15–20%,HUNGO,Hungry Owl All-Night Grocers,95.429,85.25,0.181,7,True
+15–20%,KOENE,Königlich Essen,61.0,62.429,0.15,1,False
+15–20%,LAMAI,La maison d'Asie,28.4,78.0,0.193,5,False
+15–20%,LEHMS,Lehmanns Marktstand,81.25,42.0,0.163,4,True
+15–20%,LILAS,LILA-Supermercado,59.25,48.4,0.148,4,True
+15–20%,LINOD,LINO-Delicateses,61.5,89.0,0.164,2,False
+15–20%,MAGAA,Magazzini Alimentari Riuniti,50.0,27.6,0.15,1,True
+15–20%,MAISD,Maison Dewey,76.0,30.5,0.132,1,True
+15–20%,MEREP,Mère Paillarde,102.5,55.6,0.2,2,True
+15–20%,OLDWO,Old World Delicatessen,102.0,41.4,0.138,1,True
+15–20%,OTTIK,Ottilies Käseladen,24.0,71.25,0.15,1,False
+15–20%,PICCO,Piccolo und mehr,55.0,67.4,0.158,4,False
+15–20%,PRINI,Princesa Isabel Vinhos,51.333,41.0,0.157,3,True
+15–20%,QUEDE,Que Delícia,21.0,44.8,0.2,1,False
+15–20%,QUEEN,Queen Cozinha,81.333,46.0,0.183,3,True
+15–20%,QUICK,QUICK-Stop,156.0,129.6,0.188,4,True
+15–20%,RATTC,Rattlesnake Canyon Grocery,69.0,86.778,0.177,2,False
+15–20%,REGGC,Reggiani Caseifici,15.333,26.0,0.183,3,False
+15–20%,RICSU,Richter Supermarkt,42.0,90.5,0.15,1,False
+15–20%,SAVEA,Save-a-lot Markets,200.167,164.333,0.175,6,True
+15–20%,SEVES,Seven Seas Imports,40.0,120.0,0.15,1,False
+15–20%,SIMOB,Simons bistro,33.5,27.0,0.172,2,True
+15–20%,SPLIR,Split Rail Beer & Ale,52.5,26.8,0.2,2,True
+15–20%,SUPRD,Suprêmes délices,137.0,84.625,0.15,1,True
+15–20%,TOMSP,Toms Spezialitäten,37.0,40.0,0.164,2,False
+15–20%,TRADH,Tradição Hipermercados,50.0,52.333,0.2,1,False
+15–20%,VAFFE,Vaffeljernet,50.0,85.8,0.2,1,False
+15–20%,VICTE,Victuailles en stock,52.667,49.0,0.162,3,True
+15–20%,WANDK,Die Wandernde Kuh,105.0,50.0,0.2,1,True
+15–20%,WARTH,Wartian Herkku,58.667,56.429,0.144,3,True
+15–20%,WHITC,White Clover Markets,83.75,67.429,0.187,4,True
+About 25%,ALFKI,Alfreds Futterkiste,38.0,20.5,0.25,1,True
+About 25%,BERGS,Berglunds snabbköp,59.0,51.444,0.24,3,True
+About 25%,BOLID,Bólido Comidas preparadas,60.0,90.0,0.25,1,False
+About 25%,BONAP,Bon app',74.5,42.25,0.25,2,True
+About 25%,BOTTM,Bottom-Dollar Markets,88.667,61.875,0.25,3,True
+About 25%,EASTC,Eastern Connection,55.0,73.429,0.25,1,False
+About 25%,ERNSH,Ernst Handel,199.5,169.364,0.245,2,True
+About 25%,FOLKO,Folk och fä HB,55.0,71.714,0.25,2,False
+About 25%,FRANK,Frankenversand,105.0,128.8,0.25,1,False
+About 25%,HANAR,Hanari Carnes,32.5,69.125,0.25,2,False
+About 25%,HUNGO,Hungry Owl All-Night Grocers,88.0,85.25,0.233,3,True
+About 25%,LAMAI,La maison d'Asie,25.5,78.0,0.25,2,False
+About 25%,LEHMS,Lehmanns Marktstand,57.5,42.0,0.231,2,True
+About 25%,LETSS,Let's Stop N Shop,55.0,31.0,0.25,1,True
+About 25%,LILAS,LILA-Supermercado,76.0,48.4,0.25,2,True
+About 25%,LINOD,LINO-Delicateses,77.5,89.0,0.25,2,False
+About 25%,OLDWO,Old World Delicatessen,110.0,41.4,0.25,1,True
+About 25%,QUEEN,Queen Cozinha,164.0,46.0,0.25,1,True
+About 25%,QUICK,QUICK-Stop,128.0,129.6,0.25,1,False
+About 25%,SAVEA,Save-a-lot Markets,214.333,164.333,0.234,3,True
+About 25%,SIMOB,Simons bistro,120.0,27.0,0.25,1,True
+About 25%,VAFFE,Vaffeljernet,5.0,85.8,0.25,1,False
+About 25%,VICTE,Victuailles en stock,20.5,49.0,0.241,2,False
+About 25%,WANDK,Die Wandernde Kuh,33.5,50.0,0.25,2,False
+About 25%,WELLI,Wellington Importadora,3.0,20.667,0.25,1,False

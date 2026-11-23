@@ -1,0 +1,38 @@
+OrderID,CustomerName,EmployeeName,ShipperName,OrderDate,RequiredDate,ShippedDate,DeadlineDays,DaysToShip,DaysOfMargin,NetValue,Products
+10777,Gourmet Lanchonetes,Robert King,United Package,1997-12-15,1997-12-29,1998-01-21,14,37.0,-23.0,224.0,Singaporean Hokkien Fried Mee
+10726,Eastern Connection,Margaret Peacock,Speedy Express,1997-11-03,1997-11-17,1997-12-05,14,32.0,-18.0,655.0,Chef Anton's Cajun Seasoning; Queso Cabrales
+10423,Gourmet Lanchonetes,Michael Suyama,Federal Shipping,1997-01-23,1997-02-06,1997-02-24,14,32.0,-18.0,1020.0,Gorgonzola Telino; Raclette Courdavault
+10970,Bólido Comidas preparadas,Anne Dodsworth,Speedy Express,1998-03-24,1998-04-07,1998-04-24,14,31.0,-17.0,224.0,Filo Mix
+10515,QUICK-Stop,Andrew Fuller,Speedy Express,1997-04-23,1997-05-07,1997-05-23,14,30.0,-16.0,9921.3,Mishi Kobe Niku; Pavlova; Schoggi Schokolade; Geitost; Camembert Pierrot
+10827,Bon app',Nancy Davolio,United Package,1998-01-12,1998-01-26,1998-02-06,14,25.0,-11.0,843.0,Ikura; Chartreuse verte
+10663,Bon app',Andrew Fuller,United Package,1997-09-10,1997-09-24,1997-10-03,14,23.0,-9.0,1930.4,Boston Crab Meat; Singaporean Hokkien Fried Mee; Manjimup Dried Apples
+10660,Hungry Coyote Import Store,Laura Callahan,Speedy Express,1997-09-08,1997-10-06,1997-10-15,28,37.0,-9.0,1701.0,Sir Rodney's Marmalade
+10828,Rancho grande,Anne Dodsworth,Speedy Express,1998-01-13,1998-01-27,1998-02-04,14,22.0,-8.0,932.0,Sir Rodney's Marmalade; Côte de Blaye
+10427,Piccolo und mehr,Margaret Peacock,United Package,1997-01-27,1997-02-24,1997-03-03,28,35.0,-7.0,651.0,Tofu
+10451,QUICK-Stop,Margaret Peacock,Federal Shipping,1997-02-19,1997-03-05,1997-03-12,14,21.0,-7.0,3849.66,Pâté chinois; Wimmers gute Semmelknödel; Louisiana Fiery Hot Pepper Sauce; Original Frankfurter grüne Soße
+10924,Berglunds snabbköp,Janet Leverling,United Package,1998-03-04,1998-04-01,1998-04-08,28,35.0,-7.0,1835.7,Ikura; Rössle Sauerkraut; Rhönbräu Klosterbier
+10380,Hungry Owl All-Night Grocers,Laura Callahan,Federal Shipping,1996-12-12,1997-01-09,1997-01-16,28,35.0,-7.0,1313.82,Nord-Ost Matjeshering; Perth Pasties; Camembert Pierrot; Outback Lager
+10545,Lazy K Kountry Store,Laura Callahan,United Package,1997-05-22,1997-06-19,1997-06-26,28,35.0,-7.0,210.0,Queso Cabrales
+10593,Lehmanns Marktstand,Robert King,United Package,1997-07-09,1997-08-06,1997-08-13,28,35.0,-7.0,1994.4,Sir Rodney's Marmalade; Gudbrandsdalsost; Lakkalikööri
+10927,La corne d'abondance,Margaret Peacock,Speedy Express,1998-03-05,1998-04-02,1998-04-08,28,34.0,-6.0,800.0,Sir Rodney's Marmalade; Filo Mix; Lakkalikööri
+10705,HILARIÓN-Abastos,Anne Dodsworth,United Package,1997-10-15,1997-11-12,1997-11-18,28,34.0,-6.0,378.0,Gorgonzola Telino; Mascarpone Fabioli
+10309,Hungry Owl All-Night Grocers,Janet Leverling,Speedy Express,1996-09-19,1996-10-17,1996-10-23,28,34.0,-6.0,1762.0,Chef Anton's Cajun Seasoning; Grandma's Boysenberry Spread; Singaporean Hokkien Fried Mee; Ipoh Coffee; Fløtemysost
+10709,Gourmet Lanchonetes,Nancy Davolio,Federal Shipping,1997-10-17,1997-11-14,1997-11-20,28,34.0,-6.0,3424.0,Northwoods Cranberry Sauce; Manjimup Dried Apples; Camembert Pierrot
+10960,HILARIÓN-Abastos,Janet Leverling,Speedy Express,1998-03-19,1998-04-02,1998-04-08,14,20.0,-6.0,265.35,Guaraná Fantástica; Jack's New England Clam Chowder
+10847,Save-a-lot Markets,Margaret Peacock,Federal Shipping,1998-01-22,1998-02-05,1998-02-10,14,19.0,-5.0,4931.92,Chai; Teatime Chocolate Biscuits; Gravad lax; Røgede sild; Camembert Pierrot; Fløtemysost
+10596,White Clover Markets,Laura Callahan,Speedy Express,1997-07-11,1997-08-08,1997-08-12,28,32.0,-4.0,1180.88,Gnocchi di nonna Alice; Vegie-spread; Rhönbräu Klosterbier
+10483,White Clover Markets,Robert King,United Package,1997-03-24,1997-04-21,1997-04-25,28,32.0,-4.0,668.8,Sasquatch Ale; Original Frankfurter grüne Soße
+10727,Reggiani Caseifici,Andrew Fuller,Speedy Express,1997-11-03,1997-12-01,1997-12-05,28,32.0,-4.0,1624.5,Alice Mutton; Gnocchi di nonna Alice; Raclette Courdavault
+10578,B's Beverages,Margaret Peacock,Federal Shipping,1997-06-24,1997-07-22,1997-07-25,28,31.0,-3.0,477.0,Steeleye Stout; Ravioli Angelo
+10807,Franchi S.p.A.,Margaret Peacock,Speedy Express,1997-12-31,1998-01-28,1998-01-30,28,30.0,-2.0,18.4,Boston Crab Meat
+10264,Folk och fä HB,Michael Suyama,Federal Shipping,1996-07-24,1996-08-21,1996-08-23,28,30.0,-2.0,695.62,Chang; Jack's New England Clam Chowder
+10687,Hungry Owl All-Night Grocers,Anne Dodsworth,United Package,1997-09-30,1997-10-28,1997-10-30,28,30.0,-2.0,4960.9,Mishi Kobe Niku; Thüringer Rostbratwurst; Inlagd Sill
+10749,Island Trading,Margaret Peacock,United Package,1997-11-20,1997-12-18,1997-12-19,28,29.0,-1.0,1080.0,Gnocchi di nonna Alice; Raclette Courdavault; Lakkalikööri
+10302,Suprêmes délices,Margaret Peacock,United Package,1996-09-10,1996-10-08,1996-10-09,28,29.0,-1.0,2708.8,Alice Mutton; Rössle Sauerkraut; Ipoh Coffee
+10816,Great Lakes Food Market,Margaret Peacock,United Package,1998-01-06,1998-02-03,1998-02-04,28,29.0,-1.0,8446.45,Côte de Blaye; Tarte au sucre
+10271,Split Rail Beer & Ale,Michael Suyama,United Package,1996-08-01,1996-08-29,1996-08-30,28,29.0,-1.0,48.0,Geitost
+10320,Wartian Herkku,Steven Buchanan,Federal Shipping,1996-10-03,1996-10-17,1996-10-18,14,15.0,-1.0,516.0,Fløtemysost
+10523,Seven Seas Imports,Robert King,United Package,1997-05-01,1997-05-29,1997-05-30,28,29.0,-1.0,2444.31,Alice Mutton; Sir Rodney's Marmalade; Gravad lax; Jack's New England Clam Chowder
+10433,Princesa Isabel Vinhos,Janet Leverling,Federal Shipping,1997-02-03,1997-03-03,1997-03-04,28,29.0,-1.0,851.2,Gnocchi di nonna Alice
+10280,Berglunds snabbköp,Andrew Fuller,Speedy Express,1996-08-14,1996-09-11,1996-09-12,28,29.0,-1.0,613.2,Guaraná Fantástica; Pâté chinois; Rhönbräu Klosterbier
+10779,Morgenstern Gesundkost,Janet Leverling,United Package,1997-12-16,1998-01-13,1998-01-14,28,29.0,-1.0,1335.0,Pavlova; Tarte au sucre

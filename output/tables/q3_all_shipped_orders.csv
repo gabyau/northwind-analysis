@@ -1,0 +1,810 @@
+OrderID,CustomerName,EmployeeName,ShipperName,OrderDate,RequiredDate,ShippedDate,DeadlineDays,DaysToShip,DaysOfMargin,NetValue
+10248,Wilman Kala,Steven Buchanan,Federal Shipping,1996-07-04,1996-08-01,1996-07-16,28,12.0,16.0,440.0
+10249,Tradição Hipermercados,Michael Suyama,Speedy Express,1996-07-05,1996-08-16,1996-07-10,42,5.0,37.0,1863.4
+10250,Hanari Carnes,Margaret Peacock,United Package,1996-07-08,1996-08-05,1996-07-12,28,4.0,24.0,1552.6
+10251,Victuailles en stock,Janet Leverling,Speedy Express,1996-07-08,1996-08-05,1996-07-15,28,7.0,21.0,654.06
+10252,Suprêmes délices,Margaret Peacock,United Package,1996-07-09,1996-08-06,1996-07-11,28,2.0,26.0,3597.9
+10253,Hanari Carnes,Janet Leverling,United Package,1996-07-10,1996-07-24,1996-07-16,14,6.0,8.0,1444.8
+10254,Chop-suey Chinese,Steven Buchanan,United Package,1996-07-11,1996-08-08,1996-07-23,28,12.0,16.0,556.62
+10255,Richter Supermarkt,Anne Dodsworth,Federal Shipping,1996-07-12,1996-08-09,1996-07-15,28,3.0,25.0,2490.5
+10256,Wellington Importadora,Janet Leverling,United Package,1996-07-15,1996-08-12,1996-07-17,28,2.0,26.0,517.8
+10257,HILARIÓN-Abastos,Margaret Peacock,Federal Shipping,1996-07-16,1996-08-13,1996-07-22,28,6.0,22.0,1119.9
+10258,Ernst Handel,Nancy Davolio,Speedy Express,1996-07-17,1996-08-14,1996-07-23,28,6.0,22.0,1614.88
+10259,Centro comercial Moctezuma,Margaret Peacock,Federal Shipping,1996-07-18,1996-08-15,1996-07-25,28,7.0,21.0,100.8
+10260,Old World Delicatessen,Margaret Peacock,Speedy Express,1996-07-19,1996-08-16,1996-07-29,28,10.0,18.0,1504.65
+10261,Que Delícia,Margaret Peacock,United Package,1996-07-19,1996-08-16,1996-07-30,28,11.0,17.0,448.0
+10262,Rattlesnake Canyon Grocery,Laura Callahan,Federal Shipping,1996-07-22,1996-08-19,1996-07-25,28,3.0,25.0,584.0
+10263,Ernst Handel,Anne Dodsworth,Federal Shipping,1996-07-23,1996-08-20,1996-07-31,28,8.0,20.0,1873.8
+10264,Folk och fä HB,Michael Suyama,Federal Shipping,1996-07-24,1996-08-21,1996-08-23,28,30.0,-2.0,695.62
+10265,Blondel père et fils,Andrew Fuller,Speedy Express,1996-07-25,1996-08-22,1996-08-12,28,18.0,10.0,1176.0
+10266,Wartian Herkku,Janet Leverling,Federal Shipping,1996-07-26,1996-09-06,1996-07-31,42,5.0,37.0,346.56
+10267,Frankenversand,Margaret Peacock,Speedy Express,1996-07-29,1996-08-26,1996-08-06,28,8.0,20.0,3536.6
+10268,GROSELLA-Restaurante,Laura Callahan,Federal Shipping,1996-07-30,1996-08-27,1996-08-02,28,3.0,25.0,1101.2
+10269,White Clover Markets,Steven Buchanan,Speedy Express,1996-07-31,1996-08-14,1996-08-09,14,9.0,5.0,642.2
+10270,Wartian Herkku,Nancy Davolio,Speedy Express,1996-08-01,1996-08-29,1996-08-02,28,1.0,27.0,1376.0
+10271,Split Rail Beer & Ale,Michael Suyama,United Package,1996-08-01,1996-08-29,1996-08-30,28,29.0,-1.0,48.0
+10272,Rattlesnake Canyon Grocery,Michael Suyama,United Package,1996-08-02,1996-08-30,1996-08-06,28,4.0,24.0,1456.0
+10273,QUICK-Stop,Janet Leverling,Federal Shipping,1996-08-05,1996-09-02,1996-08-12,28,7.0,21.0,2037.28
+10274,Vins et alcools Chevalier,Michael Suyama,Speedy Express,1996-08-06,1996-09-03,1996-08-16,28,10.0,18.0,538.6
+10275,Magazzini Alimentari Riuniti,Nancy Davolio,Speedy Express,1996-08-07,1996-09-04,1996-08-09,28,2.0,26.0,291.84
+10276,Tortuga Restaurante,Laura Callahan,Federal Shipping,1996-08-08,1996-08-22,1996-08-14,14,6.0,8.0,420.0
+10277,Morgenstern Gesundkost,Andrew Fuller,Federal Shipping,1996-08-09,1996-09-06,1996-08-13,28,4.0,24.0,1200.8
+10278,Berglunds snabbköp,Laura Callahan,United Package,1996-08-12,1996-09-09,1996-08-16,28,4.0,24.0,1488.8
+10279,Lehmanns Marktstand,Laura Callahan,United Package,1996-08-13,1996-09-10,1996-08-16,28,3.0,25.0,351.0
+10280,Berglunds snabbköp,Andrew Fuller,Speedy Express,1996-08-14,1996-09-11,1996-09-12,28,29.0,-1.0,613.2
+10281,Romero y tomillo,Margaret Peacock,Speedy Express,1996-08-14,1996-08-28,1996-08-21,14,7.0,7.0,86.5
+10282,Romero y tomillo,Margaret Peacock,Speedy Express,1996-08-15,1996-09-12,1996-08-21,28,6.0,22.0,155.4
+10283,LILA-Supermercado,Janet Leverling,Federal Shipping,1996-08-16,1996-09-13,1996-08-23,28,7.0,21.0,1414.8
+10284,Lehmanns Marktstand,Margaret Peacock,Speedy Express,1996-08-19,1996-09-16,1996-08-27,28,8.0,20.0,1170.38
+10285,QUICK-Stop,Nancy Davolio,United Package,1996-08-20,1996-09-17,1996-08-26,28,6.0,22.0,1743.36
+10286,QUICK-Stop,Laura Callahan,Federal Shipping,1996-08-21,1996-09-18,1996-08-30,28,9.0,19.0,3016.0
+10287,Ricardo Adocicados,Laura Callahan,Federal Shipping,1996-08-22,1996-09-19,1996-08-28,28,6.0,22.0,819.0
+10288,Reggiani Caseifici,Margaret Peacock,Speedy Express,1996-08-23,1996-09-20,1996-09-03,28,11.0,17.0,80.1
+10289,B's Beverages,Robert King,Federal Shipping,1996-08-26,1996-09-23,1996-08-28,28,2.0,26.0,479.4
+10290,Comércio Mineiro,Laura Callahan,Speedy Express,1996-08-27,1996-09-24,1996-09-03,28,7.0,21.0,2169.0
+10291,Que Delícia,Michael Suyama,United Package,1996-08-27,1996-09-24,1996-09-04,28,8.0,20.0,497.52
+10292,Tradição Hipermercados,Nancy Davolio,United Package,1996-08-28,1996-09-25,1996-09-02,28,5.0,23.0,1296.0
+10293,Tortuga Restaurante,Nancy Davolio,Federal Shipping,1996-08-29,1996-09-26,1996-09-11,28,13.0,15.0,848.7
+10294,Rattlesnake Canyon Grocery,Margaret Peacock,United Package,1996-08-30,1996-09-27,1996-09-05,28,6.0,22.0,1887.6
+10295,Vins et alcools Chevalier,Andrew Fuller,United Package,1996-09-02,1996-09-30,1996-09-10,28,8.0,20.0,121.6
+10296,LILA-Supermercado,Michael Suyama,Speedy Express,1996-09-03,1996-10-01,1996-09-11,28,8.0,20.0,1050.6
+10297,Blondel père et fils,Steven Buchanan,United Package,1996-09-04,1996-10-16,1996-09-10,42,6.0,36.0,1420.0
+10298,Hungry Owl All-Night Grocers,Michael Suyama,United Package,1996-09-05,1996-10-03,1996-09-11,28,6.0,22.0,2645.0
+10299,Ricardo Adocicados,Margaret Peacock,United Package,1996-09-06,1996-10-04,1996-09-13,28,7.0,21.0,349.5
+10300,Magazzini Alimentari Riuniti,Andrew Fuller,United Package,1996-09-09,1996-10-07,1996-09-18,28,9.0,19.0,608.0
+10301,Die Wandernde Kuh,Laura Callahan,United Package,1996-09-09,1996-10-07,1996-09-17,28,8.0,20.0,755.0
+10302,Suprêmes délices,Margaret Peacock,United Package,1996-09-10,1996-10-08,1996-10-09,28,29.0,-1.0,2708.8
+10303,Godos Cocina Típica,Robert King,United Package,1996-09-11,1996-10-09,1996-09-18,28,7.0,21.0,1117.8
+10304,Tortuga Restaurante,Nancy Davolio,United Package,1996-09-12,1996-10-10,1996-09-17,28,5.0,23.0,954.4
+10305,Old World Delicatessen,Laura Callahan,Federal Shipping,1996-09-13,1996-10-11,1996-10-09,28,26.0,2.0,3741.3
+10306,Romero y tomillo,Nancy Davolio,Federal Shipping,1996-09-16,1996-10-14,1996-09-23,28,7.0,21.0,498.5
+10307,Lonesome Pine Restaurant,Andrew Fuller,United Package,1996-09-17,1996-10-15,1996-09-25,28,8.0,20.0,424.0
+10308,Ana Trujillo Emparedados y helados,Robert King,Federal Shipping,1996-09-18,1996-10-16,1996-09-24,28,6.0,22.0,88.8
+10309,Hungry Owl All-Night Grocers,Janet Leverling,Speedy Express,1996-09-19,1996-10-17,1996-10-23,28,34.0,-6.0,1762.0
+10310,The Big Cheese,Laura Callahan,United Package,1996-09-20,1996-10-18,1996-09-27,28,7.0,21.0,336.0
+10311,Du monde entier,Nancy Davolio,Federal Shipping,1996-09-20,1996-10-04,1996-09-26,14,6.0,8.0,268.8
+10312,Die Wandernde Kuh,Andrew Fuller,United Package,1996-09-23,1996-10-21,1996-10-03,28,10.0,18.0,1614.8
+10313,QUICK-Stop,Andrew Fuller,United Package,1996-09-24,1996-10-22,1996-10-04,28,10.0,18.0,182.4
+10314,Rattlesnake Canyon Grocery,Nancy Davolio,United Package,1996-09-25,1996-10-23,1996-10-04,28,9.0,19.0,2094.3
+10315,Island Trading,Margaret Peacock,United Package,1996-09-26,1996-10-24,1996-10-03,28,7.0,21.0,516.8
+10316,Rattlesnake Canyon Grocery,Nancy Davolio,Federal Shipping,1996-09-27,1996-10-25,1996-10-08,28,11.0,17.0,2835.0
+10317,Lonesome Pine Restaurant,Michael Suyama,Speedy Express,1996-09-30,1996-10-28,1996-10-10,28,10.0,18.0,288.0
+10318,Island Trading,Laura Callahan,United Package,1996-10-01,1996-10-29,1996-10-04,28,3.0,25.0,240.4
+10319,Tortuga Restaurante,Robert King,Federal Shipping,1996-10-02,1996-10-30,1996-10-11,28,9.0,19.0,1191.2
+10320,Wartian Herkku,Steven Buchanan,Federal Shipping,1996-10-03,1996-10-17,1996-10-18,14,15.0,-1.0,516.0
+10321,Island Trading,Janet Leverling,United Package,1996-10-03,1996-10-31,1996-10-11,28,8.0,20.0,144.0
+10322,Pericles Comidas clásicas,Robert King,Federal Shipping,1996-10-04,1996-11-01,1996-10-23,28,19.0,9.0,112.0
+10323,Königlich Essen,Margaret Peacock,Speedy Express,1996-10-07,1996-11-04,1996-10-14,28,7.0,21.0,164.4
+10324,Save-a-lot Markets,Anne Dodsworth,Speedy Express,1996-10-08,1996-11-05,1996-10-10,28,2.0,26.0,5275.72
+10325,Königlich Essen,Nancy Davolio,Federal Shipping,1996-10-09,1996-10-23,1996-10-14,14,5.0,9.0,1497.0
+10326,Bólido Comidas preparadas,Margaret Peacock,United Package,1996-10-10,1996-11-07,1996-10-14,28,4.0,24.0,982.0
+10327,Folk och fä HB,Andrew Fuller,Speedy Express,1996-10-11,1996-11-08,1996-10-14,28,3.0,25.0,1810.0
+10328,Furia Bacalhau e Frutos do Mar,Margaret Peacock,Federal Shipping,1996-10-14,1996-11-11,1996-10-17,28,3.0,25.0,1168.0
+10329,Split Rail Beer & Ale,Margaret Peacock,United Package,1996-10-15,1996-11-26,1996-10-23,42,8.0,34.0,4578.43
+10330,LILA-Supermercado,Janet Leverling,Speedy Express,1996-10-16,1996-11-13,1996-10-28,28,12.0,16.0,1649.0
+10331,Bon app',Anne Dodsworth,Speedy Express,1996-10-16,1996-11-27,1996-10-21,42,5.0,37.0,88.5
+10332,Mère Paillarde,Janet Leverling,United Package,1996-10-17,1996-11-28,1996-10-21,42,4.0,38.0,1786.88
+10333,Wartian Herkku,Steven Buchanan,Federal Shipping,1996-10-18,1996-11-15,1996-10-25,28,7.0,21.0,877.2
+10334,Victuailles en stock,Laura Callahan,United Package,1996-10-21,1996-11-18,1996-10-28,28,7.0,21.0,144.8
+10335,Hungry Owl All-Night Grocers,Robert King,United Package,1996-10-22,1996-11-19,1996-10-24,28,2.0,26.0,2036.16
+10336,Princesa Isabel Vinhos,Robert King,United Package,1996-10-23,1996-11-20,1996-10-25,28,2.0,26.0,285.12
+10337,Frankenversand,Margaret Peacock,Federal Shipping,1996-10-24,1996-11-21,1996-10-29,28,5.0,23.0,2467.0
+10338,Old World Delicatessen,Margaret Peacock,Federal Shipping,1996-10-25,1996-11-22,1996-10-29,28,4.0,24.0,934.5
+10339,Mère Paillarde,Andrew Fuller,United Package,1996-10-28,1996-11-25,1996-11-04,28,7.0,21.0,3354.0
+10340,Bon app',Nancy Davolio,Federal Shipping,1996-10-29,1996-11-26,1996-11-08,28,10.0,18.0,2436.18
+10341,Simons bistro,Robert King,Federal Shipping,1996-10-29,1996-11-26,1996-11-05,28,7.0,21.0,352.6
+10342,Frankenversand,Margaret Peacock,United Package,1996-10-30,1996-11-13,1996-11-04,14,5.0,9.0,1840.64
+10343,Lehmanns Marktstand,Margaret Peacock,Speedy Express,1996-10-31,1996-11-28,1996-11-06,28,6.0,22.0,1584.0
+10344,White Clover Markets,Margaret Peacock,United Package,1996-11-01,1996-11-29,1996-11-05,28,4.0,24.0,2296.0
+10345,QUICK-Stop,Andrew Fuller,United Package,1996-11-04,1996-12-02,1996-11-11,28,7.0,21.0,2924.8
+10346,Rattlesnake Canyon Grocery,Janet Leverling,Federal Shipping,1996-11-05,1996-12-17,1996-11-08,42,3.0,39.0,1618.88
+10347,Familia Arquibaldo,Margaret Peacock,Federal Shipping,1996-11-06,1996-12-04,1996-11-08,28,2.0,26.0,814.42
+10348,Die Wandernde Kuh,Margaret Peacock,United Package,1996-11-07,1996-12-05,1996-11-15,28,8.0,20.0,363.6
+10349,Split Rail Beer & Ale,Robert King,Speedy Express,1996-11-08,1996-12-06,1996-11-15,28,7.0,21.0,141.6
+10350,La maison d'Asie,Michael Suyama,United Package,1996-11-11,1996-12-09,1996-12-03,28,22.0,6.0,642.06
+10351,Ernst Handel,Nancy Davolio,Speedy Express,1996-11-11,1996-12-09,1996-11-20,28,9.0,19.0,5398.72
+10352,Furia Bacalhau e Frutos do Mar,Janet Leverling,Federal Shipping,1996-11-12,1996-11-26,1996-11-18,14,6.0,8.0,136.3
+10353,Piccolo und mehr,Robert King,Federal Shipping,1996-11-13,1996-12-11,1996-11-25,28,12.0,16.0,8593.28
+10354,Pericles Comidas clásicas,Laura Callahan,Federal Shipping,1996-11-14,1996-12-12,1996-11-20,28,6.0,22.0,568.8
+10355,Around the Horn,Michael Suyama,Speedy Express,1996-11-15,1996-12-13,1996-11-20,28,5.0,23.0,480.0
+10356,Die Wandernde Kuh,Michael Suyama,United Package,1996-11-18,1996-12-16,1996-11-27,28,9.0,19.0,1106.4
+10357,LILA-Supermercado,Nancy Davolio,Federal Shipping,1996-11-19,1996-12-17,1996-12-02,28,13.0,15.0,1167.68
+10358,La maison d'Asie,Steven Buchanan,Speedy Express,1996-11-20,1996-12-18,1996-11-27,28,7.0,21.0,429.4
+10359,Seven Seas Imports,Steven Buchanan,Federal Shipping,1996-11-21,1996-12-19,1996-11-26,28,5.0,23.0,3471.68
+10360,Blondel père et fils,Margaret Peacock,Federal Shipping,1996-11-22,1996-12-20,1996-12-02,28,10.0,18.0,7390.2
+10361,QUICK-Stop,Nancy Davolio,United Package,1996-11-22,1996-12-20,1996-12-03,28,11.0,17.0,2046.24
+10362,Bon app',Janet Leverling,Speedy Express,1996-11-25,1996-12-23,1996-11-28,28,3.0,25.0,1549.6
+10363,Drachenblut Delikatessen,Margaret Peacock,Federal Shipping,1996-11-26,1996-12-24,1996-12-04,28,8.0,20.0,447.2
+10364,Eastern Connection,Nancy Davolio,Speedy Express,1996-11-26,1997-01-07,1996-12-04,42,8.0,34.0,950.0
+10365,Antonio Moreno Taquería,Janet Leverling,United Package,1996-11-27,1996-12-25,1996-12-02,28,5.0,23.0,403.2
+10366,Galería del gastrónomo,Laura Callahan,United Package,1996-11-28,1997-01-09,1996-12-30,42,32.0,10.0,136.0
+10367,Vaffeljernet,Robert King,Federal Shipping,1996-11-28,1996-12-26,1996-12-02,28,4.0,24.0,834.2
+10368,Ernst Handel,Andrew Fuller,United Package,1996-11-29,1996-12-27,1996-12-02,28,3.0,25.0,1689.78
+10369,Split Rail Beer & Ale,Laura Callahan,United Package,1996-12-02,1996-12-30,1996-12-09,28,7.0,21.0,2390.4
+10370,Chop-suey Chinese,Michael Suyama,United Package,1996-12-03,1996-12-31,1996-12-27,28,24.0,4.0,1117.6
+10371,La maison d'Asie,Nancy Davolio,Speedy Express,1996-12-03,1996-12-31,1996-12-24,28,21.0,7.0,72.96
+10372,Queen Cozinha,Steven Buchanan,United Package,1996-12-04,1997-01-01,1996-12-09,28,5.0,23.0,9210.9
+10373,Hungry Owl All-Night Grocers,Margaret Peacock,Federal Shipping,1996-12-05,1997-01-02,1996-12-11,28,6.0,22.0,1366.4
+10374,Wolski  Zajazd,Nancy Davolio,Federal Shipping,1996-12-05,1997-01-02,1996-12-09,28,4.0,24.0,459.0
+10375,Hungry Coyote Import Store,Janet Leverling,United Package,1996-12-06,1997-01-03,1996-12-09,28,3.0,25.0,338.0
+10376,Mère Paillarde,Nancy Davolio,United Package,1996-12-09,1997-01-06,1996-12-13,28,4.0,24.0,399.0
+10377,Seven Seas Imports,Nancy Davolio,Federal Shipping,1996-12-09,1997-01-06,1996-12-13,28,4.0,24.0,863.6
+10378,Folk och fä HB,Steven Buchanan,Federal Shipping,1996-12-10,1997-01-07,1996-12-19,28,9.0,19.0,103.2
+10379,Que Delícia,Andrew Fuller,Speedy Express,1996-12-11,1997-01-08,1996-12-13,28,2.0,26.0,863.28
+10380,Hungry Owl All-Night Grocers,Laura Callahan,Federal Shipping,1996-12-12,1997-01-09,1997-01-16,28,35.0,-7.0,1313.82
+10381,LILA-Supermercado,Janet Leverling,Federal Shipping,1996-12-12,1997-01-09,1996-12-13,28,1.0,27.0,112.0
+10382,Ernst Handel,Margaret Peacock,Speedy Express,1996-12-13,1997-01-10,1996-12-16,28,3.0,25.0,2900.0
+10383,Around the Horn,Laura Callahan,Federal Shipping,1996-12-16,1997-01-13,1996-12-18,28,2.0,26.0,899.0
+10384,Berglunds snabbköp,Janet Leverling,Federal Shipping,1996-12-16,1997-01-13,1996-12-20,28,4.0,24.0,2222.4
+10385,Split Rail Beer & Ale,Nancy Davolio,United Package,1996-12-17,1997-01-14,1996-12-23,28,6.0,22.0,691.2
+10386,Familia Arquibaldo,Anne Dodsworth,Federal Shipping,1996-12-18,1997-01-01,1996-12-25,14,7.0,7.0,166.0
+10387,Santé Gourmet,Nancy Davolio,United Package,1996-12-18,1997-01-15,1996-12-20,28,2.0,26.0,1058.4
+10388,Seven Seas Imports,Andrew Fuller,Speedy Express,1996-12-19,1997-01-16,1996-12-20,28,1.0,27.0,1228.8
+10389,Bottom-Dollar Markets,Margaret Peacock,United Package,1996-12-20,1997-01-17,1996-12-24,28,4.0,24.0,1832.8
+10390,Ernst Handel,Michael Suyama,Speedy Express,1996-12-23,1997-01-20,1996-12-26,28,3.0,25.0,2090.88
+10391,Drachenblut Delikatessen,Janet Leverling,Federal Shipping,1996-12-23,1997-01-20,1996-12-31,28,8.0,20.0,86.4
+10392,Piccolo und mehr,Andrew Fuller,Federal Shipping,1996-12-24,1997-01-21,1997-01-01,28,8.0,20.0,1440.0
+10393,Save-a-lot Markets,Nancy Davolio,Federal Shipping,1996-12-25,1997-01-22,1997-01-03,28,9.0,19.0,2556.95
+10394,Hungry Coyote Import Store,Nancy Davolio,Federal Shipping,1996-12-25,1997-01-22,1997-01-03,28,9.0,19.0,442.0
+10395,HILARIÓN-Abastos,Michael Suyama,Speedy Express,1996-12-26,1997-01-23,1997-01-03,28,8.0,20.0,2122.92
+10396,Frankenversand,Nancy Davolio,Federal Shipping,1996-12-27,1997-01-10,1997-01-06,14,10.0,4.0,1903.8
+10397,Princesa Isabel Vinhos,Steven Buchanan,Speedy Express,1996-12-27,1997-01-24,1997-01-02,28,6.0,22.0,716.72
+10398,Save-a-lot Markets,Andrew Fuller,Federal Shipping,1996-12-30,1997-01-27,1997-01-09,28,10.0,18.0,2505.6
+10399,Vaffeljernet,Laura Callahan,Federal Shipping,1996-12-31,1997-01-14,1997-01-08,14,8.0,6.0,1765.6
+10400,Eastern Connection,Nancy Davolio,Federal Shipping,1997-01-01,1997-01-29,1997-01-16,28,15.0,13.0,3063.0
+10401,Rattlesnake Canyon Grocery,Nancy Davolio,Speedy Express,1997-01-01,1997-01-29,1997-01-10,28,9.0,19.0,3868.6
+10402,Ernst Handel,Laura Callahan,United Package,1997-01-02,1997-02-13,1997-01-10,42,8.0,34.0,2713.5
+10403,Ernst Handel,Margaret Peacock,Federal Shipping,1997-01-03,1997-01-31,1997-01-09,28,6.0,22.0,855.02
+10404,Magazzini Alimentari Riuniti,Andrew Fuller,Speedy Express,1997-01-03,1997-01-31,1997-01-08,28,5.0,23.0,1591.25
+10405,LINO-Delicateses,Nancy Davolio,Speedy Express,1997-01-06,1997-02-03,1997-01-22,28,16.0,12.0,400.0
+10406,Queen Cozinha,Robert King,Speedy Express,1997-01-07,1997-02-18,1997-01-13,42,6.0,36.0,1830.78
+10407,Ottilies Käseladen,Andrew Fuller,United Package,1997-01-07,1997-02-04,1997-01-30,28,23.0,5.0,1194.0
+10408,Folies gourmandes,Laura Callahan,Speedy Express,1997-01-08,1997-02-05,1997-01-14,28,6.0,22.0,1622.4
+10409,Océano Atlántico Ltda.,Janet Leverling,Speedy Express,1997-01-09,1997-02-06,1997-01-14,28,5.0,23.0,319.2
+10410,Bottom-Dollar Markets,Janet Leverling,Federal Shipping,1997-01-10,1997-02-07,1997-01-15,28,5.0,23.0,802.0
+10411,Bottom-Dollar Markets,Anne Dodsworth,Federal Shipping,1997-01-10,1997-02-07,1997-01-21,28,11.0,17.0,966.8
+10412,Wartian Herkku,Laura Callahan,United Package,1997-01-13,1997-02-10,1997-01-15,28,2.0,26.0,334.8
+10413,La maison d'Asie,Janet Leverling,United Package,1997-01-14,1997-02-11,1997-01-16,28,2.0,26.0,2123.2
+10414,Familia Arquibaldo,Andrew Fuller,Federal Shipping,1997-01-14,1997-02-11,1997-01-17,28,3.0,25.0,224.83
+10415,Hungry Coyote Import Store,Janet Leverling,Speedy Express,1997-01-15,1997-02-12,1997-01-24,28,9.0,19.0,102.4
+10416,Wartian Herkku,Laura Callahan,Federal Shipping,1997-01-16,1997-02-13,1997-01-27,28,11.0,17.0,720.0
+10417,Simons bistro,Margaret Peacock,Federal Shipping,1997-01-16,1997-02-13,1997-01-28,28,12.0,16.0,11188.4
+10418,QUICK-Stop,Margaret Peacock,Speedy Express,1997-01-17,1997-02-14,1997-01-24,28,7.0,21.0,1814.8
+10419,Richter Supermarkt,Margaret Peacock,United Package,1997-01-20,1997-02-17,1997-01-30,28,10.0,18.0,2097.6
+10420,Wellington Importadora,Janet Leverling,Speedy Express,1997-01-21,1997-02-18,1997-01-27,28,6.0,22.0,1707.84
+10421,Que Delícia,Laura Callahan,Speedy Express,1997-01-21,1997-03-04,1997-01-27,42,6.0,36.0,1194.27
+10422,Franchi S.p.A.,Andrew Fuller,Speedy Express,1997-01-22,1997-02-19,1997-01-31,28,9.0,19.0,49.8
+10423,Gourmet Lanchonetes,Michael Suyama,Federal Shipping,1997-01-23,1997-02-06,1997-02-24,14,32.0,-18.0,1020.0
+10424,Mère Paillarde,Robert King,United Package,1997-01-23,1997-02-20,1997-01-27,28,4.0,24.0,9194.56
+10425,La maison d'Asie,Michael Suyama,United Package,1997-01-24,1997-02-21,1997-02-14,28,21.0,7.0,360.0
+10426,Galería del gastrónomo,Margaret Peacock,Speedy Express,1997-01-27,1997-02-24,1997-02-06,28,10.0,18.0,338.2
+10427,Piccolo und mehr,Margaret Peacock,United Package,1997-01-27,1997-02-24,1997-03-03,28,35.0,-7.0,651.0
+10428,Reggiani Caseifici,Robert King,Speedy Express,1997-01-28,1997-02-25,1997-02-04,28,7.0,21.0,192.0
+10429,Hungry Owl All-Night Grocers,Janet Leverling,United Package,1997-01-29,1997-03-12,1997-02-07,42,9.0,33.0,1441.38
+10430,Ernst Handel,Margaret Peacock,Speedy Express,1997-01-30,1997-02-13,1997-02-03,14,4.0,10.0,4899.2
+10431,Bottom-Dollar Markets,Margaret Peacock,United Package,1997-01-30,1997-02-13,1997-02-07,14,8.0,6.0,1892.25
+10432,Split Rail Beer & Ale,Janet Leverling,United Package,1997-01-31,1997-02-14,1997-02-07,14,7.0,7.0,485.0
+10433,Princesa Isabel Vinhos,Janet Leverling,Federal Shipping,1997-02-03,1997-03-03,1997-03-04,28,29.0,-1.0,851.2
+10434,Folk och fä HB,Janet Leverling,United Package,1997-02-03,1997-03-03,1997-02-13,28,10.0,18.0,321.12
+10435,Consolidated Holdings,Laura Callahan,United Package,1997-02-04,1997-03-18,1997-02-07,42,3.0,39.0,631.6
+10436,Blondel père et fils,Janet Leverling,United Package,1997-02-05,1997-03-05,1997-02-11,28,6.0,22.0,1994.52
+10437,Wartian Herkku,Laura Callahan,Speedy Express,1997-02-05,1997-03-05,1997-02-12,28,7.0,21.0,393.0
+10438,Toms Spezialitäten,Janet Leverling,United Package,1997-02-06,1997-03-06,1997-02-14,28,8.0,20.0,454.0
+10439,Mère Paillarde,Michael Suyama,Federal Shipping,1997-02-07,1997-03-07,1997-02-10,28,3.0,25.0,1078.0
+10440,Save-a-lot Markets,Margaret Peacock,United Package,1997-02-10,1997-03-10,1997-02-28,28,18.0,10.0,4924.14
+10441,Old World Delicatessen,Janet Leverling,United Package,1997-02-10,1997-03-24,1997-03-14,42,32.0,10.0,1755.0
+10442,Ernst Handel,Janet Leverling,United Package,1997-02-11,1997-03-11,1997-02-18,28,7.0,21.0,1792.0
+10443,Reggiani Caseifici,Laura Callahan,Speedy Express,1997-02-12,1997-03-12,1997-02-14,28,2.0,26.0,517.44
+10444,Berglunds snabbköp,Janet Leverling,Federal Shipping,1997-02-12,1997-03-12,1997-02-21,28,9.0,19.0,1031.7
+10445,Berglunds snabbköp,Janet Leverling,Speedy Express,1997-02-13,1997-03-13,1997-02-20,28,7.0,21.0,174.9
+10446,Toms Spezialitäten,Michael Suyama,Speedy Express,1997-02-14,1997-03-14,1997-02-19,28,5.0,23.0,246.24
+10447,Ricardo Adocicados,Margaret Peacock,United Package,1997-02-14,1997-03-14,1997-03-07,28,21.0,7.0,914.4
+10448,Rancho grande,Margaret Peacock,United Package,1997-02-17,1997-03-17,1997-02-24,28,7.0,21.0,443.4
+10449,Blondel père et fils,Janet Leverling,United Package,1997-02-18,1997-03-18,1997-02-27,28,9.0,19.0,1838.2
+10450,Victuailles en stock,Laura Callahan,United Package,1997-02-19,1997-03-19,1997-03-11,28,20.0,8.0,425.12
+10451,QUICK-Stop,Margaret Peacock,Federal Shipping,1997-02-19,1997-03-05,1997-03-12,14,21.0,-7.0,3849.66
+10452,Save-a-lot Markets,Laura Callahan,Speedy Express,1997-02-20,1997-03-20,1997-02-26,28,6.0,22.0,2018.5
+10453,Around the Horn,Nancy Davolio,United Package,1997-02-21,1997-03-21,1997-02-26,28,5.0,23.0,407.7
+10454,La maison d'Asie,Margaret Peacock,Federal Shipping,1997-02-21,1997-03-21,1997-02-25,28,4.0,24.0,331.2
+10455,Wartian Herkku,Laura Callahan,United Package,1997-02-24,1997-04-07,1997-03-03,42,7.0,35.0,2684.0
+10456,Königlich Essen,Laura Callahan,United Package,1997-02-25,1997-04-08,1997-02-28,42,3.0,39.0,557.6
+10457,Königlich Essen,Andrew Fuller,Speedy Express,1997-02-25,1997-03-25,1997-03-03,28,6.0,22.0,1584.0
+10458,Suprêmes délices,Robert King,Federal Shipping,1997-02-26,1997-03-26,1997-03-04,28,6.0,22.0,3891.0
+10459,Victuailles en stock,Margaret Peacock,United Package,1997-02-27,1997-03-27,1997-02-28,28,1.0,27.0,1659.2
+10460,Folk och fä HB,Laura Callahan,Speedy Express,1997-02-28,1997-03-28,1997-03-03,28,3.0,25.0,176.1
+10461,LILA-Supermercado,Nancy Davolio,Federal Shipping,1997-02-28,1997-03-28,1997-03-05,28,5.0,23.0,1538.7
+10462,Consolidated Holdings,Andrew Fuller,Speedy Express,1997-03-03,1997-03-31,1997-03-18,28,15.0,13.0,156.0
+10463,Suprêmes délices,Steven Buchanan,Federal Shipping,1997-03-04,1997-04-01,1997-03-06,28,2.0,26.0,713.3
+10464,Furia Bacalhau e Frutos do Mar,Margaret Peacock,United Package,1997-03-04,1997-04-01,1997-03-14,28,10.0,18.0,1609.28
+10465,Vaffeljernet,Nancy Davolio,Federal Shipping,1997-03-05,1997-04-02,1997-03-14,28,9.0,19.0,2518.0
+10466,Comércio Mineiro,Margaret Peacock,Speedy Express,1997-03-06,1997-04-03,1997-03-13,28,7.0,21.0,216.0
+10467,Magazzini Alimentari Riuniti,Laura Callahan,United Package,1997-03-06,1997-04-03,1997-03-11,28,5.0,23.0,235.2
+10468,Königlich Essen,Janet Leverling,Federal Shipping,1997-03-07,1997-04-04,1997-03-12,28,5.0,23.0,717.6
+10469,White Clover Markets,Nancy Davolio,Speedy Express,1997-03-10,1997-04-07,1997-03-14,28,4.0,24.0,956.68
+10470,Bon app',Margaret Peacock,United Package,1997-03-11,1997-04-08,1997-03-14,28,3.0,25.0,1820.8
+10471,B's Beverages,Andrew Fuller,Federal Shipping,1997-03-11,1997-04-08,1997-03-18,28,7.0,21.0,1328.0
+10472,Seven Seas Imports,Laura Callahan,Speedy Express,1997-03-12,1997-04-09,1997-03-19,28,7.0,21.0,1036.8
+10473,Island Trading,Nancy Davolio,Federal Shipping,1997-03-13,1997-03-27,1997-03-21,14,8.0,6.0,230.4
+10474,Pericles Comidas clásicas,Steven Buchanan,United Package,1997-03-13,1997-04-10,1997-03-21,28,8.0,20.0,1249.1
+10475,Suprêmes délices,Anne Dodsworth,Speedy Express,1997-03-14,1997-04-11,1997-04-04,28,21.0,7.0,1505.18
+10476,HILARIÓN-Abastos,Laura Callahan,Federal Shipping,1997-03-17,1997-04-14,1997-03-24,28,7.0,21.0,180.48
+10477,Princesa Isabel Vinhos,Steven Buchanan,United Package,1997-03-17,1997-04-14,1997-03-25,28,8.0,20.0,558.0
+10478,Victuailles en stock,Andrew Fuller,Federal Shipping,1997-03-18,1997-04-01,1997-03-26,14,8.0,6.0,471.2
+10479,Rattlesnake Canyon Grocery,Janet Leverling,Federal Shipping,1997-03-19,1997-04-16,1997-03-21,28,2.0,26.0,10495.6
+10480,Folies gourmandes,Michael Suyama,United Package,1997-03-20,1997-04-17,1997-03-24,28,4.0,24.0,756.0
+10481,Ricardo Adocicados,Laura Callahan,United Package,1997-03-20,1997-04-17,1997-03-25,28,5.0,23.0,1472.0
+10482,Lazy K Kountry Store,Nancy Davolio,Federal Shipping,1997-03-21,1997-04-18,1997-04-10,28,20.0,8.0,147.0
+10483,White Clover Markets,Robert King,United Package,1997-03-24,1997-04-21,1997-04-25,28,32.0,-4.0,668.8
+10484,B's Beverages,Janet Leverling,Federal Shipping,1997-03-24,1997-04-21,1997-04-01,28,8.0,20.0,386.2
+10485,LINO-Delicateses,Margaret Peacock,United Package,1997-03-25,1997-04-08,1997-03-31,14,6.0,8.0,1584.0
+10486,HILARIÓN-Abastos,Nancy Davolio,United Package,1997-03-26,1997-04-23,1997-04-02,28,7.0,21.0,1272.0
+10487,Queen Cozinha,Andrew Fuller,United Package,1997-03-26,1997-04-23,1997-03-28,28,2.0,26.0,889.7
+10488,Frankenversand,Laura Callahan,United Package,1997-03-27,1997-04-24,1997-04-02,28,6.0,22.0,1512.0
+10489,Piccolo und mehr,Michael Suyama,United Package,1997-03-28,1997-04-25,1997-04-09,28,12.0,16.0,439.2
+10490,HILARIÓN-Abastos,Robert King,United Package,1997-03-31,1997-04-28,1997-04-03,28,3.0,25.0,3163.2
+10491,Furia Bacalhau e Frutos do Mar,Laura Callahan,Federal Shipping,1997-03-31,1997-04-28,1997-04-08,28,8.0,20.0,259.5
+10492,Bottom-Dollar Markets,Janet Leverling,Speedy Express,1997-04-01,1997-04-29,1997-04-11,28,10.0,18.0,851.2
+10493,La maison d'Asie,Margaret Peacock,Federal Shipping,1997-04-02,1997-04-30,1997-04-10,28,8.0,20.0,608.4
+10494,Comércio Mineiro,Margaret Peacock,United Package,1997-04-02,1997-04-30,1997-04-09,28,7.0,21.0,912.0
+10495,Laughing Bacchus Wine Cellars,Janet Leverling,Federal Shipping,1997-04-03,1997-05-01,1997-04-11,28,8.0,20.0,278.0
+10496,Tradição Hipermercados,Robert King,United Package,1997-04-04,1997-05-02,1997-04-07,28,3.0,25.0,190.0
+10497,Lehmanns Marktstand,Robert King,Speedy Express,1997-04-04,1997-05-02,1997-04-07,28,3.0,25.0,1380.6
+10498,HILARIÓN-Abastos,Laura Callahan,United Package,1997-04-07,1997-05-05,1997-04-11,28,4.0,24.0,575.0
+10499,LILA-Supermercado,Margaret Peacock,United Package,1997-04-08,1997-05-06,1997-04-16,28,8.0,20.0,1412.0
+10500,La maison d'Asie,Michael Suyama,Speedy Express,1997-04-09,1997-05-07,1997-04-17,28,8.0,20.0,523.26
+10501,Blauer See Delikatessen,Anne Dodsworth,Federal Shipping,1997-04-09,1997-05-07,1997-04-16,28,7.0,21.0,149.0
+10502,Pericles Comidas clásicas,Andrew Fuller,Speedy Express,1997-04-10,1997-05-08,1997-04-29,28,19.0,9.0,816.3
+10503,Hungry Owl All-Night Grocers,Michael Suyama,United Package,1997-04-11,1997-05-09,1997-04-16,28,5.0,23.0,2048.5
+10504,White Clover Markets,Margaret Peacock,Federal Shipping,1997-04-11,1997-05-09,1997-04-18,28,7.0,21.0,1388.5
+10505,Mère Paillarde,Janet Leverling,Federal Shipping,1997-04-14,1997-05-12,1997-04-21,28,7.0,21.0,147.9
+10506,Königlich Essen,Anne Dodsworth,United Package,1997-04-15,1997-05-13,1997-05-02,28,17.0,11.0,415.8
+10507,Antonio Moreno Taquería,Robert King,Speedy Express,1997-04-15,1997-05-13,1997-04-22,28,7.0,21.0,749.06
+10508,Ottilies Käseladen,Nancy Davolio,United Package,1997-04-16,1997-05-14,1997-05-13,28,27.0,1.0,240.0
+10509,Blauer See Delikatessen,Margaret Peacock,Speedy Express,1997-04-17,1997-05-15,1997-04-29,28,12.0,16.0,136.8
+10510,Save-a-lot Markets,Michael Suyama,Federal Shipping,1997-04-18,1997-05-16,1997-04-28,28,10.0,18.0,4707.54
+10511,Bon app',Margaret Peacock,Federal Shipping,1997-04-18,1997-05-16,1997-04-21,28,3.0,25.0,2550.0
+10512,Familia Arquibaldo,Robert King,United Package,1997-04-21,1997-05-19,1997-04-24,28,3.0,25.0,525.3
+10513,Die Wandernde Kuh,Robert King,Speedy Express,1997-04-22,1997-06-03,1997-04-28,42,6.0,36.0,1942.0
+10514,Ernst Handel,Janet Leverling,United Package,1997-04-22,1997-05-20,1997-05-16,28,24.0,4.0,8623.45
+10515,QUICK-Stop,Andrew Fuller,Speedy Express,1997-04-23,1997-05-07,1997-05-23,14,30.0,-16.0,9921.3
+10516,Hungry Owl All-Night Grocers,Andrew Fuller,Federal Shipping,1997-04-24,1997-05-22,1997-05-01,28,7.0,21.0,2381.05
+10517,North/South,Janet Leverling,Federal Shipping,1997-04-24,1997-05-22,1997-04-29,28,5.0,23.0,352.0
+10518,Tortuga Restaurante,Margaret Peacock,United Package,1997-04-25,1997-05-09,1997-05-05,14,10.0,4.0,4150.05
+10519,Chop-suey Chinese,Michael Suyama,Federal Shipping,1997-04-28,1997-05-26,1997-05-01,28,3.0,25.0,2314.2
+10520,Santé Gourmet,Robert King,Speedy Express,1997-04-29,1997-05-27,1997-05-01,28,2.0,26.0,200.0
+10521,Cactus Comidas para llevar,Laura Callahan,United Package,1997-04-29,1997-05-27,1997-05-02,28,3.0,25.0,225.5
+10522,Lehmanns Marktstand,Margaret Peacock,Speedy Express,1997-04-30,1997-05-28,1997-05-06,28,6.0,22.0,2318.24
+10523,Seven Seas Imports,Robert King,United Package,1997-05-01,1997-05-29,1997-05-30,28,29.0,-1.0,2444.31
+10524,Berglunds snabbköp,Nancy Davolio,United Package,1997-05-01,1997-05-29,1997-05-07,28,6.0,22.0,3192.65
+10525,Bon app',Nancy Davolio,United Package,1997-05-02,1997-05-30,1997-05-23,28,21.0,7.0,818.4
+10526,Wartian Herkku,Margaret Peacock,United Package,1997-05-05,1997-06-02,1997-05-15,28,10.0,18.0,1151.4
+10527,QUICK-Stop,Robert King,Speedy Express,1997-05-05,1997-06-02,1997-05-07,28,2.0,26.0,1503.0
+10528,Great Lakes Food Market,Michael Suyama,United Package,1997-05-06,1997-05-20,1997-05-09,14,3.0,11.0,392.2
+10529,Maison Dewey,Steven Buchanan,United Package,1997-05-07,1997-06-04,1997-05-09,28,2.0,26.0,946.0
+10530,Piccolo und mehr,Janet Leverling,United Package,1997-05-08,1997-06-05,1997-05-12,28,4.0,24.0,4180.0
+10531,Océano Atlántico Ltda.,Robert King,Speedy Express,1997-05-08,1997-06-05,1997-05-19,28,11.0,17.0,110.0
+10532,Eastern Connection,Robert King,Federal Shipping,1997-05-09,1997-06-06,1997-05-12,28,3.0,25.0,796.35
+10533,Folk och fä HB,Laura Callahan,Speedy Express,1997-05-12,1997-06-09,1997-05-22,28,10.0,18.0,2222.2
+10534,Lehmanns Marktstand,Laura Callahan,United Package,1997-05-12,1997-06-09,1997-05-14,28,2.0,26.0,465.7
+10535,Antonio Moreno Taquería,Margaret Peacock,Speedy Express,1997-05-13,1997-06-10,1997-05-21,28,8.0,20.0,1940.85
+10536,Lehmanns Marktstand,Janet Leverling,United Package,1997-05-14,1997-06-11,1997-06-06,28,23.0,5.0,1645.0
+10537,Richter Supermarkt,Nancy Davolio,Speedy Express,1997-05-14,1997-05-28,1997-05-19,14,5.0,9.0,1823.8
+10538,B's Beverages,Anne Dodsworth,Federal Shipping,1997-05-15,1997-06-12,1997-05-16,28,1.0,27.0,139.8
+10539,B's Beverages,Michael Suyama,Federal Shipping,1997-05-16,1997-06-13,1997-05-23,28,7.0,21.0,355.5
+10540,QUICK-Stop,Janet Leverling,Federal Shipping,1997-05-19,1997-06-16,1997-06-13,28,25.0,3.0,10191.7
+10541,Hanari Carnes,Andrew Fuller,Speedy Express,1997-05-19,1997-06-16,1997-05-29,28,10.0,18.0,1946.52
+10542,Königlich Essen,Nancy Davolio,Federal Shipping,1997-05-20,1997-06-17,1997-05-26,28,6.0,22.0,469.11
+10543,LILA-Supermercado,Laura Callahan,United Package,1997-05-21,1997-06-18,1997-05-23,28,2.0,26.0,1504.5
+10544,Lonesome Pine Restaurant,Margaret Peacock,Speedy Express,1997-05-21,1997-06-18,1997-05-30,28,9.0,19.0,417.2
+10545,Lazy K Kountry Store,Laura Callahan,United Package,1997-05-22,1997-06-19,1997-06-26,28,35.0,-7.0,210.0
+10546,Victuailles en stock,Nancy Davolio,Federal Shipping,1997-05-23,1997-06-20,1997-05-27,28,4.0,24.0,2812.0
+10547,Seven Seas Imports,Janet Leverling,United Package,1997-05-23,1997-06-20,1997-06-02,28,10.0,18.0,1792.8
+10548,Toms Spezialitäten,Janet Leverling,United Package,1997-05-26,1997-06-23,1997-06-02,28,7.0,21.0,240.1
+10549,QUICK-Stop,Steven Buchanan,Speedy Express,1997-05-27,1997-06-10,1997-05-30,14,3.0,11.0,3554.28
+10550,Godos Cocina Típica,Robert King,Federal Shipping,1997-05-28,1997-06-25,1997-06-06,28,9.0,19.0,683.3
+10551,Furia Bacalhau e Frutos do Mar,Margaret Peacock,Federal Shipping,1997-05-28,1997-07-09,1997-06-06,42,9.0,33.0,1677.3
+10552,HILARIÓN-Abastos,Andrew Fuller,Speedy Express,1997-05-29,1997-06-26,1997-06-05,28,7.0,21.0,880.5
+10553,Wartian Herkku,Andrew Fuller,United Package,1997-05-30,1997-06-27,1997-06-03,28,4.0,24.0,1546.3
+10554,Ottilies Käseladen,Margaret Peacock,Federal Shipping,1997-05-30,1997-06-27,1997-06-05,28,6.0,22.0,1728.52
+10555,Save-a-lot Markets,Michael Suyama,Federal Shipping,1997-06-02,1997-06-30,1997-06-04,28,2.0,26.0,2944.4
+10556,Simons bistro,Andrew Fuller,Speedy Express,1997-06-03,1997-07-15,1997-06-13,42,10.0,32.0,835.2
+10557,Lehmanns Marktstand,Anne Dodsworth,United Package,1997-06-03,1997-06-17,1997-06-06,14,3.0,11.0,1152.5
+10558,Around the Horn,Nancy Davolio,United Package,1997-06-04,1997-07-02,1997-06-10,28,6.0,22.0,2142.9
+10559,Blondel père et fils,Michael Suyama,Speedy Express,1997-06-05,1997-07-03,1997-06-13,28,8.0,20.0,520.41
+10560,Frankenversand,Laura Callahan,Speedy Express,1997-06-06,1997-07-04,1997-06-09,28,3.0,25.0,1072.42
+10561,Folk och fä HB,Andrew Fuller,United Package,1997-06-06,1997-07-04,1997-06-09,28,3.0,25.0,2844.5
+10562,Reggiani Caseifici,Nancy Davolio,Speedy Express,1997-06-09,1997-07-07,1997-06-12,28,3.0,25.0,488.7
+10563,Ricardo Adocicados,Andrew Fuller,United Package,1997-06-10,1997-07-22,1997-06-24,42,14.0,28.0,965.0
+10564,Rattlesnake Canyon Grocery,Margaret Peacock,Federal Shipping,1997-06-10,1997-07-08,1997-06-16,28,6.0,22.0,1234.05
+10565,Mère Paillarde,Laura Callahan,United Package,1997-06-11,1997-07-09,1997-06-18,28,7.0,21.0,639.9
+10566,Blondel père et fils,Anne Dodsworth,Speedy Express,1997-06-12,1997-07-10,1997-06-18,28,6.0,22.0,1761.0
+10567,Hungry Owl All-Night Grocers,Nancy Davolio,Speedy Express,1997-06-12,1997-07-10,1997-06-17,28,5.0,23.0,2519.0
+10568,Galería del gastrónomo,Janet Leverling,Federal Shipping,1997-06-13,1997-07-11,1997-07-09,28,26.0,2.0,155.0
+10569,Rattlesnake Canyon Grocery,Steven Buchanan,Speedy Express,1997-06-16,1997-07-14,1997-07-11,28,25.0,3.0,890.0
+10570,Mère Paillarde,Janet Leverling,Federal Shipping,1997-06-17,1997-07-15,1997-06-19,28,2.0,26.0,2465.25
+10571,Ernst Handel,Laura Callahan,Federal Shipping,1997-06-17,1997-07-29,1997-07-04,42,17.0,25.0,550.59
+10572,Berglunds snabbköp,Janet Leverling,United Package,1997-06-18,1997-07-16,1997-06-25,28,7.0,21.0,1501.08
+10573,Antonio Moreno Taquería,Robert King,Federal Shipping,1997-06-19,1997-07-17,1997-06-20,28,1.0,27.0,2082.0
+10574,Trail's Head Gourmet Provisioners,Margaret Peacock,United Package,1997-06-19,1997-07-17,1997-06-30,28,11.0,17.0,764.3
+10575,Morgenstern Gesundkost,Steven Buchanan,Speedy Express,1997-06-20,1997-07-04,1997-06-30,14,10.0,4.0,2147.4
+10576,Tortuga Restaurante,Janet Leverling,Federal Shipping,1997-06-23,1997-07-07,1997-06-30,14,7.0,7.0,838.45
+10577,Trail's Head Gourmet Provisioners,Anne Dodsworth,United Package,1997-06-23,1997-08-04,1997-06-30,42,7.0,35.0,569.0
+10578,B's Beverages,Margaret Peacock,Federal Shipping,1997-06-24,1997-07-22,1997-07-25,28,31.0,-3.0,477.0
+10579,Let's Stop N Shop,Nancy Davolio,United Package,1997-06-25,1997-07-23,1997-07-04,28,9.0,19.0,317.75
+10580,Ottilies Käseladen,Margaret Peacock,Federal Shipping,1997-06-26,1997-07-24,1997-07-01,28,5.0,23.0,1013.74
+10581,Familia Arquibaldo,Janet Leverling,Speedy Express,1997-06-26,1997-07-24,1997-07-02,28,6.0,22.0,310.0
+10582,Blauer See Delikatessen,Janet Leverling,United Package,1997-06-27,1997-07-25,1997-07-14,28,17.0,11.0,330.0
+10583,Wartian Herkku,Andrew Fuller,United Package,1997-06-30,1997-07-28,1997-07-04,28,4.0,24.0,2237.5
+10584,Blondel père et fils,Margaret Peacock,Speedy Express,1997-06-30,1997-07-28,1997-07-04,28,4.0,24.0,593.75
+10585,Wellington Importadora,Robert King,Speedy Express,1997-07-01,1997-07-29,1997-07-10,28,9.0,19.0,142.5
+10586,Reggiani Caseifici,Anne Dodsworth,Speedy Express,1997-07-02,1997-07-30,1997-07-09,28,7.0,21.0,23.8
+10587,Que Delícia,Nancy Davolio,Speedy Express,1997-07-02,1997-07-30,1997-07-09,28,7.0,21.0,807.38
+10588,QUICK-Stop,Andrew Fuller,Federal Shipping,1997-07-03,1997-07-31,1997-07-10,28,7.0,21.0,3120.0
+10589,Great Lakes Food Market,Laura Callahan,United Package,1997-07-04,1997-08-01,1997-07-14,28,10.0,18.0,72.0
+10590,Mère Paillarde,Margaret Peacock,Federal Shipping,1997-07-07,1997-08-04,1997-07-14,28,7.0,21.0,1101.0
+10591,Vaffeljernet,Nancy Davolio,Speedy Express,1997-07-07,1997-07-21,1997-07-16,14,9.0,5.0,812.5
+10592,Lehmanns Marktstand,Janet Leverling,Speedy Express,1997-07-08,1997-08-05,1997-07-16,28,8.0,20.0,516.47
+10593,Lehmanns Marktstand,Robert King,United Package,1997-07-09,1997-08-06,1997-08-13,28,35.0,-7.0,1994.4
+10594,Old World Delicatessen,Janet Leverling,United Package,1997-07-09,1997-08-06,1997-07-16,28,7.0,21.0,565.5
+10595,Ernst Handel,Andrew Fuller,Speedy Express,1997-07-10,1997-08-07,1997-07-14,28,4.0,24.0,4725.0
+10596,White Clover Markets,Laura Callahan,Speedy Express,1997-07-11,1997-08-08,1997-08-12,28,32.0,-4.0,1180.88
+10597,Piccolo und mehr,Robert King,Federal Shipping,1997-07-11,1997-08-08,1997-07-18,28,7.0,21.0,718.08
+10598,Rattlesnake Canyon Grocery,Nancy Davolio,Federal Shipping,1997-07-14,1997-08-11,1997-07-18,28,4.0,24.0,2388.5
+10599,B's Beverages,Michael Suyama,Federal Shipping,1997-07-15,1997-08-26,1997-07-21,42,6.0,36.0,493.0
+10600,Hungry Coyote Import Store,Margaret Peacock,Speedy Express,1997-07-16,1997-08-13,1997-07-21,28,5.0,23.0,479.8
+10601,HILARIÓN-Abastos,Robert King,Speedy Express,1997-07-16,1997-08-27,1997-07-22,42,6.0,36.0,2285.0
+10602,Vaffeljernet,Laura Callahan,United Package,1997-07-17,1997-08-14,1997-07-22,28,5.0,23.0,48.75
+10603,Save-a-lot Markets,Laura Callahan,United Package,1997-07-18,1997-08-15,1997-08-08,28,21.0,7.0,1483.0
+10604,Furia Bacalhau e Frutos do Mar,Nancy Davolio,Speedy Express,1997-07-18,1997-08-15,1997-07-29,28,11.0,17.0,230.85
+10605,Mère Paillarde,Nancy Davolio,United Package,1997-07-21,1997-08-18,1997-07-29,28,8.0,20.0,4109.7
+10606,Tradição Hipermercados,Margaret Peacock,Federal Shipping,1997-07-22,1997-08-19,1997-07-31,28,9.0,19.0,1130.4
+10607,Save-a-lot Markets,Steven Buchanan,Speedy Express,1997-07-22,1997-08-19,1997-07-25,28,3.0,25.0,6475.4
+10608,Toms Spezialitäten,Margaret Peacock,United Package,1997-07-23,1997-08-20,1997-08-01,28,9.0,19.0,1064.0
+10609,Du monde entier,Robert King,United Package,1997-07-24,1997-08-21,1997-07-30,28,6.0,22.0,424.0
+10610,La maison d'Asie,Laura Callahan,Speedy Express,1997-07-25,1997-08-22,1997-08-06,28,12.0,16.0,299.25
+10611,Wolski  Zajazd,Michael Suyama,United Package,1997-07-25,1997-08-22,1997-08-01,28,7.0,21.0,808.0
+10612,Save-a-lot Markets,Nancy Davolio,United Package,1997-07-28,1997-08-25,1997-08-01,28,4.0,24.0,6375.0
+10613,HILARIÓN-Abastos,Margaret Peacock,United Package,1997-07-29,1997-08-26,1997-08-01,28,3.0,25.0,353.2
+10614,Blauer See Delikatessen,Laura Callahan,Federal Shipping,1997-07-29,1997-08-26,1997-08-01,28,3.0,25.0,464.0
+10615,Wilman Kala,Andrew Fuller,Federal Shipping,1997-07-30,1997-08-27,1997-08-06,28,7.0,21.0,120.0
+10616,Great Lakes Food Market,Nancy Davolio,United Package,1997-07-31,1997-08-28,1997-08-05,28,5.0,23.0,4807.0
+10617,Great Lakes Food Market,Margaret Peacock,United Package,1997-07-31,1997-08-28,1997-08-04,28,4.0,24.0,1402.5
+10618,Mère Paillarde,Nancy Davolio,Speedy Express,1997-08-01,1997-09-12,1997-08-08,42,7.0,35.0,2697.5
+10619,Mère Paillarde,Janet Leverling,Federal Shipping,1997-08-04,1997-09-01,1997-08-07,28,3.0,25.0,1260.0
+10620,Laughing Bacchus Wine Cellars,Andrew Fuller,Federal Shipping,1997-08-05,1997-09-02,1997-08-14,28,9.0,19.0,57.5
+10621,Island Trading,Margaret Peacock,United Package,1997-08-05,1997-09-02,1997-08-11,28,6.0,22.0,758.5
+10622,Ricardo Adocicados,Margaret Peacock,Federal Shipping,1997-08-06,1997-09-03,1997-08-11,28,5.0,23.0,560.0
+10623,Frankenversand,Laura Callahan,United Package,1997-08-07,1997-09-04,1997-08-12,28,5.0,23.0,1336.95
+10624,The Cracker Box,Margaret Peacock,United Package,1997-08-07,1997-09-04,1997-08-19,28,12.0,16.0,1393.24
+10625,Ana Trujillo Emparedados y helados,Janet Leverling,Speedy Express,1997-08-08,1997-09-05,1997-08-14,28,6.0,22.0,479.75
+10626,Berglunds snabbköp,Nancy Davolio,United Package,1997-08-11,1997-09-08,1997-08-20,28,9.0,19.0,1503.6
+10627,Save-a-lot Markets,Laura Callahan,Federal Shipping,1997-08-11,1997-09-22,1997-08-21,42,10.0,32.0,1185.75
+10628,Blondel père et fils,Margaret Peacock,Federal Shipping,1997-08-12,1997-09-09,1997-08-20,28,8.0,20.0,450.0
+10629,Godos Cocina Típica,Margaret Peacock,Federal Shipping,1997-08-12,1997-09-09,1997-08-20,28,8.0,20.0,2775.05
+10630,Königlich Essen,Nancy Davolio,United Package,1997-08-13,1997-09-10,1997-08-19,28,6.0,22.0,903.6
+10631,La maison d'Asie,Laura Callahan,Speedy Express,1997-08-14,1997-09-11,1997-08-15,28,1.0,27.0,55.8
+10632,Die Wandernde Kuh,Laura Callahan,Speedy Express,1997-08-14,1997-09-11,1997-08-19,28,5.0,23.0,589.0
+10633,Ernst Handel,Robert King,Federal Shipping,1997-08-15,1997-09-12,1997-08-18,28,3.0,25.0,5510.59
+10634,Folies gourmandes,Margaret Peacock,Federal Shipping,1997-08-15,1997-09-12,1997-08-21,28,6.0,22.0,4985.5
+10635,Magazzini Alimentari Riuniti,Laura Callahan,Federal Shipping,1997-08-18,1997-09-15,1997-08-21,28,3.0,25.0,1326.22
+10636,Wartian Herkku,Margaret Peacock,Speedy Express,1997-08-19,1997-09-16,1997-08-26,28,7.0,21.0,629.5
+10637,Queen Cozinha,Michael Suyama,Speedy Express,1997-08-19,1997-09-16,1997-08-26,28,7.0,21.0,2761.94
+10638,LINO-Delicateses,Janet Leverling,Speedy Express,1997-08-20,1997-09-17,1997-09-01,28,12.0,16.0,2720.05
+10639,Santé Gourmet,Robert King,Federal Shipping,1997-08-20,1997-09-17,1997-08-27,28,7.0,21.0,500.0
+10640,Die Wandernde Kuh,Margaret Peacock,Speedy Express,1997-08-21,1997-09-18,1997-08-28,28,7.0,21.0,708.75
+10641,HILARIÓN-Abastos,Margaret Peacock,United Package,1997-08-22,1997-09-19,1997-08-26,28,4.0,24.0,2054.0
+10642,Simons bistro,Robert King,Federal Shipping,1997-08-22,1997-09-19,1997-09-05,28,14.0,14.0,696.0
+10643,Alfreds Futterkiste,Michael Suyama,Speedy Express,1997-08-25,1997-09-22,1997-09-02,28,8.0,20.0,814.5
+10644,Wellington Importadora,Janet Leverling,United Package,1997-08-25,1997-09-22,1997-09-01,28,7.0,21.0,1371.8
+10645,Hanari Carnes,Margaret Peacock,Speedy Express,1997-08-26,1997-09-23,1997-09-02,28,7.0,21.0,1535.0
+10646,Hungry Owl All-Night Grocers,Anne Dodsworth,Federal Shipping,1997-08-27,1997-10-08,1997-09-03,42,7.0,35.0,1446.0
+10647,Que Delícia,Margaret Peacock,United Package,1997-08-27,1997-09-10,1997-09-03,14,7.0,7.0,636.0
+10648,Ricardo Adocicados,Steven Buchanan,United Package,1997-08-28,1997-10-09,1997-09-09,42,12.0,30.0,372.38
+10649,Maison Dewey,Steven Buchanan,Federal Shipping,1997-08-28,1997-09-25,1997-08-29,28,1.0,27.0,1434.0
+10650,Familia Arquibaldo,Steven Buchanan,Federal Shipping,1997-08-29,1997-09-26,1997-09-03,28,5.0,23.0,1779.2
+10651,Die Wandernde Kuh,Laura Callahan,United Package,1997-09-01,1997-09-29,1997-09-11,28,10.0,18.0,397.8
+10652,Gourmet Lanchonetes,Margaret Peacock,United Package,1997-09-01,1997-09-29,1997-09-08,28,7.0,21.0,318.83
+10653,Frankenversand,Nancy Davolio,Speedy Express,1997-09-02,1997-09-30,1997-09-19,28,17.0,11.0,1083.15
+10654,Berglunds snabbköp,Steven Buchanan,Speedy Express,1997-09-02,1997-09-30,1997-09-11,28,9.0,19.0,601.83
+10655,Reggiani Caseifici,Nancy Davolio,United Package,1997-09-03,1997-10-01,1997-09-11,28,8.0,20.0,154.4
+10656,Great Lakes Food Market,Michael Suyama,Speedy Express,1997-09-04,1997-10-02,1997-09-10,28,6.0,22.0,604.21
+10657,Save-a-lot Markets,Andrew Fuller,United Package,1997-09-04,1997-10-02,1997-09-15,28,11.0,17.0,4371.6
+10658,QUICK-Stop,Margaret Peacock,Speedy Express,1997-09-05,1997-10-03,1997-09-08,28,3.0,25.0,4464.6
+10659,Queen Cozinha,Robert King,United Package,1997-09-05,1997-10-03,1997-09-10,28,5.0,23.0,1227.02
+10660,Hungry Coyote Import Store,Laura Callahan,Speedy Express,1997-09-08,1997-10-06,1997-10-15,28,37.0,-9.0,1701.0
+10661,Hungry Owl All-Night Grocers,Robert King,Federal Shipping,1997-09-09,1997-10-07,1997-09-15,28,6.0,22.0,562.6
+10662,Lonesome Pine Restaurant,Janet Leverling,United Package,1997-09-09,1997-10-07,1997-09-18,28,9.0,19.0,125.0
+10663,Bon app',Andrew Fuller,United Package,1997-09-10,1997-09-24,1997-10-03,14,23.0,-9.0,1930.4
+10664,Furia Bacalhau e Frutos do Mar,Nancy Davolio,Federal Shipping,1997-09-10,1997-10-08,1997-09-19,28,9.0,19.0,1288.39
+10665,Lonesome Pine Restaurant,Nancy Davolio,United Package,1997-09-11,1997-10-09,1997-09-17,28,6.0,22.0,1295.0
+10666,Richter Supermarkt,Robert King,United Package,1997-09-12,1997-10-10,1997-09-22,28,10.0,18.0,4666.94
+10667,Ernst Handel,Robert King,Speedy Express,1997-09-12,1997-10-10,1997-09-19,28,7.0,21.0,1536.8
+10668,Die Wandernde Kuh,Nancy Davolio,United Package,1997-09-15,1997-10-13,1997-09-23,28,8.0,20.0,625.28
+10669,Simons bistro,Andrew Fuller,Speedy Express,1997-09-15,1997-10-13,1997-09-22,28,7.0,21.0,570.0
+10670,Frankenversand,Margaret Peacock,Speedy Express,1997-09-16,1997-10-14,1997-09-18,28,2.0,26.0,2301.75
+10671,France restauration,Nancy Davolio,Speedy Express,1997-09-17,1997-10-15,1997-09-24,28,7.0,21.0,920.1
+10672,Berglunds snabbköp,Anne Dodsworth,United Package,1997-09-17,1997-10-01,1997-09-26,14,9.0,5.0,3815.25
+10673,Wilman Kala,Andrew Fuller,Speedy Express,1997-09-18,1997-10-16,1997-09-19,28,1.0,27.0,412.35
+10674,Island Trading,Margaret Peacock,United Package,1997-09-18,1997-10-16,1997-09-30,28,12.0,16.0,45.0
+10675,Frankenversand,Steven Buchanan,United Package,1997-09-19,1997-10-17,1997-09-23,28,4.0,24.0,1423.0
+10676,Tortuga Restaurante,Andrew Fuller,United Package,1997-09-22,1997-10-20,1997-09-29,28,7.0,21.0,534.85
+10677,Antonio Moreno Taquería,Nancy Davolio,Federal Shipping,1997-09-22,1997-10-20,1997-09-26,28,4.0,24.0,813.36
+10678,Save-a-lot Markets,Robert King,Federal Shipping,1997-09-23,1997-10-21,1997-10-16,28,23.0,5.0,5256.5
+10679,Blondel père et fils,Laura Callahan,Federal Shipping,1997-09-23,1997-10-21,1997-09-30,28,7.0,21.0,660.0
+10680,Old World Delicatessen,Nancy Davolio,Speedy Express,1997-09-24,1997-10-22,1997-09-26,28,2.0,26.0,1261.88
+10681,Great Lakes Food Market,Janet Leverling,Federal Shipping,1997-09-25,1997-10-23,1997-09-30,28,5.0,23.0,1287.4
+10682,Antonio Moreno Taquería,Janet Leverling,United Package,1997-09-25,1997-10-23,1997-10-01,28,6.0,22.0,375.5
+10683,Du monde entier,Andrew Fuller,Speedy Express,1997-09-26,1997-10-24,1997-10-01,28,5.0,23.0,63.0
+10684,Ottilies Käseladen,Janet Leverling,Speedy Express,1997-09-26,1997-10-24,1997-09-30,28,4.0,24.0,1768.0
+10685,Gourmet Lanchonetes,Margaret Peacock,United Package,1997-09-29,1997-10-13,1997-10-03,14,4.0,10.0,801.1
+10686,Piccolo und mehr,Andrew Fuller,Speedy Express,1997-09-30,1997-10-28,1997-10-08,28,8.0,20.0,1404.45
+10687,Hungry Owl All-Night Grocers,Anne Dodsworth,United Package,1997-09-30,1997-10-28,1997-10-30,28,30.0,-2.0,4960.9
+10688,Vaffeljernet,Margaret Peacock,United Package,1997-10-01,1997-10-15,1997-10-07,14,6.0,8.0,3160.6
+10689,Berglunds snabbköp,Nancy Davolio,United Package,1997-10-01,1997-10-29,1997-10-07,28,6.0,22.0,472.5
+10690,Hanari Carnes,Nancy Davolio,Speedy Express,1997-10-02,1997-10-30,1997-10-03,28,1.0,27.0,862.5
+10691,QUICK-Stop,Andrew Fuller,United Package,1997-10-03,1997-11-14,1997-10-22,42,19.0,23.0,10164.8
+10692,Alfreds Futterkiste,Margaret Peacock,United Package,1997-10-03,1997-10-31,1997-10-13,28,10.0,18.0,878.0
+10693,White Clover Markets,Janet Leverling,Federal Shipping,1997-10-06,1997-10-20,1997-10-10,14,4.0,10.0,2071.2
+10694,QUICK-Stop,Laura Callahan,Federal Shipping,1997-10-06,1997-11-03,1997-10-09,28,3.0,25.0,4825.0
+10695,Wilman Kala,Robert King,Speedy Express,1997-10-07,1997-11-18,1997-10-14,42,7.0,35.0,642.0
+10696,White Clover Markets,Laura Callahan,Federal Shipping,1997-10-08,1997-11-19,1997-10-14,42,6.0,36.0,996.0
+10697,LINO-Delicateses,Janet Leverling,Speedy Express,1997-10-08,1997-11-05,1997-10-14,28,6.0,22.0,805.42
+10698,Ernst Handel,Margaret Peacock,Speedy Express,1997-10-09,1997-11-06,1997-10-17,28,8.0,20.0,3436.44
+10699,Morgenstern Gesundkost,Janet Leverling,Federal Shipping,1997-10-09,1997-11-06,1997-10-13,28,4.0,24.0,114.0
+10700,Save-a-lot Markets,Janet Leverling,Speedy Express,1997-10-10,1997-11-07,1997-10-16,28,6.0,22.0,1638.4
+10701,Hungry Owl All-Night Grocers,Michael Suyama,Federal Shipping,1997-10-13,1997-10-27,1997-10-15,14,2.0,12.0,2864.5
+10702,Alfreds Futterkiste,Margaret Peacock,Speedy Express,1997-10-13,1997-11-24,1997-10-21,42,8.0,34.0,330.0
+10703,Folk och fä HB,Michael Suyama,United Package,1997-10-14,1997-11-11,1997-10-20,28,6.0,22.0,2545.0
+10704,Queen Cozinha,Michael Suyama,Speedy Express,1997-10-14,1997-11-11,1997-11-07,28,24.0,4.0,595.5
+10705,HILARIÓN-Abastos,Anne Dodsworth,United Package,1997-10-15,1997-11-12,1997-11-18,28,34.0,-6.0,378.0
+10706,Old World Delicatessen,Laura Callahan,Federal Shipping,1997-10-16,1997-11-13,1997-10-21,28,5.0,23.0,1893.0
+10707,Around the Horn,Margaret Peacock,Federal Shipping,1997-10-16,1997-10-30,1997-10-23,14,7.0,7.0,1641.0
+10708,The Big Cheese,Michael Suyama,United Package,1997-10-17,1997-11-28,1997-11-05,42,19.0,23.0,180.4
+10709,Gourmet Lanchonetes,Nancy Davolio,Federal Shipping,1997-10-17,1997-11-14,1997-11-20,28,34.0,-6.0,3424.0
+10710,Franchi S.p.A.,Nancy Davolio,Speedy Express,1997-10-20,1997-11-17,1997-10-23,28,3.0,25.0,93.5
+10711,Save-a-lot Markets,Steven Buchanan,United Package,1997-10-21,1997-12-02,1997-10-29,42,8.0,34.0,4451.7
+10712,Hungry Owl All-Night Grocers,Janet Leverling,Speedy Express,1997-10-21,1997-11-18,1997-10-31,28,10.0,18.0,1233.48
+10713,Save-a-lot Markets,Nancy Davolio,Speedy Express,1997-10-22,1997-11-19,1997-10-24,28,2.0,26.0,2827.9
+10714,Save-a-lot Markets,Steven Buchanan,Federal Shipping,1997-10-22,1997-11-19,1997-10-27,28,5.0,23.0,2205.75
+10715,Bon app',Janet Leverling,Speedy Express,1997-10-23,1997-11-06,1997-10-29,14,6.0,8.0,1296.0
+10716,Rancho grande,Margaret Peacock,United Package,1997-10-24,1997-11-21,1997-10-27,28,3.0,25.0,706.0
+10717,Frankenversand,Nancy Davolio,United Package,1997-10-24,1997-11-21,1997-10-29,28,5.0,23.0,1270.75
+10718,Königlich Essen,Nancy Davolio,Federal Shipping,1997-10-27,1997-11-24,1997-10-29,28,2.0,26.0,3463.0
+10719,Let's Stop N Shop,Laura Callahan,United Package,1997-10-27,1997-11-24,1997-11-05,28,9.0,19.0,844.25
+10720,Que Delícia,Laura Callahan,United Package,1997-10-28,1997-11-11,1997-11-05,14,8.0,6.0,550.0
+10721,QUICK-Stop,Steven Buchanan,Federal Shipping,1997-10-29,1997-11-26,1997-10-31,28,2.0,26.0,923.88
+10722,Save-a-lot Markets,Laura Callahan,Speedy Express,1997-10-29,1997-12-10,1997-11-04,42,6.0,36.0,1570.0
+10723,White Clover Markets,Janet Leverling,Speedy Express,1997-10-30,1997-11-27,1997-11-25,28,26.0,2.0,468.45
+10724,Mère Paillarde,Laura Callahan,United Package,1997-10-30,1997-12-11,1997-11-05,42,6.0,36.0,638.5
+10725,Familia Arquibaldo,Margaret Peacock,Federal Shipping,1997-10-31,1997-11-28,1997-11-05,28,5.0,23.0,287.8
+10726,Eastern Connection,Margaret Peacock,Speedy Express,1997-11-03,1997-11-17,1997-12-05,14,32.0,-18.0,655.0
+10727,Reggiani Caseifici,Andrew Fuller,Speedy Express,1997-11-03,1997-12-01,1997-12-05,28,32.0,-4.0,1624.5
+10728,Queen Cozinha,Margaret Peacock,United Package,1997-11-04,1997-12-02,1997-11-11,28,7.0,21.0,1296.75
+10729,LINO-Delicateses,Laura Callahan,Federal Shipping,1997-11-04,1997-12-16,1997-11-14,42,10.0,32.0,1850.0
+10730,Bon app',Steven Buchanan,Speedy Express,1997-11-05,1997-12-03,1997-11-14,28,9.0,19.0,484.26
+10731,Chop-suey Chinese,Robert King,Speedy Express,1997-11-06,1997-12-04,1997-11-14,28,8.0,20.0,1890.5
+10732,Bon app',Janet Leverling,Speedy Express,1997-11-06,1997-12-04,1997-11-07,28,1.0,27.0,360.0
+10733,Berglunds snabbköp,Nancy Davolio,Federal Shipping,1997-11-07,1997-12-05,1997-11-10,28,3.0,25.0,1459.0
+10734,Gourmet Lanchonetes,Andrew Fuller,Federal Shipping,1997-11-07,1997-12-05,1997-11-12,28,5.0,23.0,1498.35
+10735,Let's Stop N Shop,Michael Suyama,United Package,1997-11-10,1997-12-08,1997-11-21,28,11.0,17.0,536.4
+10736,Hungry Owl All-Night Grocers,Anne Dodsworth,United Package,1997-11-11,1997-12-09,1997-11-21,28,10.0,18.0,997.0
+10737,Vins et alcools Chevalier,Andrew Fuller,United Package,1997-11-11,1997-12-09,1997-11-18,28,7.0,21.0,139.8
+10738,Spécialités du monde,Andrew Fuller,Speedy Express,1997-11-12,1997-12-10,1997-11-18,28,6.0,22.0,52.35
+10739,Vins et alcools Chevalier,Janet Leverling,Federal Shipping,1997-11-12,1997-12-10,1997-11-17,28,5.0,23.0,240.0
+10740,White Clover Markets,Margaret Peacock,United Package,1997-11-13,1997-12-11,1997-11-25,28,12.0,16.0,1416.0
+10741,Around the Horn,Margaret Peacock,Federal Shipping,1997-11-14,1997-11-28,1997-11-18,14,4.0,10.0,228.0
+10742,Bottom-Dollar Markets,Janet Leverling,Federal Shipping,1997-11-14,1997-12-12,1997-11-18,28,4.0,24.0,3118.0
+10743,Around the Horn,Nancy Davolio,United Package,1997-11-17,1997-12-15,1997-11-21,28,4.0,24.0,319.2
+10744,Vaffeljernet,Michael Suyama,Speedy Express,1997-11-17,1997-12-15,1997-11-24,28,7.0,21.0,736.0
+10745,QUICK-Stop,Anne Dodsworth,Speedy Express,1997-11-18,1997-12-16,1997-11-27,28,9.0,19.0,4529.8
+10746,Chop-suey Chinese,Nancy Davolio,Federal Shipping,1997-11-19,1997-12-17,1997-11-21,28,2.0,26.0,2311.7
+10747,Piccolo und mehr,Michael Suyama,Speedy Express,1997-11-19,1997-12-17,1997-11-26,28,7.0,21.0,1912.85
+10748,Save-a-lot Markets,Janet Leverling,Speedy Express,1997-11-20,1997-12-18,1997-11-28,28,8.0,20.0,2196.0
+10749,Island Trading,Margaret Peacock,United Package,1997-11-20,1997-12-18,1997-12-19,28,29.0,-1.0,1080.0
+10750,Wartian Herkku,Anne Dodsworth,Speedy Express,1997-11-21,1997-12-19,1997-11-24,28,3.0,25.0,1590.56
+10751,Richter Supermarkt,Janet Leverling,Federal Shipping,1997-11-24,1997-12-22,1997-12-03,28,9.0,19.0,1631.48
+10752,North/South,Andrew Fuller,Federal Shipping,1997-11-24,1997-12-22,1997-11-28,28,4.0,24.0,252.0
+10753,Franchi S.p.A.,Janet Leverling,Speedy Express,1997-11-25,1997-12-23,1997-11-27,28,2.0,26.0,88.0
+10754,Magazzini Alimentari Riuniti,Michael Suyama,Federal Shipping,1997-11-25,1997-12-23,1997-11-27,28,2.0,26.0,55.2
+10755,Bon app',Margaret Peacock,United Package,1997-11-26,1997-12-24,1997-11-28,28,2.0,26.0,1948.5
+10756,Split Rail Beer & Ale,Laura Callahan,United Package,1997-11-27,1997-12-25,1997-12-02,28,5.0,23.0,1990.0
+10757,Save-a-lot Markets,Michael Suyama,Speedy Express,1997-11-27,1997-12-25,1997-12-15,28,18.0,10.0,3082.0
+10758,Richter Supermarkt,Janet Leverling,Federal Shipping,1997-11-28,1997-12-26,1997-12-04,28,6.0,22.0,1644.6
+10759,Ana Trujillo Emparedados y helados,Janet Leverling,Federal Shipping,1997-11-28,1997-12-26,1997-12-12,28,14.0,14.0,320.0
+10760,Maison Dewey,Margaret Peacock,Speedy Express,1997-12-01,1997-12-29,1997-12-10,28,9.0,19.0,2917.0
+10761,Rattlesnake Canyon Grocery,Steven Buchanan,United Package,1997-12-02,1997-12-30,1997-12-08,28,6.0,22.0,507.0
+10762,Folk och fä HB,Janet Leverling,Speedy Express,1997-12-02,1997-12-30,1997-12-09,28,7.0,21.0,4337.0
+10763,Folies gourmandes,Janet Leverling,Federal Shipping,1997-12-03,1997-12-31,1997-12-08,28,5.0,23.0,616.0
+10764,Ernst Handel,Michael Suyama,Federal Shipping,1997-12-03,1997-12-31,1997-12-08,28,5.0,23.0,2286.0
+10765,QUICK-Stop,Janet Leverling,Federal Shipping,1997-12-04,1998-01-01,1997-12-09,28,5.0,23.0,1515.6
+10766,Ottilies Käseladen,Margaret Peacock,Speedy Express,1997-12-05,1998-01-02,1997-12-09,28,4.0,24.0,2310.0
+10767,Suprêmes délices,Margaret Peacock,Federal Shipping,1997-12-05,1998-01-02,1997-12-15,28,10.0,18.0,28.0
+10768,Around the Horn,Janet Leverling,United Package,1997-12-08,1998-01-05,1997-12-15,28,7.0,21.0,1477.0
+10769,Vaffeljernet,Janet Leverling,Speedy Express,1997-12-08,1998-01-05,1997-12-12,28,4.0,24.0,1684.28
+10770,Hanari Carnes,Laura Callahan,Federal Shipping,1997-12-09,1998-01-06,1997-12-17,28,8.0,20.0,236.25
+10771,Ernst Handel,Anne Dodsworth,United Package,1997-12-10,1998-01-07,1998-01-02,28,23.0,5.0,344.0
+10772,Lehmanns Marktstand,Janet Leverling,United Package,1997-12-10,1998-01-07,1997-12-19,28,9.0,19.0,3603.22
+10773,Ernst Handel,Nancy Davolio,Federal Shipping,1997-12-11,1998-01-08,1997-12-16,28,5.0,23.0,2030.4
+10774,Folk och fä HB,Margaret Peacock,Speedy Express,1997-12-11,1997-12-25,1997-12-12,14,1.0,13.0,868.75
+10775,The Cracker Box,Robert King,Speedy Express,1997-12-12,1998-01-09,1997-12-26,28,14.0,14.0,228.0
+10776,Ernst Handel,Nancy Davolio,Federal Shipping,1997-12-15,1998-01-12,1997-12-18,28,3.0,25.0,6635.28
+10777,Gourmet Lanchonetes,Robert King,United Package,1997-12-15,1997-12-29,1998-01-21,14,37.0,-23.0,224.0
+10778,Berglunds snabbköp,Janet Leverling,Speedy Express,1997-12-16,1998-01-13,1997-12-24,28,8.0,20.0,96.5
+10779,Morgenstern Gesundkost,Janet Leverling,United Package,1997-12-16,1998-01-13,1998-01-14,28,29.0,-1.0,1335.0
+10780,LILA-Supermercado,Andrew Fuller,Speedy Express,1997-12-16,1997-12-30,1997-12-25,14,9.0,5.0,720.0
+10781,Wartian Herkku,Andrew Fuller,Federal Shipping,1997-12-17,1998-01-14,1997-12-19,28,2.0,26.0,975.88
+10782,Cactus Comidas para llevar,Anne Dodsworth,Federal Shipping,1997-12-17,1998-01-14,1997-12-22,28,5.0,23.0,12.5
+10783,Hanari Carnes,Margaret Peacock,United Package,1997-12-18,1998-01-15,1997-12-19,28,1.0,27.0,1442.5
+10784,Magazzini Alimentari Riuniti,Margaret Peacock,Federal Shipping,1997-12-18,1998-01-15,1997-12-22,28,4.0,24.0,1488.0
+10785,GROSELLA-Restaurante,Nancy Davolio,Federal Shipping,1997-12-18,1998-01-15,1997-12-24,28,6.0,22.0,387.5
+10786,Queen Cozinha,Laura Callahan,Speedy Express,1997-12-19,1998-01-16,1997-12-23,28,4.0,24.0,1531.08
+10787,La maison d'Asie,Andrew Fuller,Speedy Express,1997-12-19,1998-01-02,1997-12-26,14,7.0,7.0,2622.76
+10788,QUICK-Stop,Nancy Davolio,United Package,1997-12-22,1998-01-19,1998-01-19,28,28.0,0.0,731.5
+10789,Folies gourmandes,Nancy Davolio,United Package,1997-12-22,1998-01-19,1997-12-31,28,9.0,19.0,3687.0
+10790,Gourmet Lanchonetes,Michael Suyama,Speedy Express,1997-12-22,1998-01-19,1997-12-26,28,4.0,24.0,722.5
+10791,Frankenversand,Michael Suyama,United Package,1997-12-23,1998-01-20,1998-01-01,28,9.0,19.0,1829.76
+10792,Wolski  Zajazd,Nancy Davolio,Federal Shipping,1997-12-23,1998-01-20,1997-12-31,28,8.0,20.0,399.85
+10793,Around the Horn,Janet Leverling,Federal Shipping,1997-12-24,1998-01-21,1998-01-08,28,15.0,13.0,191.1
+10794,Que Delícia,Michael Suyama,Speedy Express,1997-12-24,1998-01-21,1998-01-02,28,9.0,19.0,314.76
+10795,Ernst Handel,Laura Callahan,United Package,1997-12-24,1998-01-21,1998-01-20,28,27.0,1.0,2158.0
+10796,HILARIÓN-Abastos,Janet Leverling,Speedy Express,1997-12-25,1998-01-22,1998-01-14,28,20.0,8.0,2341.36
+10797,Drachenblut Delikatessen,Robert King,United Package,1997-12-25,1998-01-22,1998-01-05,28,11.0,17.0,420.0
+10798,Island Trading,Andrew Fuller,Speedy Express,1997-12-26,1998-01-23,1998-01-05,28,10.0,18.0,446.6
+10799,Königlich Essen,Anne Dodsworth,Federal Shipping,1997-12-26,1998-02-06,1998-01-05,42,10.0,32.0,1553.5
+10800,Seven Seas Imports,Nancy Davolio,Federal Shipping,1997-12-26,1998-01-23,1998-01-05,28,10.0,18.0,1468.94
+10801,Bólido Comidas preparadas,Margaret Peacock,United Package,1997-12-29,1998-01-26,1997-12-31,28,2.0,26.0,3026.85
+10802,Simons bistro,Margaret Peacock,United Package,1997-12-29,1998-01-26,1998-01-02,28,4.0,24.0,2942.81
+10803,Wellington Importadora,Margaret Peacock,Speedy Express,1997-12-30,1998-01-27,1998-01-06,28,7.0,21.0,1193.01
+10804,Seven Seas Imports,Michael Suyama,United Package,1997-12-30,1998-01-27,1998-01-07,28,8.0,20.0,2278.4
+10805,The Big Cheese,Andrew Fuller,Federal Shipping,1997-12-30,1998-01-27,1998-01-09,28,10.0,18.0,2775.0
+10806,Victuailles en stock,Janet Leverling,United Package,1997-12-31,1998-01-28,1998-01-05,28,5.0,23.0,439.6
+10807,Franchi S.p.A.,Margaret Peacock,Speedy Express,1997-12-31,1998-01-28,1998-01-30,28,30.0,-2.0,18.4
+10808,Princesa Isabel Vinhos,Andrew Fuller,Federal Shipping,1998-01-01,1998-01-29,1998-01-09,28,8.0,20.0,1411.0
+10809,Wellington Importadora,Robert King,Speedy Express,1998-01-01,1998-01-29,1998-01-07,28,6.0,22.0,140.0
+10810,Laughing Bacchus Wine Cellars,Andrew Fuller,Federal Shipping,1998-01-01,1998-01-29,1998-01-07,28,6.0,22.0,187.0
+10811,LINO-Delicateses,Laura Callahan,Speedy Express,1998-01-02,1998-01-30,1998-01-08,28,6.0,22.0,852.0
+10812,Reggiani Caseifici,Steven Buchanan,Speedy Express,1998-01-02,1998-01-30,1998-01-12,28,10.0,18.0,1692.8
+10813,Ricardo Adocicados,Nancy Davolio,Speedy Express,1998-01-05,1998-02-02,1998-01-09,28,4.0,24.0,602.4
+10814,Victuailles en stock,Janet Leverling,Federal Shipping,1998-01-05,1998-02-02,1998-01-14,28,9.0,19.0,1788.45
+10815,Save-a-lot Markets,Andrew Fuller,Federal Shipping,1998-01-05,1998-02-02,1998-01-14,28,9.0,19.0,40.0
+10816,Great Lakes Food Market,Margaret Peacock,United Package,1998-01-06,1998-02-03,1998-02-04,28,29.0,-1.0,8446.45
+10817,Königlich Essen,Janet Leverling,United Package,1998-01-06,1998-01-20,1998-01-13,14,7.0,7.0,10952.84
+10818,Magazzini Alimentari Riuniti,Robert King,Federal Shipping,1998-01-07,1998-02-04,1998-01-12,28,5.0,23.0,833.0
+10819,Cactus Comidas para llevar,Andrew Fuller,Federal Shipping,1998-01-07,1998-02-04,1998-01-16,28,9.0,19.0,477.0
+10820,Rattlesnake Canyon Grocery,Janet Leverling,United Package,1998-01-07,1998-02-04,1998-01-13,28,6.0,22.0,1140.0
+10821,Split Rail Beer & Ale,Nancy Davolio,Speedy Express,1998-01-08,1998-02-05,1998-01-15,28,7.0,21.0,678.0
+10822,Trail's Head Gourmet Provisioners,Michael Suyama,Federal Shipping,1998-01-08,1998-02-05,1998-01-16,28,8.0,20.0,237.9
+10823,LILA-Supermercado,Steven Buchanan,United Package,1998-01-09,1998-02-06,1998-01-13,28,4.0,24.0,2826.0
+10824,Folk och fä HB,Laura Callahan,Speedy Express,1998-01-09,1998-02-06,1998-01-30,28,21.0,7.0,250.8
+10825,Drachenblut Delikatessen,Nancy Davolio,Speedy Express,1998-01-09,1998-02-06,1998-01-14,28,5.0,23.0,1030.76
+10826,Blondel père et fils,Michael Suyama,Speedy Express,1998-01-12,1998-02-09,1998-02-06,28,25.0,3.0,730.0
+10827,Bon app',Nancy Davolio,United Package,1998-01-12,1998-01-26,1998-02-06,14,25.0,-11.0,843.0
+10828,Rancho grande,Anne Dodsworth,Speedy Express,1998-01-13,1998-01-27,1998-02-04,14,22.0,-8.0,932.0
+10829,Island Trading,Anne Dodsworth,Speedy Express,1998-01-13,1998-02-10,1998-01-23,28,10.0,18.0,1764.0
+10830,Tradição Hipermercados,Margaret Peacock,United Package,1998-01-13,1998-02-24,1998-01-21,42,8.0,34.0,1974.0
+10831,Santé Gourmet,Janet Leverling,United Package,1998-01-14,1998-02-11,1998-01-23,28,9.0,19.0,2684.4
+10832,La maison d'Asie,Andrew Fuller,United Package,1998-01-14,1998-02-11,1998-01-19,28,5.0,23.0,475.11
+10833,Ottilies Käseladen,Michael Suyama,United Package,1998-01-15,1998-02-12,1998-01-23,28,8.0,20.0,906.93
+10834,Tradição Hipermercados,Nancy Davolio,Federal Shipping,1998-01-15,1998-02-12,1998-01-19,28,4.0,24.0,1432.71
+10835,Alfreds Futterkiste,Nancy Davolio,Federal Shipping,1998-01-15,1998-02-12,1998-01-21,28,6.0,22.0,845.8
+10836,Ernst Handel,Robert King,Speedy Express,1998-01-16,1998-02-13,1998-01-21,28,5.0,23.0,4705.5
+10837,Berglunds snabbköp,Anne Dodsworth,Federal Shipping,1998-01-16,1998-02-13,1998-01-23,28,7.0,21.0,1064.5
+10838,LINO-Delicateses,Janet Leverling,Federal Shipping,1998-01-19,1998-02-16,1998-01-23,28,4.0,24.0,1938.38
+10839,Tradição Hipermercados,Janet Leverling,Federal Shipping,1998-01-19,1998-02-16,1998-01-22,28,3.0,25.0,827.55
+10840,LINO-Delicateses,Margaret Peacock,United Package,1998-01-19,1998-03-02,1998-02-16,42,28.0,14.0,211.2
+10841,Suprêmes délices,Steven Buchanan,United Package,1998-01-20,1998-02-17,1998-01-29,28,9.0,19.0,4581.0
+10842,Tortuga Restaurante,Nancy Davolio,Federal Shipping,1998-01-20,1998-02-17,1998-01-29,28,9.0,19.0,975.0
+10843,Victuailles en stock,Margaret Peacock,United Package,1998-01-21,1998-02-18,1998-01-26,28,5.0,23.0,159.0
+10844,Piccolo und mehr,Laura Callahan,United Package,1998-01-21,1998-02-18,1998-01-26,28,5.0,23.0,735.0
+10845,QUICK-Stop,Laura Callahan,Speedy Express,1998-01-21,1998-02-04,1998-01-30,14,9.0,5.0,3812.7
+10846,Suprêmes délices,Andrew Fuller,Federal Shipping,1998-01-22,1998-03-05,1998-01-23,42,1.0,41.0,1112.0
+10847,Save-a-lot Markets,Margaret Peacock,Federal Shipping,1998-01-22,1998-02-05,1998-02-10,14,19.0,-5.0,4931.92
+10848,Consolidated Holdings,Robert King,United Package,1998-01-23,1998-02-20,1998-01-29,28,6.0,22.0,931.5
+10849,Königlich Essen,Anne Dodsworth,United Package,1998-01-23,1998-02-20,1998-01-30,28,7.0,21.0,967.82
+10850,Victuailles en stock,Nancy Davolio,Speedy Express,1998-01-23,1998-03-06,1998-01-30,42,7.0,35.0,629.0
+10851,Ricardo Adocicados,Steven Buchanan,Speedy Express,1998-01-26,1998-02-23,1998-02-02,28,7.0,21.0,2603.0
+10852,Rattlesnake Canyon Grocery,Laura Callahan,Speedy Express,1998-01-26,1998-02-09,1998-01-30,14,4.0,10.0,2984.0
+10853,Blauer See Delikatessen,Anne Dodsworth,United Package,1998-01-27,1998-02-24,1998-02-03,28,7.0,21.0,625.0
+10854,Ernst Handel,Janet Leverling,United Package,1998-01-27,1998-02-24,1998-02-05,28,9.0,19.0,2966.5
+10855,Old World Delicatessen,Janet Leverling,Speedy Express,1998-01-27,1998-02-24,1998-02-04,28,8.0,20.0,2227.89
+10856,Antonio Moreno Taquería,Janet Leverling,United Package,1998-01-28,1998-02-25,1998-02-10,28,13.0,15.0,660.0
+10857,Berglunds snabbköp,Laura Callahan,United Package,1998-01-28,1998-02-25,1998-02-06,28,9.0,19.0,2048.21
+10858,La corne d'abondance,Andrew Fuller,Speedy Express,1998-01-29,1998-02-26,1998-02-03,28,5.0,23.0,649.0
+10859,Frankenversand,Nancy Davolio,United Package,1998-01-29,1998-02-26,1998-02-02,28,4.0,24.0,1078.69
+10860,France restauration,Janet Leverling,Federal Shipping,1998-01-29,1998-02-26,1998-02-04,28,6.0,22.0,519.0
+10861,White Clover Markets,Margaret Peacock,United Package,1998-01-30,1998-02-27,1998-02-17,28,18.0,10.0,3523.4
+10862,Lehmanns Marktstand,Laura Callahan,United Package,1998-01-30,1998-03-13,1998-02-02,42,3.0,39.0,581.0
+10863,HILARIÓN-Abastos,Margaret Peacock,United Package,1998-02-02,1998-03-02,1998-02-17,28,15.0,13.0,441.15
+10864,Around the Horn,Margaret Peacock,United Package,1998-02-02,1998-03-02,1998-02-09,28,7.0,21.0,282.0
+10865,QUICK-Stop,Andrew Fuller,Speedy Express,1998-02-02,1998-02-16,1998-02-12,14,10.0,4.0,16387.5
+10866,Berglunds snabbköp,Steven Buchanan,Speedy Express,1998-02-03,1998-03-03,1998-02-12,28,9.0,19.0,1096.2
+10867,Lonesome Pine Restaurant,Michael Suyama,Speedy Express,1998-02-03,1998-03-17,1998-02-11,42,8.0,34.0,98.4
+10868,Queen Cozinha,Robert King,United Package,1998-02-04,1998-03-04,1998-02-23,28,19.0,9.0,1920.6
+10869,Seven Seas Imports,Steven Buchanan,Speedy Express,1998-02-04,1998-03-04,1998-02-09,28,5.0,23.0,1630.0
+10870,Wolski  Zajazd,Steven Buchanan,Federal Shipping,1998-02-04,1998-03-04,1998-02-13,28,9.0,19.0,160.0
+10871,Bon app',Anne Dodsworth,United Package,1998-02-05,1998-03-05,1998-02-10,28,5.0,23.0,1979.23
+10872,Godos Cocina Típica,Steven Buchanan,United Package,1998-02-05,1998-03-05,1998-02-09,28,4.0,24.0,2058.46
+10873,Wilman Kala,Margaret Peacock,Speedy Express,1998-02-06,1998-03-06,1998-02-09,28,3.0,25.0,336.8
+10874,Godos Cocina Típica,Steven Buchanan,United Package,1998-02-06,1998-03-06,1998-02-11,28,5.0,23.0,310.0
+10875,Berglunds snabbköp,Margaret Peacock,United Package,1998-02-06,1998-03-06,1998-03-03,28,25.0,3.0,709.55
+10876,Bon app',Robert King,Federal Shipping,1998-02-09,1998-03-09,1998-02-12,28,3.0,25.0,917.0
+10877,Ricardo Adocicados,Nancy Davolio,Speedy Express,1998-02-09,1998-03-09,1998-02-19,28,10.0,18.0,1955.12
+10878,QUICK-Stop,Margaret Peacock,Speedy Express,1998-02-10,1998-03-10,1998-02-12,28,2.0,26.0,1539.0
+10879,Wilman Kala,Janet Leverling,Federal Shipping,1998-02-10,1998-03-10,1998-02-12,28,2.0,26.0,611.3
+10880,Folk och fä HB,Robert King,Speedy Express,1998-02-10,1998-03-24,1998-02-18,42,8.0,34.0,1500.0
+10881,Cactus Comidas para llevar,Margaret Peacock,Speedy Express,1998-02-11,1998-03-11,1998-02-18,28,7.0,21.0,150.0
+10882,Save-a-lot Markets,Margaret Peacock,Federal Shipping,1998-02-11,1998-03-11,1998-02-20,28,9.0,19.0,892.64
+10883,Lonesome Pine Restaurant,Laura Callahan,Federal Shipping,1998-02-12,1998-03-12,1998-02-20,28,8.0,20.0,36.0
+10884,Let's Stop N Shop,Margaret Peacock,United Package,1998-02-12,1998-03-12,1998-02-13,28,1.0,27.0,1378.07
+10885,Suprêmes délices,Michael Suyama,Federal Shipping,1998-02-12,1998-03-12,1998-02-18,28,6.0,22.0,1209.0
+10886,Hanari Carnes,Nancy Davolio,Speedy Express,1998-02-13,1998-03-13,1998-03-02,28,17.0,11.0,3127.5
+10887,Galería del gastrónomo,Laura Callahan,Federal Shipping,1998-02-13,1998-03-13,1998-02-16,28,3.0,25.0,70.0
+10888,Godos Cocina Típica,Nancy Davolio,United Package,1998-02-16,1998-03-16,1998-02-23,28,7.0,21.0,605.0
+10889,Rattlesnake Canyon Grocery,Anne Dodsworth,Federal Shipping,1998-02-16,1998-03-16,1998-02-23,28,7.0,21.0,11380.0
+10890,Du monde entier,Robert King,Speedy Express,1998-02-16,1998-03-16,1998-02-18,28,2.0,26.0,860.1
+10891,Lehmanns Marktstand,Robert King,United Package,1998-02-17,1998-03-17,1998-02-19,28,2.0,26.0,368.93
+10892,Maison Dewey,Margaret Peacock,United Package,1998-02-17,1998-03-17,1998-02-19,28,2.0,26.0,2090.0
+10893,Königlich Essen,Anne Dodsworth,United Package,1998-02-18,1998-03-18,1998-02-20,28,2.0,26.0,5502.11
+10894,Save-a-lot Markets,Nancy Davolio,Speedy Express,1998-02-18,1998-03-18,1998-02-20,28,2.0,26.0,2753.1
+10895,Ernst Handel,Janet Leverling,Speedy Express,1998-02-18,1998-03-18,1998-02-23,28,5.0,23.0,6379.4
+10896,Maison Dewey,Robert King,Federal Shipping,1998-02-19,1998-03-19,1998-02-27,28,8.0,20.0,750.5
+10897,Hungry Owl All-Night Grocers,Janet Leverling,United Package,1998-02-19,1998-03-19,1998-02-25,28,6.0,22.0,10835.24
+10898,Océano Atlántico Ltda.,Margaret Peacock,United Package,1998-02-20,1998-03-20,1998-03-06,28,14.0,14.0,30.0
+10899,LILA-Supermercado,Steven Buchanan,Federal Shipping,1998-02-20,1998-03-20,1998-02-26,28,6.0,22.0,122.4
+10900,Wellington Importadora,Nancy Davolio,United Package,1998-02-20,1998-03-20,1998-03-04,28,12.0,16.0,33.75
+10901,HILARIÓN-Abastos,Margaret Peacock,Speedy Express,1998-02-23,1998-03-23,1998-02-26,28,3.0,25.0,934.5
+10902,Folk och fä HB,Nancy Davolio,Speedy Express,1998-02-23,1998-03-23,1998-03-03,28,8.0,20.0,863.43
+10903,Hanari Carnes,Janet Leverling,Federal Shipping,1998-02-24,1998-03-24,1998-03-04,28,8.0,20.0,932.05
+10904,White Clover Markets,Janet Leverling,Federal Shipping,1998-02-24,1998-03-24,1998-02-27,28,3.0,25.0,1924.25
+10905,Wellington Importadora,Anne Dodsworth,United Package,1998-02-24,1998-03-24,1998-03-06,28,10.0,18.0,342.0
+10906,Wolski  Zajazd,Margaret Peacock,Federal Shipping,1998-02-25,1998-03-11,1998-03-03,14,6.0,8.0,427.5
+10907,Spécialités du monde,Michael Suyama,Federal Shipping,1998-02-25,1998-03-25,1998-02-27,28,2.0,26.0,108.5
+10908,Reggiani Caseifici,Margaret Peacock,United Package,1998-02-26,1998-03-26,1998-03-06,28,8.0,20.0,663.1
+10909,Santé Gourmet,Nancy Davolio,United Package,1998-02-26,1998-03-26,1998-03-10,28,12.0,16.0,670.0
+10910,Wilman Kala,Nancy Davolio,Federal Shipping,1998-02-26,1998-03-26,1998-03-04,28,6.0,22.0,452.9
+10911,Godos Cocina Típica,Janet Leverling,Speedy Express,1998-02-26,1998-03-26,1998-03-05,28,7.0,21.0,858.0
+10912,Hungry Owl All-Night Grocers,Andrew Fuller,United Package,1998-02-26,1998-03-26,1998-03-18,28,20.0,8.0,6200.55
+10913,Queen Cozinha,Margaret Peacock,Speedy Express,1998-02-26,1998-03-26,1998-03-04,28,6.0,22.0,768.75
+10914,Queen Cozinha,Michael Suyama,Speedy Express,1998-02-27,1998-03-27,1998-03-02,28,3.0,25.0,537.5
+10915,Tortuga Restaurante,Andrew Fuller,United Package,1998-02-27,1998-03-27,1998-03-02,28,3.0,25.0,539.5
+10916,Rancho grande,Nancy Davolio,United Package,1998-02-27,1998-03-27,1998-03-09,28,10.0,18.0,686.7
+10917,Romero y tomillo,Margaret Peacock,United Package,1998-03-02,1998-03-30,1998-03-11,28,9.0,19.0,365.89
+10918,Bottom-Dollar Markets,Janet Leverling,Federal Shipping,1998-03-02,1998-03-30,1998-03-11,28,9.0,19.0,1447.5
+10919,LINO-Delicateses,Andrew Fuller,United Package,1998-03-02,1998-03-30,1998-03-04,28,2.0,26.0,1122.8
+10920,Around the Horn,Margaret Peacock,United Package,1998-03-03,1998-03-31,1998-03-09,28,6.0,22.0,390.0
+10921,Vaffeljernet,Nancy Davolio,Speedy Express,1998-03-03,1998-04-14,1998-03-09,42,6.0,36.0,1936.0
+10922,Hanari Carnes,Steven Buchanan,Federal Shipping,1998-03-03,1998-03-31,1998-03-05,28,2.0,26.0,742.5
+10923,La maison d'Asie,Robert King,Federal Shipping,1998-03-03,1998-04-14,1998-03-13,42,10.0,32.0,748.8
+10924,Berglunds snabbköp,Janet Leverling,United Package,1998-03-04,1998-04-01,1998-04-08,28,35.0,-7.0,1835.7
+10925,Hanari Carnes,Janet Leverling,Speedy Express,1998-03-04,1998-04-01,1998-03-13,28,9.0,19.0,475.15
+10926,Ana Trujillo Emparedados y helados,Margaret Peacock,Federal Shipping,1998-03-04,1998-04-01,1998-03-11,28,7.0,21.0,514.4
+10927,La corne d'abondance,Margaret Peacock,Speedy Express,1998-03-05,1998-04-02,1998-04-08,28,34.0,-6.0,800.0
+10928,Galería del gastrónomo,Nancy Davolio,Speedy Express,1998-03-05,1998-04-02,1998-03-18,28,13.0,15.0,137.5
+10929,Frankenversand,Michael Suyama,Speedy Express,1998-03-05,1998-04-02,1998-03-12,28,7.0,21.0,1174.75
+10930,Suprêmes délices,Margaret Peacock,Federal Shipping,1998-03-06,1998-04-17,1998-03-18,42,12.0,30.0,2255.5
+10931,Richter Supermarkt,Margaret Peacock,United Package,1998-03-06,1998-03-20,1998-03-19,14,13.0,1.0,799.2
+10932,Bon app',Laura Callahan,Speedy Express,1998-03-06,1998-04-03,1998-03-24,28,18.0,10.0,1788.63
+10933,Island Trading,Michael Suyama,Federal Shipping,1998-03-06,1998-04-03,1998-03-16,28,10.0,18.0,920.6
+10934,Lehmanns Marktstand,Janet Leverling,Federal Shipping,1998-03-09,1998-04-06,1998-03-12,28,3.0,25.0,500.0
+10935,Wellington Importadora,Margaret Peacock,Federal Shipping,1998-03-09,1998-04-06,1998-03-18,28,9.0,19.0,619.5
+10936,Great Lakes Food Market,Janet Leverling,United Package,1998-03-09,1998-04-06,1998-03-18,28,9.0,19.0,456.0
+10937,Cactus Comidas para llevar,Robert King,Federal Shipping,1998-03-10,1998-03-24,1998-03-13,14,3.0,11.0,644.8
+10938,QUICK-Stop,Janet Leverling,United Package,1998-03-10,1998-04-07,1998-03-16,28,6.0,22.0,2731.88
+10939,Magazzini Alimentari Riuniti,Andrew Fuller,United Package,1998-03-10,1998-04-07,1998-03-13,28,3.0,25.0,637.5
+10940,Bon app',Laura Callahan,Federal Shipping,1998-03-11,1998-04-08,1998-03-23,28,12.0,16.0,360.0
+10941,Save-a-lot Markets,Robert King,United Package,1998-03-11,1998-04-08,1998-03-20,28,9.0,19.0,4011.75
+10942,Reggiani Caseifici,Anne Dodsworth,Federal Shipping,1998-03-11,1998-04-08,1998-03-18,28,7.0,21.0,560.0
+10943,B's Beverages,Margaret Peacock,United Package,1998-03-11,1998-04-08,1998-03-19,28,8.0,20.0,711.0
+10944,Bottom-Dollar Markets,Michael Suyama,Federal Shipping,1998-03-12,1998-03-26,1998-03-13,14,1.0,13.0,1025.32
+10945,Morgenstern Gesundkost,Margaret Peacock,Speedy Express,1998-03-12,1998-04-09,1998-03-18,28,6.0,22.0,245.0
+10946,Vaffeljernet,Nancy Davolio,United Package,1998-03-12,1998-04-09,1998-03-19,28,7.0,21.0,1407.5
+10947,B's Beverages,Janet Leverling,United Package,1998-03-13,1998-04-10,1998-03-16,28,3.0,25.0,220.0
+10948,Godos Cocina Típica,Janet Leverling,Federal Shipping,1998-03-13,1998-04-10,1998-03-19,28,6.0,22.0,2362.25
+10949,Bottom-Dollar Markets,Andrew Fuller,Federal Shipping,1998-03-13,1998-04-10,1998-03-17,28,4.0,24.0,4422.0
+10950,Magazzini Alimentari Riuniti,Nancy Davolio,United Package,1998-03-16,1998-04-13,1998-03-23,28,7.0,21.0,110.0
+10951,Richter Supermarkt,Anne Dodsworth,United Package,1998-03-16,1998-04-27,1998-04-07,42,22.0,20.0,458.76
+10952,Alfreds Futterkiste,Nancy Davolio,Speedy Express,1998-03-16,1998-04-27,1998-03-24,42,8.0,34.0,471.2
+10953,Around the Horn,Anne Dodsworth,United Package,1998-03-16,1998-03-30,1998-03-25,14,9.0,5.0,4441.25
+10954,LINO-Delicateses,Steven Buchanan,Speedy Express,1998-03-17,1998-04-28,1998-03-20,42,3.0,39.0,1659.54
+10955,Folk och fä HB,Laura Callahan,United Package,1998-03-17,1998-04-14,1998-03-20,28,3.0,25.0,74.4
+10956,Blauer See Delikatessen,Michael Suyama,United Package,1998-03-17,1998-04-28,1998-03-20,42,3.0,39.0,677.0
+10957,HILARIÓN-Abastos,Laura Callahan,Federal Shipping,1998-03-18,1998-04-15,1998-03-27,28,9.0,19.0,1762.7
+10958,Océano Atlántico Ltda.,Robert King,United Package,1998-03-18,1998-04-15,1998-03-27,28,9.0,19.0,781.0
+10959,Gourmet Lanchonetes,Michael Suyama,United Package,1998-03-18,1998-04-29,1998-03-23,42,5.0,37.0,131.75
+10960,HILARIÓN-Abastos,Janet Leverling,Speedy Express,1998-03-19,1998-04-02,1998-04-08,14,20.0,-6.0,265.35
+10961,Queen Cozinha,Laura Callahan,Speedy Express,1998-03-19,1998-04-16,1998-03-30,28,11.0,17.0,1119.9
+10962,QUICK-Stop,Laura Callahan,United Package,1998-03-19,1998-04-16,1998-03-23,28,4.0,24.0,3584.0
+10963,Furia Bacalhau e Frutos do Mar,Anne Dodsworth,Federal Shipping,1998-03-19,1998-04-16,1998-03-26,28,7.0,21.0,57.8
+10964,Spécialités du monde,Janet Leverling,United Package,1998-03-20,1998-04-17,1998-03-24,28,4.0,24.0,2052.5
+10965,Old World Delicatessen,Michael Suyama,Federal Shipping,1998-03-20,1998-04-17,1998-03-30,28,10.0,18.0,848.0
+10966,Chop-suey Chinese,Margaret Peacock,Speedy Express,1998-03-20,1998-04-17,1998-04-08,28,19.0,9.0,1098.46
+10967,Toms Spezialitäten,Andrew Fuller,United Package,1998-03-23,1998-04-20,1998-04-02,28,10.0,18.0,910.4
+10968,Ernst Handel,Nancy Davolio,Federal Shipping,1998-03-23,1998-04-20,1998-04-01,28,9.0,19.0,1408.0
+10969,Comércio Mineiro,Nancy Davolio,United Package,1998-03-23,1998-04-20,1998-03-30,28,7.0,21.0,108.0
+10970,Bólido Comidas preparadas,Anne Dodsworth,Speedy Express,1998-03-24,1998-04-07,1998-04-24,14,31.0,-17.0,224.0
+10971,France restauration,Andrew Fuller,United Package,1998-03-24,1998-04-21,1998-04-02,28,9.0,19.0,1733.06
+10972,La corne d'abondance,Margaret Peacock,United Package,1998-03-24,1998-04-21,1998-03-26,28,2.0,26.0,251.5
+10973,La corne d'abondance,Michael Suyama,United Package,1998-03-24,1998-04-21,1998-03-27,28,3.0,25.0,291.55
+10974,Split Rail Beer & Ale,Janet Leverling,Federal Shipping,1998-03-25,1998-04-08,1998-04-03,14,9.0,5.0,439.0
+10975,Bottom-Dollar Markets,Nancy Davolio,Federal Shipping,1998-03-25,1998-04-22,1998-03-27,28,2.0,26.0,717.5
+10976,HILARIÓN-Abastos,Nancy Davolio,Speedy Express,1998-03-25,1998-05-06,1998-04-03,42,9.0,33.0,912.0
+10977,Folk och fä HB,Laura Callahan,Federal Shipping,1998-03-26,1998-04-23,1998-04-10,28,15.0,13.0,2233.0
+10978,Maison Dewey,Anne Dodsworth,United Package,1998-03-26,1998-04-23,1998-04-23,28,28.0,0.0,1303.2
+10979,Ernst Handel,Laura Callahan,United Package,1998-03-26,1998-04-23,1998-03-31,28,5.0,23.0,4813.5
+10980,Folk och fä HB,Margaret Peacock,Speedy Express,1998-03-27,1998-05-08,1998-04-17,42,21.0,21.0,248.0
+10981,Hanari Carnes,Nancy Davolio,United Package,1998-03-27,1998-04-24,1998-04-02,28,6.0,22.0,15810.0
+10982,Bottom-Dollar Markets,Andrew Fuller,Speedy Express,1998-03-27,1998-04-24,1998-04-08,28,12.0,16.0,1014.0
+10983,Save-a-lot Markets,Andrew Fuller,United Package,1998-03-27,1998-04-24,1998-04-06,28,10.0,18.0,720.9
+10984,Save-a-lot Markets,Nancy Davolio,Federal Shipping,1998-03-30,1998-04-27,1998-04-03,28,4.0,24.0,1809.75
+10985,Hungry Owl All-Night Grocers,Andrew Fuller,Speedy Express,1998-03-30,1998-04-27,1998-04-02,28,3.0,25.0,2023.38
+10986,Océano Atlántico Ltda.,Laura Callahan,United Package,1998-03-30,1998-04-27,1998-04-21,28,22.0,6.0,2220.0
+10987,Eastern Connection,Laura Callahan,Speedy Express,1998-03-31,1998-04-28,1998-04-06,28,6.0,22.0,2772.0
+10988,Rattlesnake Canyon Grocery,Janet Leverling,United Package,1998-03-31,1998-04-28,1998-04-10,28,10.0,18.0,3574.8
+10989,Que Delícia,Andrew Fuller,Speedy Express,1998-03-31,1998-04-28,1998-04-02,28,2.0,26.0,1353.6
+10990,Ernst Handel,Andrew Fuller,Federal Shipping,1998-04-01,1998-05-13,1998-04-07,42,6.0,36.0,4288.85
+10991,QUICK-Stop,Nancy Davolio,Speedy Express,1998-04-01,1998-04-29,1998-04-07,28,6.0,22.0,2296.0
+10992,The Big Cheese,Nancy Davolio,Federal Shipping,1998-04-01,1998-04-29,1998-04-03,28,2.0,26.0,69.6
+10993,Folk och fä HB,Robert King,Federal Shipping,1998-04-01,1998-04-29,1998-04-10,28,9.0,19.0,4895.44
+10994,Vaffeljernet,Andrew Fuller,Federal Shipping,1998-04-02,1998-04-16,1998-04-09,14,7.0,7.0,940.5
+10995,Pericles Comidas clásicas,Nancy Davolio,Federal Shipping,1998-04-02,1998-04-30,1998-04-06,28,4.0,24.0,1196.0
+10996,QUICK-Stop,Margaret Peacock,United Package,1998-04-02,1998-04-30,1998-04-10,28,8.0,20.0,560.0
+10997,LILA-Supermercado,Laura Callahan,United Package,1998-04-03,1998-05-15,1998-04-13,42,10.0,32.0,1885.0
+10998,Wolski  Zajazd,Laura Callahan,United Package,1998-04-03,1998-04-17,1998-04-17,14,14.0,0.0,686.0
+10999,Ottilies Käseladen,Michael Suyama,United Package,1998-04-03,1998-05-01,1998-04-10,28,7.0,21.0,1197.95
+11000,Rattlesnake Canyon Grocery,Andrew Fuller,Federal Shipping,1998-04-06,1998-05-04,1998-04-14,28,8.0,20.0,903.75
+11001,Folk och fä HB,Andrew Fuller,United Package,1998-04-06,1998-05-04,1998-04-14,28,8.0,20.0,2769.0
+11002,Save-a-lot Markets,Margaret Peacock,Speedy Express,1998-04-06,1998-05-04,1998-04-16,28,10.0,18.0,1811.1
+11003,The Cracker Box,Janet Leverling,Federal Shipping,1998-04-06,1998-05-04,1998-04-08,28,2.0,26.0,326.0
+11004,Maison Dewey,Janet Leverling,Speedy Express,1998-04-07,1998-05-05,1998-04-20,28,13.0,15.0,295.38
+11005,Wilman Kala,Andrew Fuller,Speedy Express,1998-04-07,1998-05-05,1998-04-10,28,3.0,25.0,586.0
+11006,Great Lakes Food Market,Janet Leverling,United Package,1998-04-07,1998-05-05,1998-04-15,28,8.0,20.0,329.68
+11007,Princesa Isabel Vinhos,Laura Callahan,United Package,1998-04-08,1998-05-06,1998-04-13,28,5.0,23.0,2633.9
+11009,Godos Cocina Típica,Andrew Fuller,Speedy Express,1998-04-08,1998-05-06,1998-04-10,28,2.0,26.0,616.5
+11010,Reggiani Caseifici,Andrew Fuller,United Package,1998-04-09,1998-05-07,1998-04-21,28,12.0,16.0,645.0
+11011,Alfreds Futterkiste,Janet Leverling,Speedy Express,1998-04-09,1998-05-07,1998-04-13,28,4.0,24.0,933.5
+11012,Frankenversand,Nancy Davolio,Federal Shipping,1998-04-09,1998-04-23,1998-04-17,14,8.0,6.0,2825.3
+11013,Romero y tomillo,Andrew Fuller,Speedy Express,1998-04-09,1998-05-07,1998-04-10,28,1.0,27.0,361.0
+11014,LINO-Delicateses,Andrew Fuller,Federal Shipping,1998-04-10,1998-05-08,1998-04-15,28,5.0,23.0,243.18
+11015,Santé Gourmet,Andrew Fuller,United Package,1998-04-10,1998-04-24,1998-04-20,14,10.0,4.0,622.35
+11016,Around the Horn,Anne Dodsworth,United Package,1998-04-10,1998-05-08,1998-04-13,28,3.0,25.0,491.5
+11017,Ernst Handel,Anne Dodsworth,United Package,1998-04-13,1998-05-11,1998-04-20,28,7.0,21.0,6750.0
+11018,Lonesome Pine Restaurant,Margaret Peacock,United Package,1998-04-13,1998-05-11,1998-04-16,28,3.0,25.0,1575.0
+11020,Ottilies Käseladen,Andrew Fuller,United Package,1998-04-14,1998-05-12,1998-04-16,28,2.0,26.0,632.4
+11021,QUICK-Stop,Janet Leverling,Speedy Express,1998-04-14,1998-05-12,1998-04-21,28,7.0,21.0,6306.24
+11022,Hanari Carnes,Anne Dodsworth,United Package,1998-04-14,1998-05-12,1998-05-04,28,20.0,8.0,1402.0
+11023,B's Beverages,Nancy Davolio,United Package,1998-04-14,1998-04-28,1998-04-24,14,10.0,4.0,1500.0
+11024,Eastern Connection,Margaret Peacock,Speedy Express,1998-04-15,1998-05-13,1998-04-20,28,5.0,23.0,1966.81
+11025,Wartian Herkku,Michael Suyama,Federal Shipping,1998-04-15,1998-05-13,1998-04-24,28,9.0,19.0,270.0
+11026,Franchi S.p.A.,Margaret Peacock,Speedy Express,1998-04-15,1998-05-13,1998-04-28,28,13.0,15.0,1030.0
+11027,Bottom-Dollar Markets,Nancy Davolio,Speedy Express,1998-04-16,1998-05-14,1998-04-20,28,4.0,24.0,877.72
+11028,Königlich Essen,Andrew Fuller,Speedy Express,1998-04-16,1998-05-14,1998-04-22,28,6.0,22.0,2160.0
+11029,Chop-suey Chinese,Margaret Peacock,Speedy Express,1998-04-16,1998-05-14,1998-04-27,28,11.0,17.0,1286.8
+11030,Save-a-lot Markets,Robert King,United Package,1998-04-17,1998-05-15,1998-04-27,28,10.0,18.0,12615.05
+11031,Save-a-lot Markets,Michael Suyama,United Package,1998-04-17,1998-05-15,1998-04-24,28,7.0,21.0,2393.5
+11032,White Clover Markets,Andrew Fuller,Federal Shipping,1998-04-17,1998-05-15,1998-04-23,28,6.0,22.0,8902.5
+11033,Richter Supermarkt,Robert King,Federal Shipping,1998-04-17,1998-05-15,1998-04-23,28,6.0,22.0,3232.8
+11034,Old World Delicatessen,Laura Callahan,Speedy Express,1998-04-20,1998-06-01,1998-04-27,42,7.0,35.0,539.4
+11035,Suprêmes délices,Andrew Fuller,United Package,1998-04-20,1998-05-18,1998-04-24,28,4.0,24.0,1754.5
+11036,Drachenblut Delikatessen,Laura Callahan,Federal Shipping,1998-04-20,1998-05-18,1998-04-22,28,2.0,26.0,1692.0
+11037,Godos Cocina Típica,Robert King,Speedy Express,1998-04-21,1998-05-19,1998-04-27,28,6.0,22.0,60.0
+11038,Suprêmes délices,Nancy Davolio,United Package,1998-04-21,1998-05-19,1998-04-30,28,9.0,19.0,732.6
+11041,Chop-suey Chinese,Janet Leverling,United Package,1998-04-22,1998-05-20,1998-04-28,28,6.0,22.0,1773.0
+11042,Comércio Mineiro,Andrew Fuller,Speedy Express,1998-04-22,1998-05-06,1998-05-01,14,9.0,5.0,405.75
+11043,Spécialités du monde,Steven Buchanan,United Package,1998-04-22,1998-05-20,1998-04-29,28,7.0,21.0,210.0
+11044,Wolski  Zajazd,Margaret Peacock,Speedy Express,1998-04-23,1998-05-21,1998-05-01,28,8.0,20.0,591.6
+11046,Die Wandernde Kuh,Laura Callahan,United Package,1998-04-23,1998-05-21,1998-04-24,28,1.0,27.0,1485.8
+11047,Eastern Connection,Robert King,Federal Shipping,1998-04-24,1998-05-22,1998-05-01,28,7.0,21.0,817.88
+11048,Bottom-Dollar Markets,Robert King,Federal Shipping,1998-04-24,1998-05-22,1998-04-30,28,6.0,22.0,525.0
+11049,Gourmet Lanchonetes,Janet Leverling,Speedy Express,1998-04-24,1998-05-22,1998-05-04,28,10.0,18.0,273.6
+11050,Folk och fä HB,Laura Callahan,United Package,1998-04-27,1998-05-25,1998-05-05,28,8.0,20.0,810.0
+11052,Hanari Carnes,Janet Leverling,Speedy Express,1998-04-27,1998-05-25,1998-05-01,28,4.0,24.0,1332.0
+11053,Piccolo und mehr,Andrew Fuller,United Package,1998-04-27,1998-05-25,1998-04-29,28,2.0,26.0,3055.0
+11055,HILARIÓN-Abastos,Robert King,United Package,1998-04-28,1998-05-26,1998-05-05,28,7.0,21.0,1727.5
+11056,Eastern Connection,Laura Callahan,United Package,1998-04-28,1998-05-12,1998-05-01,14,3.0,11.0,3740.0
+11057,North/South,Janet Leverling,Federal Shipping,1998-04-29,1998-05-27,1998-05-01,28,2.0,26.0,45.0
+11060,Franchi S.p.A.,Andrew Fuller,United Package,1998-04-30,1998-05-28,1998-05-04,28,4.0,24.0,266.0
+11063,Hungry Owl All-Night Grocers,Janet Leverling,United Package,1998-04-30,1998-05-28,1998-05-06,28,6.0,22.0,1342.95
+11064,Save-a-lot Markets,Nancy Davolio,Speedy Express,1998-05-01,1998-05-29,1998-05-04,28,3.0,25.0,4330.4
+11066,White Clover Markets,Robert King,United Package,1998-05-01,1998-05-29,1998-05-04,28,3.0,25.0,928.75
+11067,Drachenblut Delikatessen,Nancy Davolio,United Package,1998-05-04,1998-05-18,1998-05-06,14,2.0,12.0,86.85
+11069,Tortuga Restaurante,Nancy Davolio,United Package,1998-05-04,1998-06-01,1998-05-06,28,2.0,26.0,360.0

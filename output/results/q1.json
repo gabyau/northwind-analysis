@@ -1,0 +1,24 @@
+{
+  "median_reps_per_customer": 5.0,
+  "total_discount": 88665.55050000001,
+  "overall_discount_rate": 0.06546198691833023,
+  "customers_compared": 54,
+  "top_rep": "Robert King",
+  "top_rep_extra_discount": 5679.612941811675,
+  "top_rep_customers_above": 19,
+  "top_rep_customers": 33,
+  "runner_up": "Margaret Peacock",
+  "runner_up_extra_discount": 1943.8846292095525,
+  "reps_above_norm": 4,
+  "extra_discount_by_rep": {
+    "Janet Leverling": -3375.067537194648,
+    "Laura Callahan": -2149.3871234041208,
+    "Michael Suyama": -1729.3022661368555,
+    "Nancy Davolio": -1518.076227001311,
+    "Andrew Fuller": -750.5559287709636,
+    "Anne Dodsworth": 860.1089654849009,
+    "Steven Buchanan": 1038.782546001769,
+    "Margaret Peacock": 1943.8846292095525,
+    "Robert King": 5679.612941811675
+  }
+}

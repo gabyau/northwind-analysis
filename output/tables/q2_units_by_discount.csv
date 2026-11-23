@@ -1,0 +1,5 @@
+Depth,Customers,FullPriceUnits,DiscountedUnits,AvgDiscount,CustomersBuyingMore,Lift,BreakEvenUnits
+About 5%,45,61.4605,63.7322,0.0431,25,0.037,64.2305
+About 10%,46,64.4445,67.0145,0.0995,23,0.0399,71.5654
+15–20%,48,64.6611,64.9719,0.1687,24,0.0048,77.7858
+About 25%,25,70.638,77.8,0.247,13,0.1014,93.8056
