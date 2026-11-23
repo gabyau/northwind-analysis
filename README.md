@@ -3,7 +3,7 @@
 Analysis of the Northwind sample database, a fictional specialty-foods
 wholesaler, with orders from July 1996 to May 1998.
 
-- **Webpage:** _link to be added_
+- **Webpage:** https://gabyau.github.io/northwind-analysis/
 - **Data source:** [Northwind Database (Google Sheet)](https://docs.google.com/spreadsheets/d/1mD4Hn4NZdJlXMC4EJcSp27vg-_jbxUYJ95vQvMbSpVM/edit?usp=sharing)
 
 ## Reproduce the results

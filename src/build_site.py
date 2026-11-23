@@ -10,7 +10,7 @@ from common import RESULT_DIR, ROOT, load_lines
 
 SITE_DIR = ROOT / "docs"
 # Set to the public GitHub repository URL once it exists.
-REPO_URL = ""
+REPO_URL = "https://github.com/gabyau/northwind-analysis"
 DATA_URL = ("https://docs.google.com/spreadsheets/d/"
             "1mD4Hn4NZdJlXMC4EJcSp27vg-_jbxUYJ95vQvMbSpVM/edit?usp=sharing")
 CHART_CONFIG = {"displayModeBar": False, "responsive": True}
@@ -301,6 +301,8 @@ def main(figures=None):
     html = page(load_results(), overview(), figures)
     out = SITE_DIR / "index.html"
     out.write_text(html, encoding="utf-8")
+    # Tell GitHub Pages to serve the files as-is, without Jekyll.
+    (SITE_DIR / ".nojekyll").touch()
     print(f"Wrote {out.relative_to(ROOT)} ({len(html) / 1024:.0f} KB).")
 
 
